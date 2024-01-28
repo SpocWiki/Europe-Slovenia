@@ -1,5 +1,5 @@
 ﻿---
-location: [45.48,13.62]
+location: [45.48,13.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.62]
-[geo-lat::45.48]
-[name::Sicciole]
-[State::]
-[Country::[[Italy]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.62] 
+[geo-lat::45.48] 
+[name::Sicciole] 
+State ::  
+Country :: [[../../../../../../Europe~South/Italy]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sicciole
-coordinates: [[Sicciole]]
-markerFile: [[Sicciole]]
+coordinates: [[Sicciole]] 
+markerFile: [[Sicciole]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

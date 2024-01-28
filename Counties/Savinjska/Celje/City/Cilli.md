@@ -1,5 +1,5 @@
 ﻿---
-location: [46.27,15.25]
+location: [46.27,15.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.25]
-[geo-lat::46.27]
-[name::Cilli]
-[State::]
-[Country[[../../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.25] 
+[geo-lat::46.27] 
+[name::Cilli] 
+State ::  
+Country :: [[../../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Cilli
-coordinates: [[Cilli]]
-markerFile: [[Cilli]]
+coordinates: [[Cilli]] 
+markerFile: [[Cilli]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

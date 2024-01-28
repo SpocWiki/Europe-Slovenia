@@ -1,5 +1,5 @@
 ﻿---
-location: [45.9,14.85]
+location: [45.9,14.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.85]
-[geo-lat::45.9]
-[name::Clusone]
-[State::]
-[Country::[[Italy]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.85] 
+[geo-lat::45.9] 
+[name::Clusone] 
+State ::  
+Country :: [[../../../../../../Europe~South/Italy]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Clusone
-coordinates: [[Clusone]]
-markerFile: [[Clusone]]
+coordinates: [[Clusone]] 
+markerFile: [[Clusone]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

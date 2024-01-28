@@ -1,5 +1,5 @@
 ﻿---
-location: [46.42,16.2]
+location: [46.42,16.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.2]
-[geo-lat::46.42]
-[name::Kulmberg]
-[State::]
-[Country[[../../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.2] 
+[geo-lat::46.42] 
+[name::Kulmberg] 
+State ::  
+Country :: [[../../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kulmberg
-coordinates: [[Kulmberg]]
-markerFile: [[Kulmberg]]
+coordinates: [[Kulmberg]] 
+markerFile: [[Kulmberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

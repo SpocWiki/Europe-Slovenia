@@ -1,5 +1,5 @@
 ﻿---
-location: [45.9,15.6]
+location: [45.9,15.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.6]
-[geo-lat::45.9]
-[name::Rann]
-[State::]
-[Country[[../../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.6] 
+[geo-lat::45.9] 
+[name::Rann] 
+State ::  
+Country :: [[../../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rann
-coordinates: [[Rann]]
-markerFile: [[Rann]]
+coordinates: [[Rann]] 
+markerFile: [[Rann]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

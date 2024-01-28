@@ -1,5 +1,5 @@
 ﻿---
-location: [45.93,13.67]
+location: [45.93,13.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.67]
-[geo-lat::45.93]
-[name::Goriza]
-[State::]
-[Country::[[Italy]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.67] 
+[geo-lat::45.93] 
+[name::Goriza] 
+State ::  
+Country :: [[../../../../../../Europe~South/Italy]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Goriza
-coordinates: [[Goriza]]
-markerFile: [[Goriza]]
+coordinates: [[Goriza]] 
+markerFile: [[Goriza]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

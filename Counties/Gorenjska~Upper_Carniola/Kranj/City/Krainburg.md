@@ -1,5 +1,5 @@
 ﻿---
-location: [46.23,14.35]
+location: [46.23,14.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.35]
-[geo-lat::46.23]
-[name::Krainburg]
-[State::]
-[Country[[../../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.35] 
+[geo-lat::46.23] 
+[name::Krainburg] 
+State ::  
+Country :: [[../../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Krainburg
-coordinates: [[Krainburg]]
-markerFile: [[Krainburg]]
+coordinates: [[Krainburg]] 
+markerFile: [[Krainburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

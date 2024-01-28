@@ -1,5 +1,5 @@
 ﻿---
-location: [46.55,16.22]
+location: [46.55,16.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.22]
-[geo-lat::46.55]
-[name::Cven]
-[State::]
-[Country[[../../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.22] 
+[geo-lat::46.55] 
+[name::Cven] 
+State ::  
+Country :: [[../../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Cven
-coordinates: [[Cven]]
-markerFile: [[Cven]]
+coordinates: [[Cven]] 
+markerFile: [[Cven]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

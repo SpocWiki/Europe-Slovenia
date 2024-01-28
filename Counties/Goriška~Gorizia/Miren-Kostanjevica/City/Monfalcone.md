@@ -1,5 +1,5 @@
 ﻿---
-location: [45.82,13.58]
+location: [45.82,13.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.58]
-[geo-lat::45.82]
-[name::Monfalcone]
-[State::]
-[Country::[[Italy]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.58] 
+[geo-lat::45.82] 
+[name::Monfalcone] 
+State ::  
+Country :: [[../../../../../../Europe~South/Italy]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Monfalcone
-coordinates: [[Monfalcone]]
-markerFile: [[Monfalcone]]
+coordinates: [[Monfalcone]] 
+markerFile: [[Monfalcone]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

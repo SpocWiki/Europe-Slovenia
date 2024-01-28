@@ -1,5 +1,5 @@
 ﻿---
-location: [45.5,13.72]
+location: [45.5,13.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.72]
-[geo-lat::45.5]
-[name::Citta Nuova]
-[State::]
-[Country::[[Italy]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.72] 
+[geo-lat::45.5] 
+[name::Citta Nuova] 
+State ::  
+Country :: [[../../../../../../Europe~South/Italy]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Citta Nuova
-coordinates: [[Citta_Nuova]]
-markerFile: [[Citta_Nuova]]
+coordinates: [[Citta_Nuova]] 
+markerFile: [[Citta_Nuova]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

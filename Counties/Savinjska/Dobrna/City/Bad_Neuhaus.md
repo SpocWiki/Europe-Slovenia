@@ -1,5 +1,5 @@
 ﻿---
-location: [46.33,15.2]
+location: [46.33,15.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.2]
-[geo-lat::46.33]
-[name::Bad Neuhaus]
-[State::]
-[Country[[../../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.2] 
+[geo-lat::46.33] 
+[name::Bad Neuhaus] 
+State ::  
+Country :: [[../../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bad Neuhaus
-coordinates: [[Bad_Neuhaus]]
-markerFile: [[Bad_Neuhaus]]
+coordinates: [[Bad_Neuhaus]] 
+markerFile: [[Bad_Neuhaus]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

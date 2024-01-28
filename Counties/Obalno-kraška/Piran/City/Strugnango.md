@@ -1,5 +1,5 @@
 ﻿---
-location: [45.53,13.6]
+location: [45.53,13.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.6]
-[geo-lat::45.53]
-[name::Strugnango]
-[State::]
-[Country::[[Italy]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.6] 
+[geo-lat::45.53] 
+[name::Strugnango] 
+State ::  
+Country :: [[../../../../../../Europe~South/Italy]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Strugnango
-coordinates: [[Strugnango]]
-markerFile: [[Strugnango]]
+coordinates: [[Strugnango]] 
+markerFile: [[Strugnango]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

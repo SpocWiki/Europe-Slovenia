@@ -1,5 +1,5 @@
 ﻿---
-location: [46.05,14.52]
+location: [46.05,14.52] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.52]
-[geo-lat::46.05]
-[name::Laibach=Ljubljana]
-[State::]
-[Country[[../../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.52] 
+[geo-lat::46.05] 
+[name::Laibach=Ljubljana] 
+State ::  
+Country :: [[../../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Laibach=Ljubljana
-coordinates: [[Laibach=Ljubljana]]
-markerFile: [[Laibach=Ljubljana]]
+coordinates: [[Laibach=Ljubljana]] 
+markerFile: [[Laibach=Ljubljana]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

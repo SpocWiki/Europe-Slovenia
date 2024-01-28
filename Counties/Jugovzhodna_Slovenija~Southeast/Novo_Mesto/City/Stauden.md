@@ -1,5 +1,5 @@
 ﻿---
-location: [45.78,15.17]
+location: [45.78,15.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.17]
-[geo-lat::45.78]
-[name::Stauden]
-[State::]
-[Country[[../../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.17] 
+[geo-lat::45.78] 
+[name::Stauden] 
+State ::  
+Country :: [[../../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stauden
-coordinates: [[Stauden]]
-markerFile: [[Stauden]]
+coordinates: [[Stauden]] 
+markerFile: [[Stauden]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

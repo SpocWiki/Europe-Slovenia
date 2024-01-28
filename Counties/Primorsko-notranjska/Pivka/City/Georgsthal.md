@@ -1,5 +1,5 @@
 ﻿---
-location: [45.7,14.37]
+location: [45.7,14.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.37]
-[geo-lat::45.7]
-[name::Georgsthal]
-[State::]
-[Country[[../../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.37] 
+[geo-lat::45.7] 
+[name::Georgsthal] 
+State ::  
+Country :: [[../../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Georgsthal
-coordinates: [[Georgsthal]]
-markerFile: [[Georgsthal]]
+coordinates: [[Georgsthal]] 
+markerFile: [[Georgsthal]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
