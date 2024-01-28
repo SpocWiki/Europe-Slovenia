@@ -110,8 +110,8 @@ id: Slovenia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Slovenia///
-markerFolder: ./Slovenia//
+geojsonFolder: .///
+markerFolder: .//
 ```
 
 [name-en::Slovenia] 
