@@ -120,7 +120,7 @@ markerFolder: .//
 [Area-Land::20120] 
 Continent :: [[Europe]]  
 [VehicleCode::SLO] 
-Capital :: [[Ljubliana]]  
+Capital :: [[Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]  
 ![[Coat_of_arms_of_Slovenia.svg|350]] 
 ![[Anthem-Slovenia.mp3]] 
 ![[Flag_of_Slovenia.svg|350]] 
