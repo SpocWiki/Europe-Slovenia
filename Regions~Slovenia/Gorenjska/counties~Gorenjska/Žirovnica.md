@@ -27,13 +27,21 @@ publishDate:
 expiryDate: 
 ---
 
-# Žirovnica
+# [[Žirovnica]] 
+
+
+## #has_/map 
 
 ```leaflet
-id: Žirovnica
-zoomFeatures: true 
+lat: 46.41
+long: 14.16
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 12
+zoomFeatures: false 
+id: Žirovnica
 geojsonFolder: ./Žirovnica/
 markerFolder: ./Žirovnica/
 ```

@@ -27,13 +27,21 @@ publishDate:
 expiryDate: 
 ---
 
-# Radovljica
+# [[Radovljica]] 
+
+
+## #has_/map 
 
 ```leaflet
-id: Radovljica
-zoomFeatures: true 
+lat: 46.3
+long: 14.2
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
+id: Radovljica
 geojsonFolder: ./Radovljica/
 markerFolder: ./Radovljica/
 ```

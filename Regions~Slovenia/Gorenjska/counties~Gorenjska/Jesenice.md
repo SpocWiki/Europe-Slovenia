@@ -29,11 +29,18 @@ expiryDate:
 
 # Jesenice
 
+## #has_/map 
+
 ```leaflet
-id: Jesenice
-zoomFeatures: true 
+id: Kranjska_Gora
+lat: 46.44
+long: 14.07
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
 geojsonFolder: ./Jesenice/
 markerFolder: ./Jesenice/
 ```

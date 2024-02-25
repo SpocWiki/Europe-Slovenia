@@ -29,11 +29,16 @@ expiryDate:
 
 # Cerklje_na_Gorenjskem
 
+## #has_/map 
+
 ```leaflet
-id: Cerklje_na_Gorenjskem
-zoomFeatures: true 
+id: Kranjska_Gora
+lat: 46.26
+long: 14.51
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
 geojsonFolder: ./Cerklje_na_Gorenjskem/
 markerFolder: ./Cerklje_na_Gorenjskem/
 ```

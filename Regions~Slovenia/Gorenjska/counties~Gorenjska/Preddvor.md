@@ -29,11 +29,19 @@ expiryDate:
 
 # Preddvor
 
+
+## #has_/map 
+
 ```leaflet
-id: Preddvor
-zoomFeatures: true 
+lat: 46.3
+long: 14.5
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
+id: Preddvor
 geojsonFolder: ./Preddvor/
 markerFolder: ./Preddvor/
 ```

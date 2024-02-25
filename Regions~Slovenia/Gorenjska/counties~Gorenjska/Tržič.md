@@ -27,13 +27,21 @@ publishDate:
 expiryDate: 
 ---
 
-# Tržič
+# [[Tržič]] 
+
+
+## #has_/map 
 
 ```leaflet
-id: Tržič
-zoomFeatures: true 
+lat: 46.4
+long: 14.3
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
+id: Tržič
 geojsonFolder: ./Tržič/
 markerFolder: ./Tržič/
 ```

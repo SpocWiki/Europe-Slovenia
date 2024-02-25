@@ -27,15 +27,22 @@ publishDate:
 expiryDate: 
 ---
 
-# Kranjska_Gora
+# [[Kranjska_Gora]]
+
+## #has_/map 
 
 ```leaflet
 id: Kranjska_Gora
-zoomFeatures: true 
+lat: 46.45
+long: 13.84
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Kranjska_Gora/
-markerFolder: ./Kranjska_Gora/
+defaultZoom: 11
+zoomFeatures: false 
+geojsonFolder: ./Kranjska_Gora//
+markerFolder: ./Kranjska_Gora//
+unit: meters
+scale: 1
 ```
 
 

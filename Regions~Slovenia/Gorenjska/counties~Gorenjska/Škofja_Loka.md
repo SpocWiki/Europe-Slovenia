@@ -29,11 +29,19 @@ expiryDate:
 
 # Škofja_Loka
 
+
+## #has_/map 
+
 ```leaflet
-id: Škofja_Loka
-zoomFeatures: true 
+lat: 46.2
+long: 14.3
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
+id: Škofja_Loka
 geojsonFolder: ./Škofja_Loka/
 markerFolder: ./Škofja_Loka/
 ```

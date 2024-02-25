@@ -29,11 +29,17 @@ expiryDate:
 
 # Bohinj
 
+
+## #has_/map 
+
 ```leaflet
-id: Bohinj
-zoomFeatures: true 
+id: Kranjska_Gora
+lat: 46.3
+long: 13.9
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
 geojsonFolder: ./Bohinj/
 markerFolder: ./Bohinj/
 ```

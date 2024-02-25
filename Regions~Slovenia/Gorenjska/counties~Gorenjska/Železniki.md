@@ -27,13 +27,21 @@ publishDate:
 expiryDate: 
 ---
 
-# Železniki
+# [[Železniki]] 
+
+
+## #has_/map 
 
 ```leaflet
-id: Železniki
-zoomFeatures: true 
+lat: 46.2
+long: 14.1
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
+id: Železniki
 geojsonFolder: ./Železniki/
 markerFolder: ./Železniki/
 ```

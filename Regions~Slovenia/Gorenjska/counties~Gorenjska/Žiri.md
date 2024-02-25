@@ -27,13 +27,21 @@ publishDate:
 expiryDate: 
 ---
 
-# Žiri
+# [[Žiri]] 
+
+
+## #has_/map 
 
 ```leaflet
-id: Žiri
-zoomFeatures: true 
+lat: 46.04
+long: 14.12
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
+id: Žiri
 geojsonFolder: ./Žiri/
 markerFolder: ./Žiri/
 ```

@@ -27,13 +27,21 @@ publishDate:
 expiryDate: 
 ---
 
-# Šenčur
+# [[Šenčur]] 
+
+
+## #has_/map 
 
 ```leaflet
-id: Šenčur
-zoomFeatures: true 
+lat: 46.25
+long: 14.42
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
+id: Šenčur
 geojsonFolder: ./Šenčur/
 markerFolder: ./Šenčur/
 ```

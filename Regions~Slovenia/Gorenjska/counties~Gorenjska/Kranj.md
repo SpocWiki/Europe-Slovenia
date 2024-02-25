@@ -27,13 +27,21 @@ publishDate:
 expiryDate: 
 ---
 
-# Kranj
+# [[Kranj]] 
+
+
+## #has_/map 
 
 ```leaflet
-id: Kranj
-zoomFeatures: true 
+lat: 46.26
+long: 14.26
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
+id: Kranj
 geojsonFolder: ./Kranj/
 markerFolder: ./Kranj/
 ```

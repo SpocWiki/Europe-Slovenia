@@ -29,11 +29,19 @@ expiryDate:
 
 # Naklo
 
+
+## #has_/map 
+
 ```leaflet
-id: Naklo
-zoomFeatures: true 
+lat: 46.29
+long: 14.29
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 12
+zoomFeatures: false 
+id: Naklo
 geojsonFolder: ./Naklo/
 markerFolder: ./Naklo/
 ```

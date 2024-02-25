@@ -29,11 +29,17 @@ expiryDate:
 
 # Bled
 
+
+## #has_/map 
+
 ```leaflet
-id: Bled
-zoomFeatures: true 
+id: Kranjska_Gora
+lat: 46.4
+long: 14
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
 geojsonFolder: ./Bled/
 markerFolder: ./Bled/
 ```

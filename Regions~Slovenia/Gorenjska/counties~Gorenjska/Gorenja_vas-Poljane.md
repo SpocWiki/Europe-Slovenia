@@ -27,15 +27,23 @@ publishDate:
 expiryDate: 
 ---
 
-# Gorenja_vas-Poljane
+# [[Gorenja_Vas-Poljane]] 
+
+
+## #has_/map 
 
 ```leaflet
-id: Gorenja_vas-Poljane
-zoomFeatures: true 
+lat: 46.1
+long: 14.1
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Gorenja_vas-Poljane/
-markerFolder: ./Gorenja_vas-Poljane/
+defaultZoom: 11
+zoomFeatures: false 
+id: Gorenja_vas-Poljane
+geojsonFolder: ./Gorenja_Vas-Poljane/
+markerFolder: ./Gorenja_Vas-Poljane/
 ```
 
 

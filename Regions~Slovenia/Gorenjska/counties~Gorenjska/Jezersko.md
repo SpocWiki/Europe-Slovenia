@@ -29,11 +29,18 @@ expiryDate:
 
 # Jezersko
 
+## #has_/map 
+
 ```leaflet
-id: Jezersko
-zoomFeatures: true 
+id: Kranjska_Gora
+lat: 46.4
+long: 14.5
+unit: meters
+scale: 1
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+zoomFeatures: false 
 geojsonFolder: ./Jezersko/
 markerFolder: ./Jezersko/
 ```
