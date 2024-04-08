@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.17] 
-[geo-lat::45.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.17] 
+[has_place_latitude::45.78] 
 [name::Stauden] 
 State ::  
 Country :: [[../../../../../../Europe~South/Yugoslavia]] 

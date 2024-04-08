@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.58] 
-[geo-lat::45.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.58] 
+[has_place_latitude::45.82] 
 [name::Monfalcone] 
 State ::  
 Country :: [[../../../../../../Europe~South/Italy]] 

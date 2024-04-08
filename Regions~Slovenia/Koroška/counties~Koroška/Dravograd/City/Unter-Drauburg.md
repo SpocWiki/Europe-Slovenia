@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.02] 
-[geo-lat::46.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.02] 
+[has_place_latitude::46.58] 
 [name::Unter-Drauburg] 
 State ::  
 Country :: [[../../../../../../Europe~South/Yugoslavia]] 

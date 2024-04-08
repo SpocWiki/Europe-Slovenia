@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.72] 
-[geo-lat::45.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.72] 
+[has_place_latitude::45.5] 
 [name::Citta Nuova] 
 State ::  
 Country :: [[../../../../../../Europe~South/Italy]] 
