@@ -41,15 +41,17 @@ markerFolder: ./Cerknica/
 
 ## Confidential Links & Embeds: 
 
-### [Cerknica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaCerknica.public.md) 
+### [Cerknica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Cerknica.md) 
 
-### [Cerknica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaCerknica.internal.md) 
+### [Cerknica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Cerknica.public.md) 
 
-### [Cerknica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaCerknica.protect.md) 
+### [Cerknica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Cerknica.internal.md) 
 
-### [Cerknica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaCerknica.private.md) 
+### [Cerknica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Cerknica.protect.md) 
 
-### [Cerknica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaCerknica.personal.md) 
+### [Cerknica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Cerknica.private.md) 
 
-### [Cerknica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaCerknica.secret.md)
+### [Cerknica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Cerknica.personal.md) 
+
+### [Cerknica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Cerknica.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Lenart/
 
 ## Confidential Links & Embeds: 
 
-### [Lenart.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLenart.public.md) 
+### [Lenart](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lenart.md) 
 
-### [Lenart.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLenart.internal.md) 
+### [Lenart.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lenart.public.md) 
 
-### [Lenart.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLenart.protect.md) 
+### [Lenart.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lenart.internal.md) 
 
-### [Lenart.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLenart.private.md) 
+### [Lenart.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lenart.protect.md) 
 
-### [Lenart.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLenart.personal.md) 
+### [Lenart.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lenart.private.md) 
 
-### [Lenart.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLenart.secret.md)
+### [Lenart.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lenart.personal.md) 
+
+### [Lenart.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lenart.secret.md)
 

@@ -24,18 +24,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Zasavska.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaZasavska.public.md) 
+### [Zasavska](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska.md) 
 
-### [Zasavska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaZasavska.internal.md) 
+### [Zasavska.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska.public.md) 
 
-### [Zasavska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaZasavska.protect.md) 
+### [Zasavska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska.internal.md) 
 
-### [Zasavska.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaZasavska.private.md) 
+### [Zasavska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska.protect.md) 
 
-### [Zasavska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaZasavska.personal.md) 
+### [Zasavska.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska.private.md) 
 
-### [Zasavska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaZasavska.secret.md)
+### [Zasavska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska.personal.md) 
+
+### [Zasavska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Ptuj/
 
 ## Confidential Links & Embeds: 
 
-### [Ptuj.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPtuj.public.md) 
+### [Ptuj](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ptuj.md) 
 
-### [Ptuj.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPtuj.internal.md) 
+### [Ptuj.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ptuj.public.md) 
 
-### [Ptuj.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPtuj.protect.md) 
+### [Ptuj.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ptuj.internal.md) 
 
-### [Ptuj.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPtuj.private.md) 
+### [Ptuj.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ptuj.protect.md) 
 
-### [Ptuj.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPtuj.personal.md) 
+### [Ptuj.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ptuj.private.md) 
 
-### [Ptuj.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPtuj.secret.md)
+### [Ptuj.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ptuj.personal.md) 
+
+### [Ptuj.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ptuj.secret.md)
 

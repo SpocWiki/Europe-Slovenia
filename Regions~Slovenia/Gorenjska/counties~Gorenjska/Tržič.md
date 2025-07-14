@@ -49,15 +49,17 @@ markerFolder: ./Tržič/
 
 ## Confidential Links & Embeds: 
 
-### [Tržič.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaTržič.public.md) 
+### [Tržič](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Tržič.md) 
 
-### [Tržič.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaTržič.internal.md) 
+### [Tržič.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Tržič.public.md) 
 
-### [Tržič.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaTržič.protect.md) 
+### [Tržič.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Tržič.internal.md) 
 
-### [Tržič.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaTržič.private.md) 
+### [Tržič.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Tržič.protect.md) 
 
-### [Tržič.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaTržič.personal.md) 
+### [Tržič.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Tržič.private.md) 
 
-### [Tržič.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaTržič.secret.md)
+### [Tržič.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Tržič.personal.md) 
+
+### [Tržič.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Tržič.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Dolenjske_Toplice/
 
 ## Confidential Links & Embeds: 
 
-### [Dolenjske_Toplice.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaDolenjske_Toplice.public.md) 
+### [Dolenjske_Toplice](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Dolenjske_Toplice.md) 
 
-### [Dolenjske_Toplice.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaDolenjske_Toplice.internal.md) 
+### [Dolenjske_Toplice.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Dolenjske_Toplice.public.md) 
 
-### [Dolenjske_Toplice.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaDolenjske_Toplice.protect.md) 
+### [Dolenjske_Toplice.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Dolenjske_Toplice.internal.md) 
 
-### [Dolenjske_Toplice.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaDolenjske_Toplice.private.md) 
+### [Dolenjske_Toplice.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Dolenjske_Toplice.protect.md) 
 
-### [Dolenjske_Toplice.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaDolenjske_Toplice.personal.md) 
+### [Dolenjske_Toplice.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Dolenjske_Toplice.private.md) 
 
-### [Dolenjske_Toplice.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaDolenjske_Toplice.secret.md)
+### [Dolenjske_Toplice.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Dolenjske_Toplice.personal.md) 
+
+### [Dolenjske_Toplice.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Dolenjske_Toplice.secret.md)
 

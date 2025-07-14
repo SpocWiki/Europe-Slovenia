@@ -41,15 +41,17 @@ markerFolder: ./Šoštanj/
 
 ## Confidential Links & Embeds: 
 
-### [Šoštanj.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠoštanj.public.md) 
+### [Šoštanj](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šoštanj.md) 
 
-### [Šoštanj.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠoštanj.internal.md) 
+### [Šoštanj.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šoštanj.public.md) 
 
-### [Šoštanj.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠoštanj.protect.md) 
+### [Šoštanj.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šoštanj.internal.md) 
 
-### [Šoštanj.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠoštanj.private.md) 
+### [Šoštanj.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šoštanj.protect.md) 
 
-### [Šoštanj.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠoštanj.personal.md) 
+### [Šoštanj.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šoštanj.private.md) 
 
-### [Šoštanj.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠoštanj.secret.md)
+### [Šoštanj.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šoštanj.personal.md) 
+
+### [Šoštanj.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šoštanj.secret.md)
 

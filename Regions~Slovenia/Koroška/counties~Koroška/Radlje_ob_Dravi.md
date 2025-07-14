@@ -41,15 +41,17 @@ markerFolder: ./Radlje_ob_Dravi/
 
 ## Confidential Links & Embeds: 
 
-### [Radlje_ob_Dravi.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRadlje_ob_Dravi.public.md) 
+### [Radlje_ob_Dravi](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Radlje_ob_Dravi.md) 
 
-### [Radlje_ob_Dravi.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRadlje_ob_Dravi.internal.md) 
+### [Radlje_ob_Dravi.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Radlje_ob_Dravi.public.md) 
 
-### [Radlje_ob_Dravi.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRadlje_ob_Dravi.protect.md) 
+### [Radlje_ob_Dravi.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Radlje_ob_Dravi.internal.md) 
 
-### [Radlje_ob_Dravi.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRadlje_ob_Dravi.private.md) 
+### [Radlje_ob_Dravi.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Radlje_ob_Dravi.protect.md) 
 
-### [Radlje_ob_Dravi.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRadlje_ob_Dravi.personal.md) 
+### [Radlje_ob_Dravi.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Radlje_ob_Dravi.private.md) 
 
-### [Radlje_ob_Dravi.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRadlje_ob_Dravi.secret.md)
+### [Radlje_ob_Dravi.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Radlje_ob_Dravi.personal.md) 
+
+### [Radlje_ob_Dravi.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Radlje_ob_Dravi.secret.md)
 

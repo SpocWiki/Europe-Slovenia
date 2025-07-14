@@ -41,15 +41,17 @@ markerFolder: ./Kobarid/
 
 ## Confidential Links & Embeds: 
 
-### [Kobarid.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKobarid.public.md) 
+### [Kobarid](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kobarid.md) 
 
-### [Kobarid.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKobarid.internal.md) 
+### [Kobarid.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kobarid.public.md) 
 
-### [Kobarid.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKobarid.protect.md) 
+### [Kobarid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kobarid.internal.md) 
 
-### [Kobarid.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKobarid.private.md) 
+### [Kobarid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kobarid.protect.md) 
 
-### [Kobarid.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKobarid.personal.md) 
+### [Kobarid.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kobarid.private.md) 
 
-### [Kobarid.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKobarid.secret.md)
+### [Kobarid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kobarid.personal.md) 
+
+### [Kobarid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kobarid.secret.md)
 

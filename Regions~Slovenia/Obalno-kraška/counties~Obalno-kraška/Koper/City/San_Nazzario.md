@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Nazzario.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CitySan_Nazzario.public.md) 
+### [San_Nazzario](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/San_Nazzario.md) 
 
-### [San_Nazzario.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CitySan_Nazzario.internal.md) 
+### [San_Nazzario.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/San_Nazzario.public.md) 
 
-### [San_Nazzario.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CitySan_Nazzario.protect.md) 
+### [San_Nazzario.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/San_Nazzario.internal.md) 
 
-### [San_Nazzario.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CitySan_Nazzario.private.md) 
+### [San_Nazzario.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/San_Nazzario.protect.md) 
 
-### [San_Nazzario.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CitySan_Nazzario.personal.md) 
+### [San_Nazzario.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/San_Nazzario.private.md) 
 
-### [San_Nazzario.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CitySan_Nazzario.secret.md)
+### [San_Nazzario.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/San_Nazzario.personal.md) 
+
+### [San_Nazzario.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/San_Nazzario.secret.md)
 

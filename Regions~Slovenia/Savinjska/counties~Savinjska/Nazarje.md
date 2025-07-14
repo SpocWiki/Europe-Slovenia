@@ -41,15 +41,17 @@ markerFolder: ./Nazarje/
 
 ## Confidential Links & Embeds: 
 
-### [Nazarje.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaNazarje.public.md) 
+### [Nazarje](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Nazarje.md) 
 
-### [Nazarje.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaNazarje.internal.md) 
+### [Nazarje.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Nazarje.public.md) 
 
-### [Nazarje.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaNazarje.protect.md) 
+### [Nazarje.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Nazarje.internal.md) 
 
-### [Nazarje.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaNazarje.private.md) 
+### [Nazarje.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Nazarje.protect.md) 
 
-### [Nazarje.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaNazarje.personal.md) 
+### [Nazarje.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Nazarje.private.md) 
 
-### [Nazarje.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaNazarje.secret.md)
+### [Nazarje.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Nazarje.personal.md) 
+
+### [Nazarje.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Nazarje.secret.md)
 

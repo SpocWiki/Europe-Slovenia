@@ -41,15 +41,17 @@ markerFolder: ./Brežice/
 
 ## Confidential Links & Embeds: 
 
-### [Brežice.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBrežice.public.md) 
+### [Brežice](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice.md) 
 
-### [Brežice.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBrežice.internal.md) 
+### [Brežice.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice.public.md) 
 
-### [Brežice.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBrežice.protect.md) 
+### [Brežice.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice.internal.md) 
 
-### [Brežice.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBrežice.private.md) 
+### [Brežice.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice.protect.md) 
 
-### [Brežice.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBrežice.personal.md) 
+### [Brežice.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice.private.md) 
 
-### [Brežice.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBrežice.secret.md)
+### [Brežice.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice.personal.md) 
+
+### [Brežice.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice.secret.md)
 

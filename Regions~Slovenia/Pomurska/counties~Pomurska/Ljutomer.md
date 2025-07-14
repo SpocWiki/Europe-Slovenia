@@ -41,15 +41,17 @@ markerFolder: ./Ljutomer/
 
 ## Confidential Links & Embeds: 
 
-### [Ljutomer.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaLjutomer.public.md) 
+### [Ljutomer](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer.md) 
 
-### [Ljutomer.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaLjutomer.internal.md) 
+### [Ljutomer.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer.public.md) 
 
-### [Ljutomer.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaLjutomer.protect.md) 
+### [Ljutomer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer.internal.md) 
 
-### [Ljutomer.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaLjutomer.private.md) 
+### [Ljutomer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer.protect.md) 
 
-### [Ljutomer.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaLjutomer.personal.md) 
+### [Ljutomer.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer.private.md) 
 
-### [Ljutomer.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaLjutomer.secret.md)
+### [Ljutomer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer.personal.md) 
+
+### [Ljutomer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer.secret.md)
 

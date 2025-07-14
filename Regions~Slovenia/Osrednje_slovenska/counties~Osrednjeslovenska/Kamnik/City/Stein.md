@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stein.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.public.md) 
+### [Stein](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Kamnik/City/Stein.md) 
 
-### [Stein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.internal.md) 
+### [Stein.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Kamnik/City/Stein.public.md) 
 
-### [Stein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.protect.md) 
+### [Stein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Kamnik/City/Stein.internal.md) 
 
-### [Stein.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.private.md) 
+### [Stein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Kamnik/City/Stein.protect.md) 
 
-### [Stein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.personal.md) 
+### [Stein.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Kamnik/City/Stein.private.md) 
 
-### [Stein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.secret.md)
+### [Stein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Kamnik/City/Stein.personal.md) 
+
+### [Stein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Kamnik/City/Stein.secret.md)
 

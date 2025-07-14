@@ -49,15 +49,17 @@ markerFolder: ./Žiri/
 
 ## Confidential Links & Embeds: 
 
-### [Žiri.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŽiri.public.md) 
+### [Žiri](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Žiri.md) 
 
-### [Žiri.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŽiri.internal.md) 
+### [Žiri.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Žiri.public.md) 
 
-### [Žiri.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŽiri.protect.md) 
+### [Žiri.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Žiri.internal.md) 
 
-### [Žiri.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŽiri.private.md) 
+### [Žiri.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Žiri.protect.md) 
 
-### [Žiri.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŽiri.personal.md) 
+### [Žiri.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Žiri.private.md) 
 
-### [Žiri.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŽiri.secret.md)
+### [Žiri.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Žiri.personal.md) 
+
+### [Žiri.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Žiri.secret.md)
 

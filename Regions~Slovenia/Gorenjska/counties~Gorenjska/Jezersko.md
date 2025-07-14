@@ -48,15 +48,17 @@ markerFolder: ./Jezersko/
 
 ## Confidential Links & Embeds: 
 
-### [Jezersko.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaJezersko.public.md) 
+### [Jezersko](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Jezersko.md) 
 
-### [Jezersko.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaJezersko.internal.md) 
+### [Jezersko.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Jezersko.public.md) 
 
-### [Jezersko.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaJezersko.protect.md) 
+### [Jezersko.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Jezersko.internal.md) 
 
-### [Jezersko.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaJezersko.private.md) 
+### [Jezersko.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Jezersko.protect.md) 
 
-### [Jezersko.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaJezersko.personal.md) 
+### [Jezersko.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Jezersko.private.md) 
 
-### [Jezersko.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaJezersko.secret.md)
+### [Jezersko.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Jezersko.personal.md) 
+
+### [Jezersko.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Jezersko.secret.md)
 

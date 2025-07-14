@@ -41,15 +41,17 @@ markerFolder: ./Dobrepolje/
 
 ## Confidential Links & Embeds: 
 
-### [Dobrepolje.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrepolje.public.md) 
+### [Dobrepolje](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrepolje.md) 
 
-### [Dobrepolje.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrepolje.internal.md) 
+### [Dobrepolje.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrepolje.public.md) 
 
-### [Dobrepolje.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrepolje.protect.md) 
+### [Dobrepolje.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrepolje.internal.md) 
 
-### [Dobrepolje.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrepolje.private.md) 
+### [Dobrepolje.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrepolje.protect.md) 
 
-### [Dobrepolje.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrepolje.personal.md) 
+### [Dobrepolje.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrepolje.private.md) 
 
-### [Dobrepolje.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrepolje.secret.md)
+### [Dobrepolje.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrepolje.personal.md) 
+
+### [Dobrepolje.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrepolje.secret.md)
 

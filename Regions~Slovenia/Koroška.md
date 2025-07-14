@@ -24,18 +24,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Koroška.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaKoroška.public.md) 
+### [Koroška](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška.md) 
 
-### [Koroška.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaKoroška.internal.md) 
+### [Koroška.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška.public.md) 
 
-### [Koroška.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaKoroška.protect.md) 
+### [Koroška.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška.internal.md) 
 
-### [Koroška.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaKoroška.private.md) 
+### [Koroška.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška.protect.md) 
 
-### [Koroška.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaKoroška.personal.md) 
+### [Koroška.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška.private.md) 
 
-### [Koroška.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaKoroška.secret.md)
+### [Koroška.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška.personal.md) 
+
+### [Koroška.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška.secret.md)
 

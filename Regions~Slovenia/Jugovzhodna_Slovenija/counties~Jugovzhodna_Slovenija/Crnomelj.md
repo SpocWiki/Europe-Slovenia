@@ -41,15 +41,17 @@ markerFolder: ./Crnomelj/
 
 ## Confidential Links & Embeds: 
 
-### [Crnomelj.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.public.md) 
+### [Crnomelj](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Crnomelj.md) 
 
-### [Crnomelj.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.internal.md) 
+### [Crnomelj.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Crnomelj.public.md) 
 
-### [Crnomelj.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.protect.md) 
+### [Crnomelj.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Crnomelj.internal.md) 
 
-### [Crnomelj.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.private.md) 
+### [Crnomelj.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Crnomelj.protect.md) 
 
-### [Crnomelj.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.personal.md) 
+### [Crnomelj.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Crnomelj.private.md) 
 
-### [Crnomelj.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.secret.md)
+### [Crnomelj.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Crnomelj.personal.md) 
+
+### [Crnomelj.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Crnomelj.secret.md)
 

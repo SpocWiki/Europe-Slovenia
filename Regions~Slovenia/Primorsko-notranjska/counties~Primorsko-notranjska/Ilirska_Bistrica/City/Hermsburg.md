@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hermsburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.public.md) 
+### [Hermsburg](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Hermsburg.md) 
 
-### [Hermsburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.internal.md) 
+### [Hermsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Hermsburg.public.md) 
 
-### [Hermsburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.protect.md) 
+### [Hermsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Hermsburg.internal.md) 
 
-### [Hermsburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.private.md) 
+### [Hermsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Hermsburg.protect.md) 
 
-### [Hermsburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.personal.md) 
+### [Hermsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Hermsburg.private.md) 
 
-### [Hermsburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.secret.md)
+### [Hermsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Hermsburg.personal.md) 
+
+### [Hermsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Hermsburg.secret.md)
 

@@ -49,15 +49,17 @@ markerFolder: ./Šenčur/
 
 ## Confidential Links & Embeds: 
 
-### [Šenčur.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠenčur.public.md) 
+### [Šenčur](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Šenčur.md) 
 
-### [Šenčur.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠenčur.internal.md) 
+### [Šenčur.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Šenčur.public.md) 
 
-### [Šenčur.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠenčur.protect.md) 
+### [Šenčur.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Šenčur.internal.md) 
 
-### [Šenčur.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠenčur.private.md) 
+### [Šenčur.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Šenčur.protect.md) 
 
-### [Šenčur.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠenčur.personal.md) 
+### [Šenčur.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Šenčur.private.md) 
 
-### [Šenčur.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠenčur.secret.md)
+### [Šenčur.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Šenčur.personal.md) 
+
+### [Šenčur.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Šenčur.secret.md)
 

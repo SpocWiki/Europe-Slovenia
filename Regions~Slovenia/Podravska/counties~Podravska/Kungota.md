@@ -41,15 +41,17 @@ markerFolder: ./Kungota/
 
 ## Confidential Links & Embeds: 
 
-### [Kungota.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKungota.public.md) 
+### [Kungota](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kungota.md) 
 
-### [Kungota.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKungota.internal.md) 
+### [Kungota.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kungota.public.md) 
 
-### [Kungota.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKungota.protect.md) 
+### [Kungota.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kungota.internal.md) 
 
-### [Kungota.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKungota.private.md) 
+### [Kungota.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kungota.protect.md) 
 
-### [Kungota.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKungota.personal.md) 
+### [Kungota.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kungota.private.md) 
 
-### [Kungota.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKungota.secret.md)
+### [Kungota.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kungota.personal.md) 
+
+### [Kungota.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kungota.secret.md)
 

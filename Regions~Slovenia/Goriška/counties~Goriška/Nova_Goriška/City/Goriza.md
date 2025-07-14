@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goriza.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoriza.public.md) 
+### [Goriza](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goriza.md) 
 
-### [Goriza.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoriza.internal.md) 
+### [Goriza.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goriza.public.md) 
 
-### [Goriza.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoriza.protect.md) 
+### [Goriza.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goriza.internal.md) 
 
-### [Goriza.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoriza.private.md) 
+### [Goriza.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goriza.protect.md) 
 
-### [Goriza.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoriza.personal.md) 
+### [Goriza.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goriza.private.md) 
 
-### [Goriza.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoriza.secret.md)
+### [Goriza.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goriza.personal.md) 
+
+### [Goriza.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goriza.secret.md)
 

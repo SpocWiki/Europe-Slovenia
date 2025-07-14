@@ -41,15 +41,17 @@ markerFolder: ./Bloke/
 
 ## Confidential Links & Embeds: 
 
-### [Bloke.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaBloke.public.md) 
+### [Bloke](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Bloke.md) 
 
-### [Bloke.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaBloke.internal.md) 
+### [Bloke.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Bloke.public.md) 
 
-### [Bloke.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaBloke.protect.md) 
+### [Bloke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Bloke.internal.md) 
 
-### [Bloke.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaBloke.private.md) 
+### [Bloke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Bloke.protect.md) 
 
-### [Bloke.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaBloke.personal.md) 
+### [Bloke.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Bloke.private.md) 
 
-### [Bloke.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaBloke.secret.md)
+### [Bloke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Bloke.personal.md) 
+
+### [Bloke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Bloke.secret.md)
 

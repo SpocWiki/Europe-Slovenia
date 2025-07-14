@@ -41,15 +41,17 @@ markerFolder: ./Borovnica/
 
 ## Confidential Links & Embeds: 
 
-### [Borovnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBorovnica.public.md) 
+### [Borovnica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Borovnica.md) 
 
-### [Borovnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBorovnica.internal.md) 
+### [Borovnica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Borovnica.public.md) 
 
-### [Borovnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBorovnica.protect.md) 
+### [Borovnica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Borovnica.internal.md) 
 
-### [Borovnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBorovnica.private.md) 
+### [Borovnica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Borovnica.protect.md) 
 
-### [Borovnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBorovnica.personal.md) 
+### [Borovnica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Borovnica.private.md) 
 
-### [Borovnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBorovnica.secret.md)
+### [Borovnica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Borovnica.personal.md) 
+
+### [Borovnica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Borovnica.secret.md)
 

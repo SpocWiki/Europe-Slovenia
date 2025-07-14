@@ -41,15 +41,17 @@ markerFolder: ./Ilirska_Bistrica/
 
 ## Confidential Links & Embeds: 
 
-### [Ilirska_Bistrica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaIlirska_Bistrica.public.md) 
+### [Ilirska_Bistrica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica.md) 
 
-### [Ilirska_Bistrica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaIlirska_Bistrica.internal.md) 
+### [Ilirska_Bistrica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica.public.md) 
 
-### [Ilirska_Bistrica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaIlirska_Bistrica.protect.md) 
+### [Ilirska_Bistrica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica.internal.md) 
 
-### [Ilirska_Bistrica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaIlirska_Bistrica.private.md) 
+### [Ilirska_Bistrica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica.protect.md) 
 
-### [Ilirska_Bistrica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaIlirska_Bistrica.personal.md) 
+### [Ilirska_Bistrica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica.private.md) 
 
-### [Ilirska_Bistrica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaIlirska_Bistrica.secret.md)
+### [Ilirska_Bistrica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica.personal.md) 
+
+### [Ilirska_Bistrica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica.secret.md)
 

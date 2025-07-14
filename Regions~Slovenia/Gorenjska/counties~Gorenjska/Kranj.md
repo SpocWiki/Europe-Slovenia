@@ -49,15 +49,17 @@ markerFolder: ./Kranj/
 
 ## Confidential Links & Embeds: 
 
-### [Kranj.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranj.public.md) 
+### [Kranj](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj.md) 
 
-### [Kranj.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranj.internal.md) 
+### [Kranj.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj.public.md) 
 
-### [Kranj.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranj.protect.md) 
+### [Kranj.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj.internal.md) 
 
-### [Kranj.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranj.private.md) 
+### [Kranj.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj.protect.md) 
 
-### [Kranj.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranj.personal.md) 
+### [Kranj.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj.private.md) 
 
-### [Kranj.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranj.secret.md)
+### [Kranj.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj.personal.md) 
+
+### [Kranj.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj.secret.md)
 

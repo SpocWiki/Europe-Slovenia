@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Georgsthal.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.public.md) 
+### [Georgsthal](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Pivka/City/Georgsthal.md) 
 
-### [Georgsthal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.internal.md) 
+### [Georgsthal.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Pivka/City/Georgsthal.public.md) 
 
-### [Georgsthal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.protect.md) 
+### [Georgsthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Pivka/City/Georgsthal.internal.md) 
 
-### [Georgsthal.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.private.md) 
+### [Georgsthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Pivka/City/Georgsthal.protect.md) 
 
-### [Georgsthal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.personal.md) 
+### [Georgsthal.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Pivka/City/Georgsthal.private.md) 
 
-### [Georgsthal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.secret.md)
+### [Georgsthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Pivka/City/Georgsthal.personal.md) 
+
+### [Georgsthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Pivka/City/Georgsthal.secret.md)
 

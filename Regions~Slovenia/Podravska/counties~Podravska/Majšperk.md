@@ -41,15 +41,17 @@ markerFolder: ./Majšperk/
 
 ## Confidential Links & Embeds: 
 
-### [Majšperk.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMajšperk.public.md) 
+### [Majšperk](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Majšperk.md) 
 
-### [Majšperk.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMajšperk.internal.md) 
+### [Majšperk.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Majšperk.public.md) 
 
-### [Majšperk.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMajšperk.protect.md) 
+### [Majšperk.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Majšperk.internal.md) 
 
-### [Majšperk.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMajšperk.private.md) 
+### [Majšperk.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Majšperk.protect.md) 
 
-### [Majšperk.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMajšperk.personal.md) 
+### [Majšperk.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Majšperk.private.md) 
 
-### [Majšperk.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMajšperk.secret.md)
+### [Majšperk.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Majšperk.personal.md) 
+
+### [Majšperk.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Majšperk.secret.md)
 

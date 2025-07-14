@@ -41,15 +41,17 @@ markerFolder: ./Radenci/
 
 ## Confidential Links & Embeds: 
 
-### [Radenci.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRadenci.public.md) 
+### [Radenci](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Radenci.md) 
 
-### [Radenci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRadenci.internal.md) 
+### [Radenci.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Radenci.public.md) 
 
-### [Radenci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRadenci.protect.md) 
+### [Radenci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Radenci.internal.md) 
 
-### [Radenci.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRadenci.private.md) 
+### [Radenci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Radenci.protect.md) 
 
-### [Radenci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRadenci.personal.md) 
+### [Radenci.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Radenci.private.md) 
 
-### [Radenci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRadenci.secret.md)
+### [Radenci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Radenci.personal.md) 
+
+### [Radenci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Radenci.secret.md)
 

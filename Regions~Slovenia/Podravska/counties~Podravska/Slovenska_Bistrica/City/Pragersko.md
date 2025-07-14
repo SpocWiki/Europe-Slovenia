@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pragersko.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.public.md) 
+### [Pragersko](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica/City/Pragersko.md) 
 
-### [Pragersko.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.internal.md) 
+### [Pragersko.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica/City/Pragersko.public.md) 
 
-### [Pragersko.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.protect.md) 
+### [Pragersko.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica/City/Pragersko.internal.md) 
 
-### [Pragersko.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.private.md) 
+### [Pragersko.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica/City/Pragersko.protect.md) 
 
-### [Pragersko.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.personal.md) 
+### [Pragersko.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica/City/Pragersko.private.md) 
 
-### [Pragersko.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.secret.md)
+### [Pragersko.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica/City/Pragersko.personal.md) 
+
+### [Pragersko.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica/City/Pragersko.secret.md)
 

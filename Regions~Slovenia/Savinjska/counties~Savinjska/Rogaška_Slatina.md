@@ -41,15 +41,17 @@ markerFolder: ./Rogaška_Slatina/
 
 ## Confidential Links & Embeds: 
 
-### [Rogaška_Slatina.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.public.md) 
+### [Rogaška_Slatina](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Rogaška_Slatina.md) 
 
-### [Rogaška_Slatina.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.internal.md) 
+### [Rogaška_Slatina.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Rogaška_Slatina.public.md) 
 
-### [Rogaška_Slatina.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.protect.md) 
+### [Rogaška_Slatina.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Rogaška_Slatina.internal.md) 
 
-### [Rogaška_Slatina.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.private.md) 
+### [Rogaška_Slatina.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Rogaška_Slatina.protect.md) 
 
-### [Rogaška_Slatina.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.personal.md) 
+### [Rogaška_Slatina.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Rogaška_Slatina.private.md) 
 
-### [Rogaška_Slatina.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.secret.md)
+### [Rogaška_Slatina.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Rogaška_Slatina.personal.md) 
+
+### [Rogaška_Slatina.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Rogaška_Slatina.secret.md)
 

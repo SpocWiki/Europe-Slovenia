@@ -41,15 +41,17 @@ markerFolder: ./Koper/
 
 ## Confidential Links & Embeds: 
 
-### [Koper.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaKoper.public.md) 
+### [Koper](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper.md) 
 
-### [Koper.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaKoper.internal.md) 
+### [Koper.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper.public.md) 
 
-### [Koper.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaKoper.protect.md) 
+### [Koper.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper.internal.md) 
 
-### [Koper.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaKoper.private.md) 
+### [Koper.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper.protect.md) 
 
-### [Koper.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaKoper.personal.md) 
+### [Koper.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper.private.md) 
 
-### [Koper.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaKoper.secret.md)
+### [Koper.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper.personal.md) 
+
+### [Koper.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper.secret.md)
 

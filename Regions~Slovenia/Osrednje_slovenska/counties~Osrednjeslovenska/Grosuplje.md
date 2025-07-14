@@ -41,15 +41,17 @@ markerFolder: ./Grosuplje/
 
 ## Confidential Links & Embeds: 
 
-### [Grosuplje.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaGrosuplje.public.md) 
+### [Grosuplje](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Grosuplje.md) 
 
-### [Grosuplje.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaGrosuplje.internal.md) 
+### [Grosuplje.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Grosuplje.public.md) 
 
-### [Grosuplje.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaGrosuplje.protect.md) 
+### [Grosuplje.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Grosuplje.internal.md) 
 
-### [Grosuplje.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaGrosuplje.private.md) 
+### [Grosuplje.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Grosuplje.protect.md) 
 
-### [Grosuplje.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaGrosuplje.personal.md) 
+### [Grosuplje.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Grosuplje.private.md) 
 
-### [Grosuplje.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaGrosuplje.secret.md)
+### [Grosuplje.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Grosuplje.personal.md) 
+
+### [Grosuplje.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Grosuplje.secret.md)
 

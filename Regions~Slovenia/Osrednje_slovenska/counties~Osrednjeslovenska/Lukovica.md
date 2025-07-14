@@ -41,15 +41,17 @@ markerFolder: ./Lukovica/
 
 ## Confidential Links & Embeds: 
 
-### [Lukovica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.public.md) 
+### [Lukovica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Lukovica.md) 
 
-### [Lukovica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.internal.md) 
+### [Lukovica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Lukovica.public.md) 
 
-### [Lukovica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.protect.md) 
+### [Lukovica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Lukovica.internal.md) 
 
-### [Lukovica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.private.md) 
+### [Lukovica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Lukovica.protect.md) 
 
-### [Lukovica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.personal.md) 
+### [Lukovica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Lukovica.private.md) 
 
-### [Lukovica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.secret.md)
+### [Lukovica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Lukovica.personal.md) 
+
+### [Lukovica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Lukovica.secret.md)
 

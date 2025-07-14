@@ -41,15 +41,17 @@ markerFolder: ./Mengeš/
 
 ## Confidential Links & Embeds: 
 
-### [Mengeš.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.public.md) 
+### [Mengeš](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Mengeš.md) 
 
-### [Mengeš.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.internal.md) 
+### [Mengeš.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Mengeš.public.md) 
 
-### [Mengeš.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.protect.md) 
+### [Mengeš.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Mengeš.internal.md) 
 
-### [Mengeš.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.private.md) 
+### [Mengeš.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Mengeš.protect.md) 
 
-### [Mengeš.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.personal.md) 
+### [Mengeš.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Mengeš.private.md) 
 
-### [Mengeš.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.secret.md)
+### [Mengeš.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Mengeš.personal.md) 
+
+### [Mengeš.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Mengeš.secret.md)
 

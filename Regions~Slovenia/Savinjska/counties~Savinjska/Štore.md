@@ -41,15 +41,17 @@ markerFolder: ./Štore/
 
 ## Confidential Links & Embeds: 
 
-### [Štore.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠtore.public.md) 
+### [Štore](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Štore.md) 
 
-### [Štore.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠtore.internal.md) 
+### [Štore.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Štore.public.md) 
 
-### [Štore.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠtore.protect.md) 
+### [Štore.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Štore.internal.md) 
 
-### [Štore.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠtore.private.md) 
+### [Štore.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Štore.protect.md) 
 
-### [Štore.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠtore.personal.md) 
+### [Štore.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Štore.private.md) 
 
-### [Štore.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠtore.secret.md)
+### [Štore.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Štore.personal.md) 
+
+### [Štore.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Štore.secret.md)
 

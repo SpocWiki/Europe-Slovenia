@@ -41,15 +41,17 @@ markerFolder: ./Beltinci/
 
 ## Confidential Links & Embeds: 
 
-### [Beltinci.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaBeltinci.public.md) 
+### [Beltinci](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Beltinci.md) 
 
-### [Beltinci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaBeltinci.internal.md) 
+### [Beltinci.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Beltinci.public.md) 
 
-### [Beltinci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaBeltinci.protect.md) 
+### [Beltinci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Beltinci.internal.md) 
 
-### [Beltinci.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaBeltinci.private.md) 
+### [Beltinci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Beltinci.protect.md) 
 
-### [Beltinci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaBeltinci.personal.md) 
+### [Beltinci.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Beltinci.private.md) 
 
-### [Beltinci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaBeltinci.secret.md)
+### [Beltinci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Beltinci.personal.md) 
+
+### [Beltinci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Beltinci.secret.md)
 

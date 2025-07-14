@@ -41,15 +41,17 @@ markerFolder: ./Tolmin/
 
 ## Confidential Links & Embeds: 
 
-### [Tolmin.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaTolmin.public.md) 
+### [Tolmin](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Tolmin.md) 
 
-### [Tolmin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaTolmin.internal.md) 
+### [Tolmin.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Tolmin.public.md) 
 
-### [Tolmin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaTolmin.protect.md) 
+### [Tolmin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Tolmin.internal.md) 
 
-### [Tolmin.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaTolmin.private.md) 
+### [Tolmin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Tolmin.protect.md) 
 
-### [Tolmin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaTolmin.personal.md) 
+### [Tolmin.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Tolmin.private.md) 
 
-### [Tolmin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaTolmin.secret.md)
+### [Tolmin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Tolmin.personal.md) 
+
+### [Tolmin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Tolmin.secret.md)
 

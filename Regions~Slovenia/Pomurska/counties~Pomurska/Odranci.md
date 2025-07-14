@@ -41,15 +41,17 @@ markerFolder: ./Odranci/
 
 ## Confidential Links & Embeds: 
 
-### [Odranci.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaOdranci.public.md) 
+### [Odranci](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Odranci.md) 
 
-### [Odranci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaOdranci.internal.md) 
+### [Odranci.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Odranci.public.md) 
 
-### [Odranci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaOdranci.protect.md) 
+### [Odranci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Odranci.internal.md) 
 
-### [Odranci.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaOdranci.private.md) 
+### [Odranci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Odranci.protect.md) 
 
-### [Odranci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaOdranci.personal.md) 
+### [Odranci.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Odranci.private.md) 
 
-### [Odranci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaOdranci.secret.md)
+### [Odranci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Odranci.personal.md) 
+
+### [Odranci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Odranci.secret.md)
 

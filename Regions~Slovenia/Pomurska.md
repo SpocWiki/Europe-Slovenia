@@ -24,18 +24,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Pomurska.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPomurska.public.md) 
+### [Pomurska](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska.md) 
 
-### [Pomurska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPomurska.internal.md) 
+### [Pomurska.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska.public.md) 
 
-### [Pomurska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPomurska.protect.md) 
+### [Pomurska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska.internal.md) 
 
-### [Pomurska.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPomurska.private.md) 
+### [Pomurska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska.protect.md) 
 
-### [Pomurska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPomurska.personal.md) 
+### [Pomurska.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska.private.md) 
 
-### [Pomurska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPomurska.secret.md)
+### [Pomurska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska.personal.md) 
+
+### [Pomurska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska.secret.md)
 

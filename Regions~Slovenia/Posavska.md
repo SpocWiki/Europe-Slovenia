@@ -24,18 +24,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Posavska.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPosavska.public.md) 
+### [Posavska](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska.md) 
 
-### [Posavska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPosavska.internal.md) 
+### [Posavska.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska.public.md) 
 
-### [Posavska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPosavska.protect.md) 
+### [Posavska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska.internal.md) 
 
-### [Posavska.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPosavska.private.md) 
+### [Posavska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska.protect.md) 
 
-### [Posavska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPosavska.personal.md) 
+### [Posavska.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska.private.md) 
 
-### [Posavska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPosavska.secret.md)
+### [Posavska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska.personal.md) 
+
+### [Posavska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska.secret.md)
 

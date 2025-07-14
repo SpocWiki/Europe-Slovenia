@@ -19,18 +19,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Savinjska.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaSavinjska.public.md) 
+### [Savinjska](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska.md) 
 
-### [Savinjska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaSavinjska.internal.md) 
+### [Savinjska.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska.public.md) 
 
-### [Savinjska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaSavinjska.protect.md) 
+### [Savinjska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska.internal.md) 
 
-### [Savinjska.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaSavinjska.private.md) 
+### [Savinjska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska.protect.md) 
 
-### [Savinjska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaSavinjska.personal.md) 
+### [Savinjska.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska.private.md) 
 
-### [Savinjska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaSavinjska.secret.md)
+### [Savinjska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska.personal.md) 
+
+### [Savinjska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska.secret.md)
 

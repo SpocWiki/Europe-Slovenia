@@ -41,15 +41,17 @@ markerFolder: ./Divaca/
 
 ## Confidential Links & Embeds: 
 
-### [Divaca.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.public.md) 
+### [Divaca](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Divaca.md) 
 
-### [Divaca.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.internal.md) 
+### [Divaca.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Divaca.public.md) 
 
-### [Divaca.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.protect.md) 
+### [Divaca.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Divaca.internal.md) 
 
-### [Divaca.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.private.md) 
+### [Divaca.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Divaca.protect.md) 
 
-### [Divaca.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.personal.md) 
+### [Divaca.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Divaca.private.md) 
 
-### [Divaca.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.secret.md)
+### [Divaca.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Divaca.personal.md) 
+
+### [Divaca.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Divaca.secret.md)
 

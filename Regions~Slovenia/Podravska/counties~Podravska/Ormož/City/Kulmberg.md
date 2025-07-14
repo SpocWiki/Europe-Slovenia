@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kulmberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.public.md) 
+### [Kulmberg](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ormož/City/Kulmberg.md) 
 
-### [Kulmberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.internal.md) 
+### [Kulmberg.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ormož/City/Kulmberg.public.md) 
 
-### [Kulmberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.protect.md) 
+### [Kulmberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ormož/City/Kulmberg.internal.md) 
 
-### [Kulmberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.private.md) 
+### [Kulmberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ormož/City/Kulmberg.protect.md) 
 
-### [Kulmberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.personal.md) 
+### [Kulmberg.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ormož/City/Kulmberg.private.md) 
 
-### [Kulmberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.secret.md)
+### [Kulmberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ormož/City/Kulmberg.personal.md) 
+
+### [Kulmberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Ormož/City/Kulmberg.secret.md)
 

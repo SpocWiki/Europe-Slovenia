@@ -41,15 +41,17 @@ markerFolder: ./Miklavž_na_Dravskem_polju/
 
 ## Confidential Links & Embeds: 
 
-### [Miklavž_na_Dravskem_polju.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMiklavž_na_Dravskem_polju.public.md) 
+### [Miklavž_na_Dravskem_polju](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Miklavž_na_Dravskem_polju.md) 
 
-### [Miklavž_na_Dravskem_polju.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMiklavž_na_Dravskem_polju.internal.md) 
+### [Miklavž_na_Dravskem_polju.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Miklavž_na_Dravskem_polju.public.md) 
 
-### [Miklavž_na_Dravskem_polju.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMiklavž_na_Dravskem_polju.protect.md) 
+### [Miklavž_na_Dravskem_polju.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Miklavž_na_Dravskem_polju.internal.md) 
 
-### [Miklavž_na_Dravskem_polju.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMiklavž_na_Dravskem_polju.private.md) 
+### [Miklavž_na_Dravskem_polju.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Miklavž_na_Dravskem_polju.protect.md) 
 
-### [Miklavž_na_Dravskem_polju.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMiklavž_na_Dravskem_polju.personal.md) 
+### [Miklavž_na_Dravskem_polju.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Miklavž_na_Dravskem_polju.private.md) 
 
-### [Miklavž_na_Dravskem_polju.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMiklavž_na_Dravskem_polju.secret.md)
+### [Miklavž_na_Dravskem_polju.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Miklavž_na_Dravskem_polju.personal.md) 
+
+### [Miklavž_na_Dravskem_polju.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Miklavž_na_Dravskem_polju.secret.md)
 

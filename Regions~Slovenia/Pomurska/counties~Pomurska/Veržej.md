@@ -41,15 +41,17 @@ markerFolder: ./Veržej/
 
 ## Confidential Links & Embeds: 
 
-### [Veržej.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.public.md) 
+### [Veržej](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Veržej.md) 
 
-### [Veržej.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.internal.md) 
+### [Veržej.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Veržej.public.md) 
 
-### [Veržej.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.protect.md) 
+### [Veržej.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Veržej.internal.md) 
 
-### [Veržej.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.private.md) 
+### [Veržej.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Veržej.protect.md) 
 
-### [Veržej.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.personal.md) 
+### [Veržej.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Veržej.private.md) 
 
-### [Veržej.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.secret.md)
+### [Veržej.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Veržej.personal.md) 
+
+### [Veržej.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Veržej.secret.md)
 

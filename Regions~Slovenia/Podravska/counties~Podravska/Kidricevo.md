@@ -41,15 +41,17 @@ markerFolder: ./Kidricevo/
 
 ## Confidential Links & Embeds: 
 
-### [Kidricevo.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKidricevo.public.md) 
+### [Kidricevo](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kidricevo.md) 
 
-### [Kidricevo.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKidricevo.internal.md) 
+### [Kidricevo.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kidricevo.public.md) 
 
-### [Kidricevo.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKidricevo.protect.md) 
+### [Kidricevo.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kidricevo.internal.md) 
 
-### [Kidricevo.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKidricevo.private.md) 
+### [Kidricevo.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kidricevo.protect.md) 
 
-### [Kidricevo.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKidricevo.personal.md) 
+### [Kidricevo.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kidricevo.private.md) 
 
-### [Kidricevo.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaKidricevo.secret.md)
+### [Kidricevo.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kidricevo.personal.md) 
+
+### [Kidricevo.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Kidricevo.secret.md)
 

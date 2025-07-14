@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cilli.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.public.md) 
+### [Cilli](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Celje/City/Cilli.md) 
 
-### [Cilli.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.internal.md) 
+### [Cilli.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Celje/City/Cilli.public.md) 
 
-### [Cilli.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.protect.md) 
+### [Cilli.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Celje/City/Cilli.internal.md) 
 
-### [Cilli.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.private.md) 
+### [Cilli.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Celje/City/Cilli.protect.md) 
 
-### [Cilli.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.personal.md) 
+### [Cilli.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Celje/City/Cilli.private.md) 
 
-### [Cilli.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.secret.md)
+### [Cilli.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Celje/City/Cilli.personal.md) 
+
+### [Cilli.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Celje/City/Cilli.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Dobrovnik/
 
 ## Confidential Links & Embeds: 
 
-### [Dobrovnik.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaDobrovnik.public.md) 
+### [Dobrovnik](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Dobrovnik.md) 
 
-### [Dobrovnik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaDobrovnik.internal.md) 
+### [Dobrovnik.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Dobrovnik.public.md) 
 
-### [Dobrovnik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaDobrovnik.protect.md) 
+### [Dobrovnik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Dobrovnik.internal.md) 
 
-### [Dobrovnik.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaDobrovnik.private.md) 
+### [Dobrovnik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Dobrovnik.protect.md) 
 
-### [Dobrovnik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaDobrovnik.personal.md) 
+### [Dobrovnik.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Dobrovnik.private.md) 
 
-### [Dobrovnik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaDobrovnik.secret.md)
+### [Dobrovnik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Dobrovnik.personal.md) 
+
+### [Dobrovnik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Dobrovnik.secret.md)
 

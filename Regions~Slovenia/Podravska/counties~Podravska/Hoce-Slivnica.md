@@ -41,15 +41,17 @@ markerFolder: ./Hoce-Slivnica/
 
 ## Confidential Links & Embeds: 
 
-### [Hoce-Slivnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.public.md) 
+### [Hoce-Slivnica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Hoce-Slivnica.md) 
 
-### [Hoce-Slivnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.internal.md) 
+### [Hoce-Slivnica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Hoce-Slivnica.public.md) 
 
-### [Hoce-Slivnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.protect.md) 
+### [Hoce-Slivnica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Hoce-Slivnica.internal.md) 
 
-### [Hoce-Slivnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.private.md) 
+### [Hoce-Slivnica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Hoce-Slivnica.protect.md) 
 
-### [Hoce-Slivnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.personal.md) 
+### [Hoce-Slivnica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Hoce-Slivnica.private.md) 
 
-### [Hoce-Slivnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.secret.md)
+### [Hoce-Slivnica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Hoce-Slivnica.personal.md) 
+
+### [Hoce-Slivnica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Hoce-Slivnica.secret.md)
 

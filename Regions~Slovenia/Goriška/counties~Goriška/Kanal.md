@@ -41,15 +41,17 @@ markerFolder: ./Kanal/
 
 ## Confidential Links & Embeds: 
 
-### [Kanal.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKanal.public.md) 
+### [Kanal](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kanal.md) 
 
-### [Kanal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKanal.internal.md) 
+### [Kanal.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kanal.public.md) 
 
-### [Kanal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKanal.protect.md) 
+### [Kanal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kanal.internal.md) 
 
-### [Kanal.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKanal.private.md) 
+### [Kanal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kanal.protect.md) 
 
-### [Kanal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKanal.personal.md) 
+### [Kanal.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kanal.private.md) 
 
-### [Kanal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaKanal.secret.md)
+### [Kanal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kanal.personal.md) 
+
+### [Kanal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Kanal.secret.md)
 

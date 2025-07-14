@@ -41,15 +41,17 @@ markerFolder: ./Juršinci/
 
 ## Confidential Links & Embeds: 
 
-### [Juršinci.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaJuršinci.public.md) 
+### [Juršinci](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Juršinci.md) 
 
-### [Juršinci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaJuršinci.internal.md) 
+### [Juršinci.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Juršinci.public.md) 
 
-### [Juršinci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaJuršinci.protect.md) 
+### [Juršinci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Juršinci.internal.md) 
 
-### [Juršinci.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaJuršinci.private.md) 
+### [Juršinci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Juršinci.protect.md) 
 
-### [Juršinci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaJuršinci.personal.md) 
+### [Juršinci.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Juršinci.private.md) 
 
-### [Juršinci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaJuršinci.secret.md)
+### [Juršinci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Juršinci.personal.md) 
+
+### [Juršinci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Juršinci.secret.md)
 

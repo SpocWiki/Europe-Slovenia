@@ -41,15 +41,17 @@ markerFolder: ./Ajdovščina/
 
 ## Confidential Links & Embeds: 
 
-### [Ajdovščina.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaAjdovščina.public.md) 
+### [Ajdovščina](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Ajdovščina.md) 
 
-### [Ajdovščina.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaAjdovščina.internal.md) 
+### [Ajdovščina.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Ajdovščina.public.md) 
 
-### [Ajdovščina.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaAjdovščina.protect.md) 
+### [Ajdovščina.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Ajdovščina.internal.md) 
 
-### [Ajdovščina.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaAjdovščina.private.md) 
+### [Ajdovščina.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Ajdovščina.protect.md) 
 
-### [Ajdovščina.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaAjdovščina.personal.md) 
+### [Ajdovščina.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Ajdovščina.private.md) 
 
-### [Ajdovščina.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaAjdovščina.secret.md)
+### [Ajdovščina.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Ajdovščina.personal.md) 
+
+### [Ajdovščina.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Ajdovščina.secret.md)
 

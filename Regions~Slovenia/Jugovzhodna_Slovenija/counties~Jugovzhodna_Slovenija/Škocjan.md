@@ -41,15 +41,17 @@ markerFolder: ./Škocjan/
 
 ## Confidential Links & Embeds: 
 
-### [Škocjan.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠkocjan.public.md) 
+### [Škocjan](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Škocjan.md) 
 
-### [Škocjan.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠkocjan.internal.md) 
+### [Škocjan.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Škocjan.public.md) 
 
-### [Škocjan.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠkocjan.protect.md) 
+### [Škocjan.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Škocjan.internal.md) 
 
-### [Škocjan.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠkocjan.private.md) 
+### [Škocjan.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Škocjan.protect.md) 
 
-### [Škocjan.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠkocjan.personal.md) 
+### [Škocjan.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Škocjan.private.md) 
 
-### [Škocjan.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠkocjan.secret.md)
+### [Škocjan.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Škocjan.personal.md) 
+
+### [Škocjan.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Škocjan.secret.md)
 

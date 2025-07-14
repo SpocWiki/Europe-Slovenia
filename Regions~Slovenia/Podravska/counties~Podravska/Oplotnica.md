@@ -41,15 +41,17 @@ markerFolder: ./Oplotnica/
 
 ## Confidential Links & Embeds: 
 
-### [Oplotnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaOplotnica.public.md) 
+### [Oplotnica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Oplotnica.md) 
 
-### [Oplotnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaOplotnica.internal.md) 
+### [Oplotnica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Oplotnica.public.md) 
 
-### [Oplotnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaOplotnica.protect.md) 
+### [Oplotnica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Oplotnica.internal.md) 
 
-### [Oplotnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaOplotnica.private.md) 
+### [Oplotnica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Oplotnica.protect.md) 
 
-### [Oplotnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaOplotnica.personal.md) 
+### [Oplotnica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Oplotnica.private.md) 
 
-### [Oplotnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaOplotnica.secret.md)
+### [Oplotnica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Oplotnica.personal.md) 
+
+### [Oplotnica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Oplotnica.secret.md)
 

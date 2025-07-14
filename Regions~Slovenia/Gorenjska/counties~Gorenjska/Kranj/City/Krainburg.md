@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krainburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.public.md) 
+### [Krainburg](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj/City/Krainburg.md) 
 
-### [Krainburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.internal.md) 
+### [Krainburg.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj/City/Krainburg.public.md) 
 
-### [Krainburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.protect.md) 
+### [Krainburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj/City/Krainburg.internal.md) 
 
-### [Krainburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.private.md) 
+### [Krainburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj/City/Krainburg.protect.md) 
 
-### [Krainburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.personal.md) 
+### [Krainburg.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj/City/Krainburg.private.md) 
 
-### [Krainburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.secret.md)
+### [Krainburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj/City/Krainburg.personal.md) 
+
+### [Krainburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranj/City/Krainburg.secret.md)
 

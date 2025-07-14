@@ -41,15 +41,17 @@ markerFolder: ./Dol_pri_Ljubljani/
 
 ## Confidential Links & Embeds: 
 
-### [Dol_pri_Ljubljani.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDol_pri_Ljubljani.public.md) 
+### [Dol_pri_Ljubljani](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dol_pri_Ljubljani.md) 
 
-### [Dol_pri_Ljubljani.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDol_pri_Ljubljani.internal.md) 
+### [Dol_pri_Ljubljani.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dol_pri_Ljubljani.public.md) 
 
-### [Dol_pri_Ljubljani.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDol_pri_Ljubljani.protect.md) 
+### [Dol_pri_Ljubljani.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dol_pri_Ljubljani.internal.md) 
 
-### [Dol_pri_Ljubljani.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDol_pri_Ljubljani.private.md) 
+### [Dol_pri_Ljubljani.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dol_pri_Ljubljani.protect.md) 
 
-### [Dol_pri_Ljubljani.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDol_pri_Ljubljani.personal.md) 
+### [Dol_pri_Ljubljani.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dol_pri_Ljubljani.private.md) 
 
-### [Dol_pri_Ljubljani.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDol_pri_Ljubljani.secret.md)
+### [Dol_pri_Ljubljani.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dol_pri_Ljubljani.personal.md) 
+
+### [Dol_pri_Ljubljani.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dol_pri_Ljubljani.secret.md)
 

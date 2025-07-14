@@ -41,15 +41,17 @@ markerFolder: ./Šempeter-Vrtojba/
 
 ## Confidential Links & Embeds: 
 
-### [Šempeter-Vrtojba.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.public.md) 
+### [Šempeter-Vrtojba](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.md) 
 
-### [Šempeter-Vrtojba.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.internal.md) 
+### [Šempeter-Vrtojba.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.public.md) 
 
-### [Šempeter-Vrtojba.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.protect.md) 
+### [Šempeter-Vrtojba.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.internal.md) 
 
-### [Šempeter-Vrtojba.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.private.md) 
+### [Šempeter-Vrtojba.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.protect.md) 
 
-### [Šempeter-Vrtojba.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.personal.md) 
+### [Šempeter-Vrtojba.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.private.md) 
 
-### [Šempeter-Vrtojba.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.secret.md)
+### [Šempeter-Vrtojba.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.personal.md) 
+
+### [Šempeter-Vrtojba.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.secret.md)
 

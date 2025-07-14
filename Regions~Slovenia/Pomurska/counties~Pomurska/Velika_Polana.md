@@ -41,15 +41,17 @@ markerFolder: ./Velika_Polana/
 
 ## Confidential Links & Embeds: 
 
-### [Velika_Polana.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVelika_Polana.public.md) 
+### [Velika_Polana](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Velika_Polana.md) 
 
-### [Velika_Polana.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVelika_Polana.internal.md) 
+### [Velika_Polana.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Velika_Polana.public.md) 
 
-### [Velika_Polana.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVelika_Polana.protect.md) 
+### [Velika_Polana.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Velika_Polana.internal.md) 
 
-### [Velika_Polana.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVelika_Polana.private.md) 
+### [Velika_Polana.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Velika_Polana.protect.md) 
 
-### [Velika_Polana.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVelika_Polana.personal.md) 
+### [Velika_Polana.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Velika_Polana.private.md) 
 
-### [Velika_Polana.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVelika_Polana.secret.md)
+### [Velika_Polana.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Velika_Polana.personal.md) 
+
+### [Velika_Polana.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Velika_Polana.secret.md)
 

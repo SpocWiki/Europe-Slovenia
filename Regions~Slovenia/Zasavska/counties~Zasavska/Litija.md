@@ -41,15 +41,17 @@ markerFolder: ./Litija/
 
 ## Confidential Links & Embeds: 
 
-### [Litija.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaLitija.public.md) 
+### [Litija](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.md) 
 
-### [Litija.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaLitija.internal.md) 
+### [Litija.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.public.md) 
 
-### [Litija.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaLitija.protect.md) 
+### [Litija.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.internal.md) 
 
-### [Litija.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaLitija.private.md) 
+### [Litija.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.protect.md) 
 
-### [Litija.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaLitija.personal.md) 
+### [Litija.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.private.md) 
 
-### [Litija.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaLitija.secret.md)
+### [Litija.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.personal.md) 
+
+### [Litija.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Krško/
 
 ## Confidential Links & Embeds: 
 
-### [Krško.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrško.public.md) 
+### [Krško](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Krško.md) 
 
-### [Krško.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrško.internal.md) 
+### [Krško.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Krško.public.md) 
 
-### [Krško.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrško.protect.md) 
+### [Krško.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Krško.internal.md) 
 
-### [Krško.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrško.private.md) 
+### [Krško.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Krško.protect.md) 
 
-### [Krško.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrško.personal.md) 
+### [Krško.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Krško.private.md) 
 
-### [Krško.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrško.secret.md)
+### [Krško.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Krško.personal.md) 
+
+### [Krško.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Krško.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goertz=Goriza.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoertz=Goriza.public.md) 
+### [Goertz=Goriza](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goertz=Goriza.md) 
 
-### [Goertz=Goriza.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoertz=Goriza.internal.md) 
+### [Goertz=Goriza.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goertz=Goriza.public.md) 
 
-### [Goertz=Goriza.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoertz=Goriza.protect.md) 
+### [Goertz=Goriza.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goertz=Goriza.internal.md) 
 
-### [Goertz=Goriza.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoertz=Goriza.private.md) 
+### [Goertz=Goriza.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goertz=Goriza.protect.md) 
 
-### [Goertz=Goriza.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoertz=Goriza.personal.md) 
+### [Goertz=Goriza.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goertz=Goriza.private.md) 
 
-### [Goertz=Goriza.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Nova_Goriška\CityGoertz=Goriza.secret.md)
+### [Goertz=Goriza.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goertz=Goriza.personal.md) 
+
+### [Goertz=Goriza.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška/City/Goertz=Goriza.secret.md)
 

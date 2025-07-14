@@ -49,15 +49,17 @@ markerFolder: ./Gorenja_Vas-Poljane/
 
 ## Confidential Links & Embeds: 
 
-### [Gorenja_vas-Poljane.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaGorenja_vas-Poljane.public.md) 
+### [Gorenja_vas-Poljane](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Gorenja_vas-Poljane.md) 
 
-### [Gorenja_vas-Poljane.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaGorenja_vas-Poljane.internal.md) 
+### [Gorenja_vas-Poljane.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Gorenja_vas-Poljane.public.md) 
 
-### [Gorenja_vas-Poljane.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaGorenja_vas-Poljane.protect.md) 
+### [Gorenja_vas-Poljane.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Gorenja_vas-Poljane.internal.md) 
 
-### [Gorenja_vas-Poljane.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaGorenja_vas-Poljane.private.md) 
+### [Gorenja_vas-Poljane.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Gorenja_vas-Poljane.protect.md) 
 
-### [Gorenja_vas-Poljane.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaGorenja_vas-Poljane.personal.md) 
+### [Gorenja_vas-Poljane.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Gorenja_vas-Poljane.private.md) 
 
-### [Gorenja_vas-Poljane.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaGorenja_vas-Poljane.secret.md)
+### [Gorenja_vas-Poljane.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Gorenja_vas-Poljane.personal.md) 
+
+### [Gorenja_vas-Poljane.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Gorenja_vas-Poljane.secret.md)
 

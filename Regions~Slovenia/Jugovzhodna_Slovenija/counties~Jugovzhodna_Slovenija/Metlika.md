@@ -41,15 +41,17 @@ markerFolder: ./Metlika/
 
 ## Confidential Links & Embeds: 
 
-### [Metlika.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.public.md) 
+### [Metlika](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Metlika.md) 
 
-### [Metlika.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.internal.md) 
+### [Metlika.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Metlika.public.md) 
 
-### [Metlika.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.protect.md) 
+### [Metlika.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Metlika.internal.md) 
 
-### [Metlika.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.private.md) 
+### [Metlika.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Metlika.protect.md) 
 
-### [Metlika.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.personal.md) 
+### [Metlika.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Metlika.private.md) 
 
-### [Metlika.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.secret.md)
+### [Metlika.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Metlika.personal.md) 
+
+### [Metlika.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Metlika.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Rogašovci/
 
 ## Confidential Links & Embeds: 
 
-### [Rogašovci.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRogašovci.public.md) 
+### [Rogašovci](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Rogašovci.md) 
 
-### [Rogašovci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRogašovci.internal.md) 
+### [Rogašovci.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Rogašovci.public.md) 
 
-### [Rogašovci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRogašovci.protect.md) 
+### [Rogašovci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Rogašovci.internal.md) 
 
-### [Rogašovci.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRogašovci.private.md) 
+### [Rogašovci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Rogašovci.protect.md) 
 
-### [Rogašovci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRogašovci.personal.md) 
+### [Rogašovci.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Rogašovci.private.md) 
 
-### [Rogašovci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRogašovci.secret.md)
+### [Rogašovci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Rogašovci.personal.md) 
+
+### [Rogašovci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Rogašovci.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Muta/
 
 ## Confidential Links & Embeds: 
 
-### [Muta.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMuta.public.md) 
+### [Muta](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Muta.md) 
 
-### [Muta.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMuta.internal.md) 
+### [Muta.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Muta.public.md) 
 
-### [Muta.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMuta.protect.md) 
+### [Muta.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Muta.internal.md) 
 
-### [Muta.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMuta.private.md) 
+### [Muta.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Muta.protect.md) 
 
-### [Muta.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMuta.personal.md) 
+### [Muta.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Muta.private.md) 
 
-### [Muta.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMuta.secret.md)
+### [Muta.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Muta.personal.md) 
+
+### [Muta.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Muta.secret.md)
 

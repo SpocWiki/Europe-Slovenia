@@ -41,15 +41,17 @@ markerFolder: ./Dravograd/
 
 ## Confidential Links & Embeds: 
 
-### [Dravograd.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaDravograd.public.md) 
+### [Dravograd](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Dravograd.md) 
 
-### [Dravograd.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaDravograd.internal.md) 
+### [Dravograd.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Dravograd.public.md) 
 
-### [Dravograd.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaDravograd.protect.md) 
+### [Dravograd.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Dravograd.internal.md) 
 
-### [Dravograd.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaDravograd.private.md) 
+### [Dravograd.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Dravograd.protect.md) 
 
-### [Dravograd.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaDravograd.personal.md) 
+### [Dravograd.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Dravograd.private.md) 
 
-### [Dravograd.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaDravograd.secret.md)
+### [Dravograd.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Dravograd.personal.md) 
+
+### [Dravograd.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Dravograd.secret.md)
 

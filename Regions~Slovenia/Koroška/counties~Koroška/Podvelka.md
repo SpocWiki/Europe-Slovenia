@@ -41,15 +41,17 @@ markerFolder: ./Podvelka/
 
 ## Confidential Links & Embeds: 
 
-### [Podvelka.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.public.md) 
+### [Podvelka](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Podvelka.md) 
 
-### [Podvelka.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.internal.md) 
+### [Podvelka.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Podvelka.public.md) 
 
-### [Podvelka.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.protect.md) 
+### [Podvelka.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Podvelka.internal.md) 
 
-### [Podvelka.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.private.md) 
+### [Podvelka.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Podvelka.protect.md) 
 
-### [Podvelka.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.personal.md) 
+### [Podvelka.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Podvelka.private.md) 
 
-### [Podvelka.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.secret.md)
+### [Podvelka.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Podvelka.personal.md) 
+
+### [Podvelka.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Podvelka.secret.md)
 

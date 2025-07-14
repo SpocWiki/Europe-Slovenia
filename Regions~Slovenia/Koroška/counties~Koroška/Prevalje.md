@@ -41,15 +41,17 @@ markerFolder: ./Prevalje/
 
 ## Confidential Links & Embeds: 
 
-### [Prevalje.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPrevalje.public.md) 
+### [Prevalje](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Prevalje.md) 
 
-### [Prevalje.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPrevalje.internal.md) 
+### [Prevalje.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Prevalje.public.md) 
 
-### [Prevalje.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPrevalje.protect.md) 
+### [Prevalje.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Prevalje.internal.md) 
 
-### [Prevalje.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPrevalje.private.md) 
+### [Prevalje.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Prevalje.protect.md) 
 
-### [Prevalje.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPrevalje.personal.md) 
+### [Prevalje.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Prevalje.private.md) 
 
-### [Prevalje.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPrevalje.secret.md)
+### [Prevalje.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Prevalje.personal.md) 
+
+### [Prevalje.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Prevalje.secret.md)
 

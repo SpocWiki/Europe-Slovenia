@@ -41,15 +41,17 @@ markerFolder: ./Sodražica/
 
 ## Confidential Links & Embeds: 
 
-### [Sodražica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSodražica.public.md) 
+### [Sodražica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Sodražica.md) 
 
-### [Sodražica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSodražica.internal.md) 
+### [Sodražica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Sodražica.public.md) 
 
-### [Sodražica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSodražica.protect.md) 
+### [Sodražica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Sodražica.internal.md) 
 
-### [Sodražica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSodražica.private.md) 
+### [Sodražica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Sodražica.protect.md) 
 
-### [Sodražica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSodražica.personal.md) 
+### [Sodražica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Sodražica.private.md) 
 
-### [Sodražica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSodražica.secret.md)
+### [Sodražica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Sodražica.personal.md) 
+
+### [Sodražica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Jugovzhodna_Slovenija/counties~Jugovzhodna_Slovenija/Sodražica.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Dobrova-Polhov_Gradec/
 
 ## Confidential Links & Embeds: 
 
-### [Dobrova-Polhov_Gradec.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrova-Polhov_Gradec.public.md) 
+### [Dobrova-Polhov_Gradec](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrova-Polhov_Gradec.md) 
 
-### [Dobrova-Polhov_Gradec.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrova-Polhov_Gradec.internal.md) 
+### [Dobrova-Polhov_Gradec.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrova-Polhov_Gradec.public.md) 
 
-### [Dobrova-Polhov_Gradec.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrova-Polhov_Gradec.protect.md) 
+### [Dobrova-Polhov_Gradec.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrova-Polhov_Gradec.internal.md) 
 
-### [Dobrova-Polhov_Gradec.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrova-Polhov_Gradec.private.md) 
+### [Dobrova-Polhov_Gradec.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrova-Polhov_Gradec.protect.md) 
 
-### [Dobrova-Polhov_Gradec.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrova-Polhov_Gradec.personal.md) 
+### [Dobrova-Polhov_Gradec.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrova-Polhov_Gradec.private.md) 
 
-### [Dobrova-Polhov_Gradec.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaDobrova-Polhov_Gradec.secret.md)
+### [Dobrova-Polhov_Gradec.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrova-Polhov_Gradec.personal.md) 
+
+### [Dobrova-Polhov_Gradec.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Dobrova-Polhov_Gradec.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Murska_Sobota/
 
 ## Confidential Links & Embeds: 
 
-### [Murska_Sobota.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMurska_Sobota.public.md) 
+### [Murska_Sobota](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Murska_Sobota.md) 
 
-### [Murska_Sobota.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMurska_Sobota.internal.md) 
+### [Murska_Sobota.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Murska_Sobota.public.md) 
 
-### [Murska_Sobota.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMurska_Sobota.protect.md) 
+### [Murska_Sobota.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Murska_Sobota.internal.md) 
 
-### [Murska_Sobota.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMurska_Sobota.private.md) 
+### [Murska_Sobota.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Murska_Sobota.protect.md) 
 
-### [Murska_Sobota.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMurska_Sobota.personal.md) 
+### [Murska_Sobota.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Murska_Sobota.private.md) 
 
-### [Murska_Sobota.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMurska_Sobota.secret.md)
+### [Murska_Sobota.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Murska_Sobota.personal.md) 
+
+### [Murska_Sobota.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Murska_Sobota.secret.md)
 

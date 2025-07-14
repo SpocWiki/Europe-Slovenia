@@ -41,15 +41,17 @@ markerFolder: ./Sveti_Jurij/
 
 ## Confidential Links & Embeds: 
 
-### [Sveti_Jurij.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.public.md) 
+### [Sveti_Jurij](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Sveti_Jurij.md) 
 
-### [Sveti_Jurij.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.internal.md) 
+### [Sveti_Jurij.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Sveti_Jurij.public.md) 
 
-### [Sveti_Jurij.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.protect.md) 
+### [Sveti_Jurij.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Sveti_Jurij.internal.md) 
 
-### [Sveti_Jurij.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.private.md) 
+### [Sveti_Jurij.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Sveti_Jurij.protect.md) 
 
-### [Sveti_Jurij.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.personal.md) 
+### [Sveti_Jurij.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Sveti_Jurij.private.md) 
 
-### [Sveti_Jurij.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.secret.md)
+### [Sveti_Jurij.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Sveti_Jurij.personal.md) 
+
+### [Sveti_Jurij.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Sveti_Jurij.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Race-Fram/
 
 ## Confidential Links & Embeds: 
 
-### [Race-Fram.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaRace-Fram.public.md) 
+### [Race-Fram](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Race-Fram.md) 
 
-### [Race-Fram.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaRace-Fram.internal.md) 
+### [Race-Fram.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Race-Fram.public.md) 
 
-### [Race-Fram.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaRace-Fram.protect.md) 
+### [Race-Fram.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Race-Fram.internal.md) 
 
-### [Race-Fram.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaRace-Fram.private.md) 
+### [Race-Fram.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Race-Fram.protect.md) 
 
-### [Race-Fram.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaRace-Fram.personal.md) 
+### [Race-Fram.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Race-Fram.private.md) 
 
-### [Race-Fram.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaRace-Fram.secret.md)
+### [Race-Fram.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Race-Fram.personal.md) 
+
+### [Race-Fram.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Race-Fram.secret.md)
 

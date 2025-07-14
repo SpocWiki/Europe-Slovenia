@@ -37,18 +37,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Gorenjska.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGorenjska.public.md) 
+### [Gorenjska](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.md) 
 
-### [Gorenjska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGorenjska.internal.md) 
+### [Gorenjska.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.public.md) 
 
-### [Gorenjska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGorenjska.protect.md) 
+### [Gorenjska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.internal.md) 
 
-### [Gorenjska.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGorenjska.private.md) 
+### [Gorenjska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.protect.md) 
 
-### [Gorenjska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGorenjska.personal.md) 
+### [Gorenjska.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.private.md) 
 
-### [Gorenjska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGorenjska.secret.md)
+### [Gorenjska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.personal.md) 
+
+### [Gorenjska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.secret.md)
 

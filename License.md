@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~Central\SloveniaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~Central\SloveniaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~Central\SloveniaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~Central\SloveniaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~Central\SloveniaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~Central\SloveniaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/License.secret.md)
 

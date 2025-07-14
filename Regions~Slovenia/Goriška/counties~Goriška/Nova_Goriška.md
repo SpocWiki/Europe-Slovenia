@@ -41,15 +41,17 @@ markerFolder: ./Nova_Goriška/
 
 ## Confidential Links & Embeds: 
 
-### [Nova_Goriška.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaNova_Goriška.public.md) 
+### [Nova_Goriška](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška.md) 
 
-### [Nova_Goriška.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaNova_Goriška.internal.md) 
+### [Nova_Goriška.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška.public.md) 
 
-### [Nova_Goriška.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaNova_Goriška.protect.md) 
+### [Nova_Goriška.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška.internal.md) 
 
-### [Nova_Goriška.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaNova_Goriška.private.md) 
+### [Nova_Goriška.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška.protect.md) 
 
-### [Nova_Goriška.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaNova_Goriška.personal.md) 
+### [Nova_Goriška.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška.private.md) 
 
-### [Nova_Goriška.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaNova_Goriška.secret.md)
+### [Nova_Goriška.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška.personal.md) 
+
+### [Nova_Goriška.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Nova_Goriška.secret.md)
 

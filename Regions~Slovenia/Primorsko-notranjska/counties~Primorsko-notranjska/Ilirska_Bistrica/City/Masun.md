@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Masun.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.public.md) 
+### [Masun](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Masun.md) 
 
-### [Masun.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.internal.md) 
+### [Masun.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Masun.public.md) 
 
-### [Masun.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.protect.md) 
+### [Masun.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Masun.internal.md) 
 
-### [Masun.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.private.md) 
+### [Masun.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Masun.protect.md) 
 
-### [Masun.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.personal.md) 
+### [Masun.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Masun.private.md) 
 
-### [Masun.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.secret.md)
+### [Masun.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Masun.personal.md) 
+
+### [Masun.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Ilirska_Bistrica/City/Masun.secret.md)
 

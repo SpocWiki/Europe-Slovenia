@@ -41,15 +41,17 @@ markerFolder: ./Slovenj_Gradec/
 
 ## Confidential Links & Embeds: 
 
-### [Slovenj_Gradec.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.public.md) 
+### [Slovenj_Gradec](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Slovenj_Gradec.md) 
 
-### [Slovenj_Gradec.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.internal.md) 
+### [Slovenj_Gradec.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Slovenj_Gradec.public.md) 
 
-### [Slovenj_Gradec.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.protect.md) 
+### [Slovenj_Gradec.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Slovenj_Gradec.internal.md) 
 
-### [Slovenj_Gradec.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.private.md) 
+### [Slovenj_Gradec.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Slovenj_Gradec.protect.md) 
 
-### [Slovenj_Gradec.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.personal.md) 
+### [Slovenj_Gradec.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Slovenj_Gradec.private.md) 
 
-### [Slovenj_Gradec.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.secret.md)
+### [Slovenj_Gradec.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Slovenj_Gradec.personal.md) 
+
+### [Slovenj_Gradec.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Slovenj_Gradec.secret.md)
 

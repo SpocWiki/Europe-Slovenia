@@ -41,15 +41,17 @@ markerFolder: ./Podlehnik/
 
 ## Confidential Links & Embeds: 
 
-### [Podlehnik.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPodlehnik.public.md) 
+### [Podlehnik](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Podlehnik.md) 
 
-### [Podlehnik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPodlehnik.internal.md) 
+### [Podlehnik.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Podlehnik.public.md) 
 
-### [Podlehnik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPodlehnik.protect.md) 
+### [Podlehnik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Podlehnik.internal.md) 
 
-### [Podlehnik.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPodlehnik.private.md) 
+### [Podlehnik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Podlehnik.protect.md) 
 
-### [Podlehnik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPodlehnik.personal.md) 
+### [Podlehnik.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Podlehnik.private.md) 
 
-### [Podlehnik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaPodlehnik.secret.md)
+### [Podlehnik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Podlehnik.personal.md) 
+
+### [Podlehnik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Podlehnik.secret.md)
 

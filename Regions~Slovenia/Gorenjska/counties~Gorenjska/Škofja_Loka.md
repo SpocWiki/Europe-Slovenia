@@ -49,15 +49,17 @@ markerFolder: ./Škofja_Loka/
 
 ## Confidential Links & Embeds: 
 
-### [Škofja_Loka.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠkofja_Loka.public.md) 
+### [Škofja_Loka](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Škofja_Loka.md) 
 
-### [Škofja_Loka.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠkofja_Loka.internal.md) 
+### [Škofja_Loka.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Škofja_Loka.public.md) 
 
-### [Škofja_Loka.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠkofja_Loka.protect.md) 
+### [Škofja_Loka.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Škofja_Loka.internal.md) 
 
-### [Škofja_Loka.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠkofja_Loka.private.md) 
+### [Škofja_Loka.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Škofja_Loka.protect.md) 
 
-### [Škofja_Loka.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠkofja_Loka.personal.md) 
+### [Škofja_Loka.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Škofja_Loka.private.md) 
 
-### [Škofja_Loka.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaŠkofja_Loka.secret.md)
+### [Škofja_Loka.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Škofja_Loka.personal.md) 
+
+### [Škofja_Loka.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Škofja_Loka.secret.md)
 

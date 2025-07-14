@@ -41,15 +41,17 @@ markerFolder: ./Miren-Kostanjevica/
 
 ## Confidential Links & Embeds: 
 
-### [Miren-Kostanjevica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.public.md) 
+### [Miren-Kostanjevica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.md) 
 
-### [Miren-Kostanjevica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.internal.md) 
+### [Miren-Kostanjevica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.public.md) 
 
-### [Miren-Kostanjevica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.protect.md) 
+### [Miren-Kostanjevica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.internal.md) 
 
-### [Miren-Kostanjevica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.private.md) 
+### [Miren-Kostanjevica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.protect.md) 
 
-### [Miren-Kostanjevica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.personal.md) 
+### [Miren-Kostanjevica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.private.md) 
 
-### [Miren-Kostanjevica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.secret.md)
+### [Miren-Kostanjevica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.personal.md) 
+
+### [Miren-Kostanjevica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.secret.md)
 

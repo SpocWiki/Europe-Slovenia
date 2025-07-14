@@ -41,15 +41,17 @@ markerFolder: ./Razkrižje/
 
 ## Confidential Links & Embeds: 
 
-### [Razkrižje.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRazkrižje.public.md) 
+### [Razkrižje](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Razkrižje.md) 
 
-### [Razkrižje.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRazkrižje.internal.md) 
+### [Razkrižje.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Razkrižje.public.md) 
 
-### [Razkrižje.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRazkrižje.protect.md) 
+### [Razkrižje.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Razkrižje.internal.md) 
 
-### [Razkrižje.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRazkrižje.private.md) 
+### [Razkrižje.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Razkrižje.protect.md) 
 
-### [Razkrižje.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRazkrižje.personal.md) 
+### [Razkrižje.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Razkrižje.private.md) 
 
-### [Razkrižje.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaRazkrižje.secret.md)
+### [Razkrižje.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Razkrižje.personal.md) 
+
+### [Razkrižje.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Razkrižje.secret.md)
 

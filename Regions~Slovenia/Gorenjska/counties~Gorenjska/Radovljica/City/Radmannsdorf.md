@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Radmannsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.public.md) 
+### [Radmannsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Radovljica/City/Radmannsdorf.md) 
 
-### [Radmannsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.internal.md) 
+### [Radmannsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Radovljica/City/Radmannsdorf.public.md) 
 
-### [Radmannsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.protect.md) 
+### [Radmannsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Radovljica/City/Radmannsdorf.internal.md) 
 
-### [Radmannsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.private.md) 
+### [Radmannsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Radovljica/City/Radmannsdorf.protect.md) 
 
-### [Radmannsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.personal.md) 
+### [Radmannsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Radovljica/City/Radmannsdorf.private.md) 
 
-### [Radmannsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.secret.md)
+### [Radmannsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Radovljica/City/Radmannsdorf.personal.md) 
+
+### [Radmannsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Radovljica/City/Radmannsdorf.secret.md)
 

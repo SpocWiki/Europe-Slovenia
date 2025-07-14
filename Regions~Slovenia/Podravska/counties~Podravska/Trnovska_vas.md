@@ -41,15 +41,17 @@ markerFolder: ./Trnovska_vas/
 
 ## Confidential Links & Embeds: 
 
-### [Trnovska_vas.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.public.md) 
+### [Trnovska_vas](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Trnovska_vas.md) 
 
-### [Trnovska_vas.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.internal.md) 
+### [Trnovska_vas.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Trnovska_vas.public.md) 
 
-### [Trnovska_vas.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.protect.md) 
+### [Trnovska_vas.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Trnovska_vas.internal.md) 
 
-### [Trnovska_vas.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.private.md) 
+### [Trnovska_vas.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Trnovska_vas.protect.md) 
 
-### [Trnovska_vas.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.personal.md) 
+### [Trnovska_vas.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Trnovska_vas.private.md) 
 
-### [Trnovska_vas.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.secret.md)
+### [Trnovska_vas.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Trnovska_vas.personal.md) 
+
+### [Trnovska_vas.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Trnovska_vas.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marbur=Maribor.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.public.md) 
+### [Marbur=Maribor](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Maribor/City/Marbur=Maribor.md) 
 
-### [Marbur=Maribor.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.internal.md) 
+### [Marbur=Maribor.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Maribor/City/Marbur=Maribor.public.md) 
 
-### [Marbur=Maribor.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.protect.md) 
+### [Marbur=Maribor.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Maribor/City/Marbur=Maribor.internal.md) 
 
-### [Marbur=Maribor.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.private.md) 
+### [Marbur=Maribor.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Maribor/City/Marbur=Maribor.protect.md) 
 
-### [Marbur=Maribor.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.personal.md) 
+### [Marbur=Maribor.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Maribor/City/Marbur=Maribor.private.md) 
 
-### [Marbur=Maribor.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.secret.md)
+### [Marbur=Maribor.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Maribor/City/Marbur=Maribor.personal.md) 
+
+### [Marbur=Maribor.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Maribor/City/Marbur=Maribor.secret.md)
 

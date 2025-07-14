@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Citta_Nuova.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.public.md) 
+### [Citta_Nuova](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/Citta_Nuova.md) 
 
-### [Citta_Nuova.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.internal.md) 
+### [Citta_Nuova.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/Citta_Nuova.public.md) 
 
-### [Citta_Nuova.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.protect.md) 
+### [Citta_Nuova.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/Citta_Nuova.internal.md) 
 
-### [Citta_Nuova.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.private.md) 
+### [Citta_Nuova.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/Citta_Nuova.protect.md) 
 
-### [Citta_Nuova.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.personal.md) 
+### [Citta_Nuova.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/Citta_Nuova.private.md) 
 
-### [Citta_Nuova.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.secret.md)
+### [Citta_Nuova.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/Citta_Nuova.personal.md) 
+
+### [Citta_Nuova.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Koper/City/Citta_Nuova.secret.md)
 

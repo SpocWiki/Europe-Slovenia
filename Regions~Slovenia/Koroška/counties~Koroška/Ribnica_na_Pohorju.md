@@ -41,15 +41,17 @@ markerFolder: ./Ribnica_na_Pohorju/
 
 ## Confidential Links & Embeds: 
 
-### [Ribnica_na_Pohorju.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.public.md) 
+### [Ribnica_na_Pohorju](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ribnica_na_Pohorju.md) 
 
-### [Ribnica_na_Pohorju.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.internal.md) 
+### [Ribnica_na_Pohorju.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ribnica_na_Pohorju.public.md) 
 
-### [Ribnica_na_Pohorju.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.protect.md) 
+### [Ribnica_na_Pohorju.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ribnica_na_Pohorju.internal.md) 
 
-### [Ribnica_na_Pohorju.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.private.md) 
+### [Ribnica_na_Pohorju.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ribnica_na_Pohorju.protect.md) 
 
-### [Ribnica_na_Pohorju.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.personal.md) 
+### [Ribnica_na_Pohorju.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ribnica_na_Pohorju.private.md) 
 
-### [Ribnica_na_Pohorju.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.secret.md)
+### [Ribnica_na_Pohorju.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ribnica_na_Pohorju.personal.md) 
+
+### [Ribnica_na_Pohorju.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ribnica_na_Pohorju.secret.md)
 

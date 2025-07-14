@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cven.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.public.md) 
+### [Cven](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer/City/Cven.md) 
 
-### [Cven.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.internal.md) 
+### [Cven.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer/City/Cven.public.md) 
 
-### [Cven.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.protect.md) 
+### [Cven.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer/City/Cven.internal.md) 
 
-### [Cven.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.private.md) 
+### [Cven.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer/City/Cven.protect.md) 
 
-### [Cven.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.personal.md) 
+### [Cven.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer/City/Cven.private.md) 
 
-### [Cven.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.secret.md)
+### [Cven.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer/City/Cven.personal.md) 
+
+### [Cven.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Ljutomer/City/Cven.secret.md)
 

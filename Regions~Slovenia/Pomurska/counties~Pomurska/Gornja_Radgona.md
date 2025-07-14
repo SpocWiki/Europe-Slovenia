@@ -41,15 +41,17 @@ markerFolder: ./Gornja_Radgona/
 
 ## Confidential Links & Embeds: 
 
-### [Gornja_Radgona.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.public.md) 
+### [Gornja_Radgona](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornja_Radgona.md) 
 
-### [Gornja_Radgona.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.internal.md) 
+### [Gornja_Radgona.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornja_Radgona.public.md) 
 
-### [Gornja_Radgona.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.protect.md) 
+### [Gornja_Radgona.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornja_Radgona.internal.md) 
 
-### [Gornja_Radgona.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.private.md) 
+### [Gornja_Radgona.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornja_Radgona.protect.md) 
 
-### [Gornja_Radgona.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.personal.md) 
+### [Gornja_Radgona.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornja_Radgona.private.md) 
 
-### [Gornja_Radgona.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.secret.md)
+### [Gornja_Radgona.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornja_Radgona.personal.md) 
+
+### [Gornja_Radgona.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornja_Radgona.secret.md)
 

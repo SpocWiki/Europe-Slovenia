@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lefkova_dolina.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.public.md) 
+### [Lefkova_dolina](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Loška_Dolina/City/Lefkova_dolina.md) 
 
-### [Lefkova_dolina.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.internal.md) 
+### [Lefkova_dolina.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Loška_Dolina/City/Lefkova_dolina.public.md) 
 
-### [Lefkova_dolina.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.protect.md) 
+### [Lefkova_dolina.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Loška_Dolina/City/Lefkova_dolina.internal.md) 
 
-### [Lefkova_dolina.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.private.md) 
+### [Lefkova_dolina.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Loška_Dolina/City/Lefkova_dolina.protect.md) 
 
-### [Lefkova_dolina.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.personal.md) 
+### [Lefkova_dolina.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Loška_Dolina/City/Lefkova_dolina.private.md) 
 
-### [Lefkova_dolina.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.secret.md)
+### [Lefkova_dolina.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Loška_Dolina/City/Lefkova_dolina.personal.md) 
+
+### [Lefkova_dolina.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Primorsko-notranjska/counties~Primorsko-notranjska/Loška_Dolina/City/Lefkova_dolina.secret.md)
 

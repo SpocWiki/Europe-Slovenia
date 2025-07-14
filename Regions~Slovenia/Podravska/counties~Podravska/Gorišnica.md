@@ -41,15 +41,17 @@ markerFolder: ./Gorišnica/
 
 ## Confidential Links & Embeds: 
 
-### [Gorišnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaGorišnica.public.md) 
+### [Gorišnica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Gorišnica.md) 
 
-### [Gorišnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaGorišnica.internal.md) 
+### [Gorišnica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Gorišnica.public.md) 
 
-### [Gorišnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaGorišnica.protect.md) 
+### [Gorišnica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Gorišnica.internal.md) 
 
-### [Gorišnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaGorišnica.private.md) 
+### [Gorišnica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Gorišnica.protect.md) 
 
-### [Gorišnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaGorišnica.personal.md) 
+### [Gorišnica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Gorišnica.private.md) 
 
-### [Gorišnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaGorišnica.secret.md)
+### [Gorišnica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Gorišnica.personal.md) 
+
+### [Gorišnica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Gorišnica.secret.md)
 

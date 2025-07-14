@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monfalcone.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Miren-Kostanjevica\CityMonfalcone.public.md) 
+### [Monfalcone](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.md) 
 
-### [Monfalcone.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Miren-Kostanjevica\CityMonfalcone.internal.md) 
+### [Monfalcone.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.public.md) 
 
-### [Monfalcone.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Miren-Kostanjevica\CityMonfalcone.protect.md) 
+### [Monfalcone.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.internal.md) 
 
-### [Monfalcone.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Miren-Kostanjevica\CityMonfalcone.private.md) 
+### [Monfalcone.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.protect.md) 
 
-### [Monfalcone.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Miren-Kostanjevica\CityMonfalcone.personal.md) 
+### [Monfalcone.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.private.md) 
 
-### [Monfalcone.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Miren-Kostanjevica\CityMonfalcone.secret.md)
+### [Monfalcone.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.personal.md) 
+
+### [Monfalcone.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.secret.md)
 

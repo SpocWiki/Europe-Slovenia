@@ -41,15 +41,17 @@ markerFolder: ./Destrnik/
 
 ## Confidential Links & Embeds: 
 
-### [Destrnik.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaDestrnik.public.md) 
+### [Destrnik](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Destrnik.md) 
 
-### [Destrnik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaDestrnik.internal.md) 
+### [Destrnik.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Destrnik.public.md) 
 
-### [Destrnik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaDestrnik.protect.md) 
+### [Destrnik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Destrnik.internal.md) 
 
-### [Destrnik.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaDestrnik.private.md) 
+### [Destrnik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Destrnik.protect.md) 
 
-### [Destrnik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaDestrnik.personal.md) 
+### [Destrnik.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Destrnik.private.md) 
 
-### [Destrnik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaDestrnik.secret.md)
+### [Destrnik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Destrnik.personal.md) 
+
+### [Destrnik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Destrnik.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Podcetrtek/
 
 ## Confidential Links & Embeds: 
 
-### [Podcetrtek.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaPodcetrtek.public.md) 
+### [Podcetrtek](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Podcetrtek.md) 
 
-### [Podcetrtek.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaPodcetrtek.internal.md) 
+### [Podcetrtek.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Podcetrtek.public.md) 
 
-### [Podcetrtek.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaPodcetrtek.protect.md) 
+### [Podcetrtek.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Podcetrtek.internal.md) 
 
-### [Podcetrtek.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaPodcetrtek.private.md) 
+### [Podcetrtek.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Podcetrtek.protect.md) 
 
-### [Podcetrtek.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaPodcetrtek.personal.md) 
+### [Podcetrtek.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Podcetrtek.private.md) 
 
-### [Podcetrtek.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaPodcetrtek.secret.md)
+### [Podcetrtek.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Podcetrtek.personal.md) 
+
+### [Podcetrtek.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Podcetrtek.secret.md)
 

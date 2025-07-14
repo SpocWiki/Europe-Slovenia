@@ -41,15 +41,17 @@ markerFolder: ./Cerkvenjak/
 
 ## Confidential Links & Embeds: 
 
-### [Cerkvenjak.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaCerkvenjak.public.md) 
+### [Cerkvenjak](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Cerkvenjak.md) 
 
-### [Cerkvenjak.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaCerkvenjak.internal.md) 
+### [Cerkvenjak.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Cerkvenjak.public.md) 
 
-### [Cerkvenjak.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaCerkvenjak.protect.md) 
+### [Cerkvenjak.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Cerkvenjak.internal.md) 
 
-### [Cerkvenjak.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaCerkvenjak.private.md) 
+### [Cerkvenjak.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Cerkvenjak.protect.md) 
 
-### [Cerkvenjak.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaCerkvenjak.personal.md) 
+### [Cerkvenjak.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Cerkvenjak.private.md) 
 
-### [Cerkvenjak.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaCerkvenjak.secret.md)
+### [Cerkvenjak.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Cerkvenjak.personal.md) 
+
+### [Cerkvenjak.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Cerkvenjak.secret.md)
 

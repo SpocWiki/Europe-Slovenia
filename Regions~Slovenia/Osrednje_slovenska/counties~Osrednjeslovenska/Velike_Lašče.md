@@ -41,15 +41,17 @@ markerFolder: ./Velike_Lašče/
 
 ## Confidential Links & Embeds: 
 
-### [Velike_Lašče.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaVelike_Lašče.public.md) 
+### [Velike_Lašče](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Velike_Lašče.md) 
 
-### [Velike_Lašče.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaVelike_Lašče.internal.md) 
+### [Velike_Lašče.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Velike_Lašče.public.md) 
 
-### [Velike_Lašče.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaVelike_Lašče.protect.md) 
+### [Velike_Lašče.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Velike_Lašče.internal.md) 
 
-### [Velike_Lašče.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaVelike_Lašče.private.md) 
+### [Velike_Lašče.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Velike_Lašče.protect.md) 
 
-### [Velike_Lašče.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaVelike_Lašče.personal.md) 
+### [Velike_Lašče.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Velike_Lašče.private.md) 
 
-### [Velike_Lašče.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaVelike_Lašče.secret.md)
+### [Velike_Lašče.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Velike_Lašče.personal.md) 
+
+### [Velike_Lašče.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Velike_Lašče.secret.md)
 

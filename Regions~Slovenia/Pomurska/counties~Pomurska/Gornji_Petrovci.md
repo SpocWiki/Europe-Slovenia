@@ -41,15 +41,17 @@ markerFolder: ./Gornji_Petrovci/
 
 ## Confidential Links & Embeds: 
 
-### [Gornji_Petrovci.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornji_Petrovci.public.md) 
+### [Gornji_Petrovci](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornji_Petrovci.md) 
 
-### [Gornji_Petrovci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornji_Petrovci.internal.md) 
+### [Gornji_Petrovci.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornji_Petrovci.public.md) 
 
-### [Gornji_Petrovci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornji_Petrovci.protect.md) 
+### [Gornji_Petrovci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornji_Petrovci.internal.md) 
 
-### [Gornji_Petrovci.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornji_Petrovci.private.md) 
+### [Gornji_Petrovci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornji_Petrovci.protect.md) 
 
-### [Gornji_Petrovci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornji_Petrovci.personal.md) 
+### [Gornji_Petrovci.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornji_Petrovci.private.md) 
 
-### [Gornji_Petrovci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornji_Petrovci.secret.md)
+### [Gornji_Petrovci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornji_Petrovci.personal.md) 
+
+### [Gornji_Petrovci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Gornji_Petrovci.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ljubliana.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.public.md) 
+### [Ljubliana](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.md) 
 
-### [Ljubliana.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.internal.md) 
+### [Ljubliana.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.public.md) 
 
-### [Ljubliana.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.protect.md) 
+### [Ljubliana.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.internal.md) 
 
-### [Ljubliana.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.private.md) 
+### [Ljubliana.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.protect.md) 
 
-### [Ljubliana.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.personal.md) 
+### [Ljubliana.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.private.md) 
 
-### [Ljubliana.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.secret.md)
+### [Ljubliana.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.personal.md) 
+
+### [Ljubliana.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.secret.md)
 

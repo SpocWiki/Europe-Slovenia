@@ -24,18 +24,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Goriška.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGoriška.public.md) 
+### [Goriška](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška.md) 
 
-### [Goriška.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGoriška.internal.md) 
+### [Goriška.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška.public.md) 
 
-### [Goriška.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGoriška.protect.md) 
+### [Goriška.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška.internal.md) 
 
-### [Goriška.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGoriška.private.md) 
+### [Goriška.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška.protect.md) 
 
-### [Goriška.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGoriška.personal.md) 
+### [Goriška.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška.private.md) 
 
-### [Goriška.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaGoriška.secret.md)
+### [Goriška.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška.personal.md) 
+
+### [Goriška.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Neuhaus.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Dobrna\CityBad_Neuhaus.public.md) 
+### [Bad_Neuhaus](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Dobrna/City/Bad_Neuhaus.md) 
 
-### [Bad_Neuhaus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Dobrna\CityBad_Neuhaus.internal.md) 
+### [Bad_Neuhaus.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Dobrna/City/Bad_Neuhaus.public.md) 
 
-### [Bad_Neuhaus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Dobrna\CityBad_Neuhaus.protect.md) 
+### [Bad_Neuhaus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Dobrna/City/Bad_Neuhaus.internal.md) 
 
-### [Bad_Neuhaus.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Dobrna\CityBad_Neuhaus.private.md) 
+### [Bad_Neuhaus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Dobrna/City/Bad_Neuhaus.protect.md) 
 
-### [Bad_Neuhaus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Dobrna\CityBad_Neuhaus.personal.md) 
+### [Bad_Neuhaus.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Dobrna/City/Bad_Neuhaus.private.md) 
 
-### [Bad_Neuhaus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Dobrna\CityBad_Neuhaus.secret.md)
+### [Bad_Neuhaus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Dobrna/City/Bad_Neuhaus.personal.md) 
+
+### [Bad_Neuhaus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Dobrna/City/Bad_Neuhaus.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Ivancna_Gorica/
 
 ## Confidential Links & Embeds: 
 
-### [Ivancna_Gorica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaIvancna_Gorica.public.md) 
+### [Ivancna_Gorica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica.md) 
 
-### [Ivancna_Gorica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaIvancna_Gorica.internal.md) 
+### [Ivancna_Gorica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica.public.md) 
 
-### [Ivancna_Gorica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaIvancna_Gorica.protect.md) 
+### [Ivancna_Gorica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica.internal.md) 
 
-### [Ivancna_Gorica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaIvancna_Gorica.private.md) 
+### [Ivancna_Gorica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica.protect.md) 
 
-### [Ivancna_Gorica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaIvancna_Gorica.personal.md) 
+### [Ivancna_Gorica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica.private.md) 
 
-### [Ivancna_Gorica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaIvancna_Gorica.secret.md)
+### [Ivancna_Gorica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica.personal.md) 
+
+### [Ivancna_Gorica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica.secret.md)
 

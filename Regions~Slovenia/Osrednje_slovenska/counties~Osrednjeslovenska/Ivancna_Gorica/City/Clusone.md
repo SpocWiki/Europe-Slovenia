@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clusone.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.public.md) 
+### [Clusone](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica/City/Clusone.md) 
 
-### [Clusone.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.internal.md) 
+### [Clusone.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica/City/Clusone.public.md) 
 
-### [Clusone.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.protect.md) 
+### [Clusone.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica/City/Clusone.internal.md) 
 
-### [Clusone.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.private.md) 
+### [Clusone.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica/City/Clusone.protect.md) 
 
-### [Clusone.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.personal.md) 
+### [Clusone.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica/City/Clusone.private.md) 
 
-### [Clusone.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.secret.md)
+### [Clusone.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica/City/Clusone.personal.md) 
+
+### [Clusone.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ivancna_Gorica/City/Clusone.secret.md)
 

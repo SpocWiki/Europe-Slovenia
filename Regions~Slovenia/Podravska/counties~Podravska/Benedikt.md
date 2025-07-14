@@ -41,15 +41,17 @@ markerFolder: ./Benedikt/
 
 ## Confidential Links & Embeds: 
 
-### [Benedikt.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaBenedikt.public.md) 
+### [Benedikt](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Benedikt.md) 
 
-### [Benedikt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaBenedikt.internal.md) 
+### [Benedikt.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Benedikt.public.md) 
 
-### [Benedikt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaBenedikt.protect.md) 
+### [Benedikt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Benedikt.internal.md) 
 
-### [Benedikt.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaBenedikt.private.md) 
+### [Benedikt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Benedikt.protect.md) 
 
-### [Benedikt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaBenedikt.personal.md) 
+### [Benedikt.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Benedikt.private.md) 
 
-### [Benedikt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaBenedikt.secret.md)
+### [Benedikt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Benedikt.personal.md) 
+
+### [Benedikt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Benedikt.secret.md)
 

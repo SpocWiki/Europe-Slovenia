@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rann.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.public.md) 
+### [Rann](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice/City/Rann.md) 
 
-### [Rann.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.internal.md) 
+### [Rann.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice/City/Rann.public.md) 
 
-### [Rann.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.protect.md) 
+### [Rann.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice/City/Rann.internal.md) 
 
-### [Rann.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.private.md) 
+### [Rann.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice/City/Rann.protect.md) 
 
-### [Rann.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.personal.md) 
+### [Rann.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice/City/Rann.private.md) 
 
-### [Rann.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.secret.md)
+### [Rann.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice/City/Rann.personal.md) 
+
+### [Rann.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Brežice/City/Rann.secret.md)
 

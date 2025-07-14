@@ -48,15 +48,17 @@ scale: 1
 
 ## Confidential Links & Embeds: 
 
-### [Kranjska_Gora.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranjska_Gora.public.md) 
+### [Kranjska_Gora](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranjska_Gora.md) 
 
-### [Kranjska_Gora.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranjska_Gora.internal.md) 
+### [Kranjska_Gora.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranjska_Gora.public.md) 
 
-### [Kranjska_Gora.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranjska_Gora.protect.md) 
+### [Kranjska_Gora.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranjska_Gora.internal.md) 
 
-### [Kranjska_Gora.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranjska_Gora.private.md) 
+### [Kranjska_Gora.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranjska_Gora.protect.md) 
 
-### [Kranjska_Gora.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranjska_Gora.personal.md) 
+### [Kranjska_Gora.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranjska_Gora.private.md) 
 
-### [Kranjska_Gora.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaKranjska_Gora.secret.md)
+### [Kranjska_Gora.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranjska_Gora.personal.md) 
+
+### [Kranjska_Gora.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Kranjska_Gora.secret.md)
 

@@ -19,18 +19,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Obalno-kraška.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaObalno-kraška.public.md) 
+### [Obalno-kraška](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška.md) 
 
-### [Obalno-kraška.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaObalno-kraška.internal.md) 
+### [Obalno-kraška.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška.public.md) 
 
-### [Obalno-kraška.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaObalno-kraška.protect.md) 
+### [Obalno-kraška.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška.internal.md) 
 
-### [Obalno-kraška.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaObalno-kraška.private.md) 
+### [Obalno-kraška.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška.protect.md) 
 
-### [Obalno-kraška.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaObalno-kraška.personal.md) 
+### [Obalno-kraška.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška.private.md) 
 
-### [Obalno-kraška.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaObalno-kraška.secret.md)
+### [Obalno-kraška.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška.personal.md) 
+
+### [Obalno-kraška.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Moravske_Toplice/
 
 ## Confidential Links & Embeds: 
 
-### [Moravske_Toplice.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.public.md) 
+### [Moravske_Toplice](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Moravske_Toplice.md) 
 
-### [Moravske_Toplice.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.internal.md) 
+### [Moravske_Toplice.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Moravske_Toplice.public.md) 
 
-### [Moravske_Toplice.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.protect.md) 
+### [Moravske_Toplice.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Moravske_Toplice.internal.md) 
 
-### [Moravske_Toplice.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.private.md) 
+### [Moravske_Toplice.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Moravske_Toplice.protect.md) 
 
-### [Moravske_Toplice.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.personal.md) 
+### [Moravske_Toplice.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Moravske_Toplice.private.md) 
 
-### [Moravske_Toplice.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.secret.md)
+### [Moravske_Toplice.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Moravske_Toplice.personal.md) 
+
+### [Moravske_Toplice.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Moravske_Toplice.secret.md)
 

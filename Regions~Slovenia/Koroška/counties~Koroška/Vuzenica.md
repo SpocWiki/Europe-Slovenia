@@ -41,15 +41,17 @@ markerFolder: ./Vuzenica/
 
 ## Confidential Links & Embeds: 
 
-### [Vuzenica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaVuzenica.public.md) 
+### [Vuzenica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Vuzenica.md) 
 
-### [Vuzenica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaVuzenica.internal.md) 
+### [Vuzenica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Vuzenica.public.md) 
 
-### [Vuzenica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaVuzenica.protect.md) 
+### [Vuzenica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Vuzenica.internal.md) 
 
-### [Vuzenica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaVuzenica.private.md) 
+### [Vuzenica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Vuzenica.protect.md) 
 
-### [Vuzenica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaVuzenica.personal.md) 
+### [Vuzenica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Vuzenica.private.md) 
 
-### [Vuzenica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaVuzenica.secret.md)
+### [Vuzenica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Vuzenica.personal.md) 
+
+### [Vuzenica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Vuzenica.secret.md)
 

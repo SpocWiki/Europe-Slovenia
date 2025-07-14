@@ -41,15 +41,17 @@ markerFolder: ./Črenšovci/
 
 ## Confidential Links & Embeds: 
 
-### [Črenšovci.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaČrenšovci.public.md) 
+### [Črenšovci](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Črenšovci.md) 
 
-### [Črenšovci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaČrenšovci.internal.md) 
+### [Črenšovci.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Črenšovci.public.md) 
 
-### [Črenšovci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaČrenšovci.protect.md) 
+### [Črenšovci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Črenšovci.internal.md) 
 
-### [Črenšovci.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaČrenšovci.private.md) 
+### [Črenšovci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Črenšovci.protect.md) 
 
-### [Črenšovci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaČrenšovci.personal.md) 
+### [Črenšovci.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Črenšovci.private.md) 
 
-### [Črenšovci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaČrenšovci.secret.md)
+### [Črenšovci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Črenšovci.personal.md) 
+
+### [Črenšovci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Pomurska/counties~Pomurska/Črenšovci.secret.md)
 

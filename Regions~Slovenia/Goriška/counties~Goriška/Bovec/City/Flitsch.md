@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Flitsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Bovec\CityFlitsch.public.md) 
+### [Flitsch](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Bovec/City/Flitsch.md) 
 
-### [Flitsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Bovec\CityFlitsch.internal.md) 
+### [Flitsch.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Bovec/City/Flitsch.public.md) 
 
-### [Flitsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Bovec\CityFlitsch.protect.md) 
+### [Flitsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Bovec/City/Flitsch.internal.md) 
 
-### [Flitsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Bovec\CityFlitsch.private.md) 
+### [Flitsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Bovec/City/Flitsch.protect.md) 
 
-### [Flitsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Bovec\CityFlitsch.personal.md) 
+### [Flitsch.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Bovec/City/Flitsch.private.md) 
 
-### [Flitsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~Goriška\Bovec\CityFlitsch.secret.md)
+### [Flitsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Bovec/City/Flitsch.personal.md) 
+
+### [Flitsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Bovec/City/Flitsch.secret.md)
 

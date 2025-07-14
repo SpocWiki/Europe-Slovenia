@@ -24,18 +24,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Podravska.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPodravska.public.md) 
+### [Podravska](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska.md) 
 
-### [Podravska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPodravska.internal.md) 
+### [Podravska.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska.public.md) 
 
-### [Podravska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPodravska.protect.md) 
+### [Podravska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska.internal.md) 
 
-### [Podravska.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPodravska.private.md) 
+### [Podravska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska.protect.md) 
 
-### [Podravska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPodravska.personal.md) 
+### [Podravska.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska.private.md) 
 
-### [Podravska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~SloveniaPodravska.secret.md)
+### [Podravska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska.personal.md) 
+
+### [Podravska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska.secret.md)
 

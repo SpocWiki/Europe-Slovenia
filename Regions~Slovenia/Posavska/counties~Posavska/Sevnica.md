@@ -41,15 +41,17 @@ markerFolder: ./Sevnica/
 
 ## Confidential Links & Embeds: 
 
-### [Sevnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaSevnica.public.md) 
+### [Sevnica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Sevnica.md) 
 
-### [Sevnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaSevnica.internal.md) 
+### [Sevnica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Sevnica.public.md) 
 
-### [Sevnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaSevnica.protect.md) 
+### [Sevnica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Sevnica.internal.md) 
 
-### [Sevnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaSevnica.private.md) 
+### [Sevnica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Sevnica.protect.md) 
 
-### [Sevnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaSevnica.personal.md) 
+### [Sevnica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Sevnica.private.md) 
 
-### [Sevnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaSevnica.secret.md)
+### [Sevnica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Sevnica.personal.md) 
+
+### [Sevnica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Sevnica.secret.md)
 
