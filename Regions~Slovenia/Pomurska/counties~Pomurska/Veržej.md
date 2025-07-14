@@ -40,11 +40,16 @@ markerFolder: ./Veržej/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Veržej|Veržej]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Veržej.public|Veržej.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Veržej.internal|Veržej.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Veržej.protect|Veržej.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Veržej.private|Veržej.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Veržej.personal|Veržej.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Veržej.secret|Veržej.secret]] 
+
+### [Veržej.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.public.md) 
+
+### [Veržej.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.internal.md) 
+
+### [Veržej.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.protect.md) 
+
+### [Veržej.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.private.md) 
+
+### [Veržej.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.personal.md) 
+
+### [Veržej.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaVeržej.secret.md)
 

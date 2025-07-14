@@ -40,11 +40,16 @@ markerFolder: ./Maribor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Maribor|Maribor]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Maribor.public|Maribor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Maribor.internal|Maribor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Maribor.protect|Maribor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Maribor.private|Maribor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Maribor.personal|Maribor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Maribor.secret|Maribor.secret]] 
+
+### [Maribor.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMaribor.public.md) 
+
+### [Maribor.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMaribor.internal.md) 
+
+### [Maribor.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMaribor.protect.md) 
+
+### [Maribor.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMaribor.private.md) 
+
+### [Maribor.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMaribor.personal.md) 
+
+### [Maribor.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaMaribor.secret.md)
 

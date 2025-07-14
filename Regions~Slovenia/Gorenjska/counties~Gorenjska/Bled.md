@@ -46,11 +46,16 @@ markerFolder: ./Bled/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Bled|Bled]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Bled.public|Bled.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Bled.internal|Bled.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Bled.protect|Bled.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Bled.private|Bled.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Bled.personal|Bled.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Bled.secret|Bled.secret]] 
+
+### [Bled.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaBled.public.md) 
+
+### [Bled.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaBled.internal.md) 
+
+### [Bled.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaBled.protect.md) 
+
+### [Bled.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaBled.private.md) 
+
+### [Bled.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaBled.personal.md) 
+
+### [Bled.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaBled.secret.md)
 

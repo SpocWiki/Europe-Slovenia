@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.58,15.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor|Marbur=Maribor]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.public|Marbur=Maribor.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.internal|Marbur=Maribor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.protect|Marbur=Maribor.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.private|Marbur=Maribor.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.personal|Marbur=Maribor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Marbur=Maribor.secret|Marbur=Maribor.secret]] 
+
+### [Marbur=Maribor.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.public.md) 
+
+### [Marbur=Maribor.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.internal.md) 
+
+### [Marbur=Maribor.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.protect.md) 
+
+### [Marbur=Maribor.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.private.md) 
+
+### [Marbur=Maribor.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.personal.md) 
+
+### [Marbur=Maribor.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Maribor\CityMarbur=Maribor.secret.md)
+

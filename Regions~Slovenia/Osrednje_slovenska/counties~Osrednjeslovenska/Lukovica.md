@@ -40,11 +40,16 @@ markerFolder: ./Lukovica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Lukovica|Lukovica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Lukovica.public|Lukovica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Lukovica.internal|Lukovica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Lukovica.protect|Lukovica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Lukovica.private|Lukovica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Lukovica.personal|Lukovica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Lukovica.secret|Lukovica.secret]] 
+
+### [Lukovica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.public.md) 
+
+### [Lukovica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.internal.md) 
+
+### [Lukovica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.protect.md) 
+
+### [Lukovica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.private.md) 
+
+### [Lukovica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.personal.md) 
+
+### [Lukovica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLukovica.secret.md)
 

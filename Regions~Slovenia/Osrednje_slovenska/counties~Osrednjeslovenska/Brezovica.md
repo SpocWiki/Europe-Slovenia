@@ -40,11 +40,16 @@ markerFolder: ./Brezovica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Brezovica|Brezovica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Brezovica.public|Brezovica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Brezovica.internal|Brezovica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Brezovica.protect|Brezovica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Brezovica.private|Brezovica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Brezovica.personal|Brezovica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Brezovica.secret|Brezovica.secret]] 
+
+### [Brezovica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBrezovica.public.md) 
+
+### [Brezovica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBrezovica.internal.md) 
+
+### [Brezovica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBrezovica.protect.md) 
+
+### [Brezovica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBrezovica.private.md) 
+
+### [Brezovica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBrezovica.personal.md) 
+
+### [Brezovica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaBrezovica.secret.md)
 

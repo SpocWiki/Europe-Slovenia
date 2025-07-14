@@ -40,11 +40,16 @@ markerFolder: ./Videm/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Videm|Videm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Videm.public|Videm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Videm.internal|Videm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Videm.protect|Videm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Videm.private|Videm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Videm.personal|Videm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Videm.secret|Videm.secret]] 
+
+### [Videm.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaVidem.public.md) 
+
+### [Videm.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaVidem.internal.md) 
+
+### [Videm.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaVidem.protect.md) 
+
+### [Videm.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaVidem.private.md) 
+
+### [Videm.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaVidem.personal.md) 
+
+### [Videm.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaVidem.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Tabor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Savinjska/Tabor|Tabor]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Savinjska/Tabor.public|Tabor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Tabor.internal|Tabor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Savinjska/Tabor.protect|Tabor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Savinjska/Tabor.private|Tabor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Tabor.personal|Tabor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Savinjska/Tabor.secret|Tabor.secret]] 
+
+### [Tabor.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaTabor.public.md) 
+
+### [Tabor.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaTabor.internal.md) 
+
+### [Tabor.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaTabor.protect.md) 
+
+### [Tabor.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaTabor.private.md) 
+
+### [Tabor.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaTabor.personal.md) 
+
+### [Tabor.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaTabor.secret.md)
 

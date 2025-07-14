@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.78,14.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Adelsberg|Adelsberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Adelsberg.public|Adelsberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Adelsberg.internal|Adelsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Adelsberg.protect|Adelsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Adelsberg.private|Adelsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Adelsberg.personal|Adelsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Adelsberg.secret|Adelsberg.secret]] 
+
+### [Adelsberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Postojna\CityAdelsberg.public.md) 
+
+### [Adelsberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Postojna\CityAdelsberg.internal.md) 
+
+### [Adelsberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Postojna\CityAdelsberg.protect.md) 
+
+### [Adelsberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Postojna\CityAdelsberg.private.md) 
+
+### [Adelsberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Postojna\CityAdelsberg.personal.md) 
+
+### [Adelsberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Postojna\CityAdelsberg.secret.md)
+

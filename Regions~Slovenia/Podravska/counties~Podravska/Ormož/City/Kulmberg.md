@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.42,16.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Kulmberg|Kulmberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kulmberg.public|Kulmberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kulmberg.internal|Kulmberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kulmberg.protect|Kulmberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kulmberg.private|Kulmberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kulmberg.personal|Kulmberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kulmberg.secret|Kulmberg.secret]] 
+
+### [Kulmberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.public.md) 
+
+### [Kulmberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.internal.md) 
+
+### [Kulmberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.protect.md) 
+
+### [Kulmberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.private.md) 
+
+### [Kulmberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.personal.md) 
+
+### [Kulmberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Ormož\CityKulmberg.secret.md)
+

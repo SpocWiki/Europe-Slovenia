@@ -40,11 +40,16 @@ markerFolder: ./Puconci/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Puconci|Puconci]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Puconci.public|Puconci.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Puconci.internal|Puconci.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Puconci.protect|Puconci.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Puconci.private|Puconci.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Puconci.personal|Puconci.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Puconci.secret|Puconci.secret]] 
+
+### [Puconci.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaPuconci.public.md) 
+
+### [Puconci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaPuconci.internal.md) 
+
+### [Puconci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaPuconci.protect.md) 
+
+### [Puconci.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaPuconci.private.md) 
+
+### [Puconci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaPuconci.personal.md) 
+
+### [Puconci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaPuconci.secret.md)
 

@@ -48,11 +48,16 @@ markerFolder: ./Naklo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Naklo|Naklo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Naklo.public|Naklo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Naklo.internal|Naklo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Naklo.protect|Naklo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Naklo.private|Naklo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Naklo.personal|Naklo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Gorenjska~Upper_Carniola/Naklo.secret|Naklo.secret]] 
+
+### [Naklo.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaNaklo.public.md) 
+
+### [Naklo.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaNaklo.internal.md) 
+
+### [Naklo.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaNaklo.protect.md) 
+
+### [Naklo.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaNaklo.private.md) 
+
+### [Naklo.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaNaklo.personal.md) 
+
+### [Naklo.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~GorenjskaNaklo.secret.md)
 

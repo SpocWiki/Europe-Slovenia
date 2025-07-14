@@ -40,11 +40,16 @@ markerFolder: ./Ribnica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Ribnica|Ribnica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Ribnica.public|Ribnica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Ribnica.internal|Ribnica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Ribnica.protect|Ribnica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Ribnica.private|Ribnica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Ribnica.personal|Ribnica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Ribnica.secret|Ribnica.secret]] 
+
+### [Ribnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaRibnica.public.md) 
+
+### [Ribnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaRibnica.internal.md) 
+
+### [Ribnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaRibnica.protect.md) 
+
+### [Ribnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaRibnica.private.md) 
+
+### [Ribnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaRibnica.personal.md) 
+
+### [Ribnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaRibnica.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Izola/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Izola|Izola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Izola.public|Izola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Izola.internal|Izola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Izola.protect|Izola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Izola.private|Izola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Izola.personal|Izola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Izola.secret|Izola.secret]] 
+
+### [Izola.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaIzola.public.md) 
+
+### [Izola.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaIzola.internal.md) 
+
+### [Izola.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaIzola.protect.md) 
+
+### [Izola.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaIzola.private.md) 
+
+### [Izola.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaIzola.personal.md) 
+
+### [Izola.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaIzola.secret.md)
 

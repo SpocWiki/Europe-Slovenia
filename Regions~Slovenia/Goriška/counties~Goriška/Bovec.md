@@ -40,11 +40,16 @@ markerFolder: ./Bovec/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Bovec|Bovec]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Bovec.public|Bovec.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Bovec.internal|Bovec.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Bovec.protect|Bovec.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Bovec.private|Bovec.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Bovec.personal|Bovec.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Bovec.secret|Bovec.secret]] 
+
+### [Bovec.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaBovec.public.md) 
+
+### [Bovec.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaBovec.internal.md) 
+
+### [Bovec.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaBovec.protect.md) 
+
+### [Bovec.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaBovec.private.md) 
+
+### [Bovec.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaBovec.personal.md) 
+
+### [Bovec.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaBovec.secret.md)
 

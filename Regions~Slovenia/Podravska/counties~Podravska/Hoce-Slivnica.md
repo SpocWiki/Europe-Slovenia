@@ -40,11 +40,16 @@ markerFolder: ./Hoce-Slivnica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Hoce-Slivnica|Hoce-Slivnica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Hoce-Slivnica.public|Hoce-Slivnica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Hoce-Slivnica.internal|Hoce-Slivnica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Hoce-Slivnica.protect|Hoce-Slivnica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Hoce-Slivnica.private|Hoce-Slivnica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Hoce-Slivnica.personal|Hoce-Slivnica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Hoce-Slivnica.secret|Hoce-Slivnica.secret]] 
+
+### [Hoce-Slivnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.public.md) 
+
+### [Hoce-Slivnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.internal.md) 
+
+### [Hoce-Slivnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.protect.md) 
+
+### [Hoce-Slivnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.private.md) 
+
+### [Hoce-Slivnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.personal.md) 
+
+### [Hoce-Slivnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaHoce-Slivnica.secret.md)
 

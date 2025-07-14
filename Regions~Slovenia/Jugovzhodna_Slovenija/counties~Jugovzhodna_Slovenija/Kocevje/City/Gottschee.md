@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.63,14.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Gottschee|Gottschee]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Gottschee.public|Gottschee.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Gottschee.internal|Gottschee.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Gottschee.protect|Gottschee.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Gottschee.private|Gottschee.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Gottschee.personal|Gottschee.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Gottschee.secret|Gottschee.secret]] 
+
+### [Gottschee.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Kocevje\CityGottschee.public.md) 
+
+### [Gottschee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Kocevje\CityGottschee.internal.md) 
+
+### [Gottschee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Kocevje\CityGottschee.protect.md) 
+
+### [Gottschee.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Kocevje\CityGottschee.private.md) 
+
+### [Gottschee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Kocevje\CityGottschee.personal.md) 
+
+### [Gottschee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Kocevje\CityGottschee.secret.md)
+

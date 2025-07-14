@@ -40,11 +40,16 @@ markerFolder: ./Kobilje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kobilje|Kobilje]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kobilje.public|Kobilje.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kobilje.internal|Kobilje.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kobilje.protect|Kobilje.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kobilje.private|Kobilje.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kobilje.personal|Kobilje.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kobilje.secret|Kobilje.secret]] 
+
+### [Kobilje.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKobilje.public.md) 
+
+### [Kobilje.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKobilje.internal.md) 
+
+### [Kobilje.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKobilje.protect.md) 
+
+### [Kobilje.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKobilje.private.md) 
+
+### [Kobilje.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKobilje.personal.md) 
+
+### [Kobilje.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKobilje.secret.md)
 

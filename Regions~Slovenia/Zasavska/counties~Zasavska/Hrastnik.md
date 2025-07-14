@@ -40,11 +40,16 @@ markerFolder: ./Hrastnik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Hrastnik|Hrastnik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Hrastnik.public|Hrastnik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Hrastnik.internal|Hrastnik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Hrastnik.protect|Hrastnik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Hrastnik.private|Hrastnik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Hrastnik.personal|Hrastnik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Hrastnik.secret|Hrastnik.secret]] 
+
+### [Hrastnik.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaHrastnik.public.md) 
+
+### [Hrastnik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaHrastnik.internal.md) 
+
+### [Hrastnik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaHrastnik.protect.md) 
+
+### [Hrastnik.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaHrastnik.private.md) 
+
+### [Hrastnik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaHrastnik.personal.md) 
+
+### [Hrastnik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaHrastnik.secret.md)
 

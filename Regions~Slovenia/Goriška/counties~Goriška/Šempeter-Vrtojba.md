@@ -40,11 +40,16 @@ markerFolder: ./Šempeter-Vrtojba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Šempeter-Vrtojba|Šempeter-Vrtojba]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Šempeter-Vrtojba.public|Šempeter-Vrtojba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Šempeter-Vrtojba.internal|Šempeter-Vrtojba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Šempeter-Vrtojba.protect|Šempeter-Vrtojba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Šempeter-Vrtojba.private|Šempeter-Vrtojba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Šempeter-Vrtojba.personal|Šempeter-Vrtojba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Šempeter-Vrtojba.secret|Šempeter-Vrtojba.secret]] 
+
+### [Šempeter-Vrtojba.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.public.md) 
+
+### [Šempeter-Vrtojba.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.internal.md) 
+
+### [Šempeter-Vrtojba.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.protect.md) 
+
+### [Šempeter-Vrtojba.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.private.md) 
+
+### [Šempeter-Vrtojba.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.personal.md) 
+
+### [Šempeter-Vrtojba.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaŠempeter-Vrtojba.secret.md)
 

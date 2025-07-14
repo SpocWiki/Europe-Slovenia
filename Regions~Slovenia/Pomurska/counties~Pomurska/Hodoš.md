@@ -40,11 +40,16 @@ markerFolder: ./Hodoš/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Hodoš|Hodoš]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Hodoš.public|Hodoš.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Hodoš.internal|Hodoš.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Hodoš.protect|Hodoš.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Hodoš.private|Hodoš.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Hodoš.personal|Hodoš.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Hodoš.secret|Hodoš.secret]] 
+
+### [Hodoš.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaHodoš.public.md) 
+
+### [Hodoš.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaHodoš.internal.md) 
+
+### [Hodoš.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaHodoš.protect.md) 
+
+### [Hodoš.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaHodoš.private.md) 
+
+### [Hodoš.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaHodoš.personal.md) 
+
+### [Hodoš.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaHodoš.secret.md)
 

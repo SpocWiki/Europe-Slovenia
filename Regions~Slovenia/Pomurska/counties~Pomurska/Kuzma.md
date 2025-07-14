@@ -40,11 +40,16 @@ markerFolder: ./Kuzma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kuzma|Kuzma]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kuzma.public|Kuzma.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kuzma.internal|Kuzma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kuzma.protect|Kuzma.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kuzma.private|Kuzma.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kuzma.personal|Kuzma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Kuzma.secret|Kuzma.secret]] 
+
+### [Kuzma.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKuzma.public.md) 
+
+### [Kuzma.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKuzma.internal.md) 
+
+### [Kuzma.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKuzma.protect.md) 
+
+### [Kuzma.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKuzma.private.md) 
+
+### [Kuzma.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKuzma.personal.md) 
+
+### [Kuzma.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaKuzma.secret.md)
 

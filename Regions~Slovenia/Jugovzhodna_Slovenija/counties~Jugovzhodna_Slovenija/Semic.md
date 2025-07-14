@@ -40,11 +40,16 @@ markerFolder: ./Semic/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Semic|Semic]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Semic.public|Semic.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Semic.internal|Semic.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Semic.protect|Semic.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Semic.private|Semic.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Semic.personal|Semic.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Semic.secret|Semic.secret]] 
+
+### [Semic.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSemic.public.md) 
+
+### [Semic.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSemic.internal.md) 
+
+### [Semic.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSemic.protect.md) 
+
+### [Semic.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSemic.private.md) 
+
+### [Semic.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSemic.personal.md) 
+
+### [Semic.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaSemic.secret.md)
 

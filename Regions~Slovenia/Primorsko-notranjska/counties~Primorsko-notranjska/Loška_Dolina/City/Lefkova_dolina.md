@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.63,14.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina|Lefkova_dolina]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.public|Lefkova_dolina.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.internal|Lefkova_dolina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.protect|Lefkova_dolina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.private|Lefkova_dolina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.personal|Lefkova_dolina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.secret|Lefkova_dolina.secret]] 
+
+### [Lefkova_dolina.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.public.md) 
+
+### [Lefkova_dolina.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.internal.md) 
+
+### [Lefkova_dolina.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.protect.md) 
+
+### [Lefkova_dolina.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.private.md) 
+
+### [Lefkova_dolina.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.personal.md) 
+
+### [Lefkova_dolina.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Loška_Dolina\CityLefkova_dolina.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Metlika/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Metlika|Metlika]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Metlika.public|Metlika.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Metlika.internal|Metlika.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Metlika.protect|Metlika.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Metlika.private|Metlika.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Metlika.personal|Metlika.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Metlika.secret|Metlika.secret]] 
+
+### [Metlika.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.public.md) 
+
+### [Metlika.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.internal.md) 
+
+### [Metlika.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.protect.md) 
+
+### [Metlika.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.private.md) 
+
+### [Metlika.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.personal.md) 
+
+### [Metlika.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaMetlika.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Bistrica_ob_Sotli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Bistrica_ob_Sotli|Bistrica_ob_Sotli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Bistrica_ob_Sotli.public|Bistrica_ob_Sotli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Bistrica_ob_Sotli.internal|Bistrica_ob_Sotli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Bistrica_ob_Sotli.protect|Bistrica_ob_Sotli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Bistrica_ob_Sotli.private|Bistrica_ob_Sotli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Bistrica_ob_Sotli.personal|Bistrica_ob_Sotli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Bistrica_ob_Sotli.secret|Bistrica_ob_Sotli.secret]] 
+
+### [Bistrica_ob_Sotli.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBistrica_ob_Sotli.public.md) 
+
+### [Bistrica_ob_Sotli.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBistrica_ob_Sotli.internal.md) 
+
+### [Bistrica_ob_Sotli.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBistrica_ob_Sotli.protect.md) 
+
+### [Bistrica_ob_Sotli.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBistrica_ob_Sotli.private.md) 
+
+### [Bistrica_ob_Sotli.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBistrica_ob_Sotli.personal.md) 
+
+### [Bistrica_ob_Sotli.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaBistrica_ob_Sotli.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Škofljica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Škofljica|Škofljica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Škofljica.public|Škofljica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Škofljica.internal|Škofljica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Škofljica.protect|Škofljica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Škofljica.private|Škofljica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Škofljica.personal|Škofljica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Škofljica.secret|Škofljica.secret]] 
+
+### [Škofljica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠkofljica.public.md) 
+
+### [Škofljica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠkofljica.internal.md) 
+
+### [Škofljica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠkofljica.protect.md) 
+
+### [Škofljica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠkofljica.private.md) 
+
+### [Škofljica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠkofljica.personal.md) 
+
+### [Škofljica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠkofljica.secret.md)
 

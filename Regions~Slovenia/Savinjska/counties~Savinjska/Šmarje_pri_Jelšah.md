@@ -40,11 +40,16 @@ markerFolder: ./Šmarje_pri_Jelšah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmarje_pri_Jelšah|Šmarje_pri_Jelšah]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmarje_pri_Jelšah.public|Šmarje_pri_Jelšah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmarje_pri_Jelšah.internal|Šmarje_pri_Jelšah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmarje_pri_Jelšah.protect|Šmarje_pri_Jelšah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmarje_pri_Jelšah.private|Šmarje_pri_Jelšah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmarje_pri_Jelšah.personal|Šmarje_pri_Jelšah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmarje_pri_Jelšah.secret|Šmarje_pri_Jelšah.secret]] 
+
+### [Šmarje_pri_Jelšah.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmarje_pri_Jelšah.public.md) 
+
+### [Šmarje_pri_Jelšah.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmarje_pri_Jelšah.internal.md) 
+
+### [Šmarje_pri_Jelšah.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmarje_pri_Jelšah.protect.md) 
+
+### [Šmarje_pri_Jelšah.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmarje_pri_Jelšah.private.md) 
+
+### [Šmarje_pri_Jelšah.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmarje_pri_Jelšah.personal.md) 
+
+### [Šmarje_pri_Jelšah.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmarje_pri_Jelšah.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.9,15.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Rann|Rann]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Rann.public|Rann.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Rann.internal|Rann.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Rann.protect|Rann.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Rann.private|Rann.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Rann.personal|Rann.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Rann.secret|Rann.secret]] 
+
+### [Rann.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.public.md) 
+
+### [Rann.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.internal.md) 
+
+### [Rann.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.protect.md) 
+
+### [Rann.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.private.md) 
+
+### [Rann.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.personal.md) 
+
+### [Rann.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~Posavska\Brežice\CityRann.secret.md)
+

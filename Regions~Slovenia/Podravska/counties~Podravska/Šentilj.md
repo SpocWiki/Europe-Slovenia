@@ -40,11 +40,16 @@ markerFolder: ./Šentilj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Šentilj|Šentilj]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Šentilj.public|Šentilj.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Šentilj.internal|Šentilj.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Šentilj.protect|Šentilj.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Šentilj.private|Šentilj.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Šentilj.personal|Šentilj.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Šentilj.secret|Šentilj.secret]] 
+
+### [Šentilj.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaŠentilj.public.md) 
+
+### [Šentilj.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaŠentilj.internal.md) 
+
+### [Šentilj.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaŠentilj.protect.md) 
+
+### [Šentilj.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaŠentilj.private.md) 
+
+### [Šentilj.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaŠentilj.personal.md) 
+
+### [Šentilj.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaŠentilj.secret.md)
 

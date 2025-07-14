@@ -40,11 +40,16 @@ markerFolder: ./Podvelka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Podvelka|Podvelka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Podvelka.public|Podvelka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Podvelka.internal|Podvelka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Podvelka.protect|Podvelka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Podvelka.private|Podvelka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Podvelka.personal|Podvelka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Podvelka.secret|Podvelka.secret]] 
+
+### [Podvelka.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.public.md) 
+
+### [Podvelka.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.internal.md) 
+
+### [Podvelka.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.protect.md) 
+
+### [Podvelka.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.private.md) 
+
+### [Podvelka.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.personal.md) 
+
+### [Podvelka.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaPodvelka.secret.md)
 

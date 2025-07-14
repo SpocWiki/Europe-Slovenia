@@ -40,11 +40,16 @@ markerFolder: ./Loška_dolina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Loška_dolina|Loška_dolina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Loška_dolina.public|Loška_dolina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Loška_dolina.internal|Loška_dolina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Loška_dolina.protect|Loška_dolina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Loška_dolina.private|Loška_dolina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Loška_dolina.personal|Loška_dolina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Loška_dolina.secret|Loška_dolina.secret]] 
+
+### [Loška_dolina.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaLoška_dolina.public.md) 
+
+### [Loška_dolina.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaLoška_dolina.internal.md) 
+
+### [Loška_dolina.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaLoška_dolina.protect.md) 
+
+### [Loška_dolina.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaLoška_dolina.private.md) 
+
+### [Loška_dolina.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaLoška_dolina.personal.md) 
+
+### [Loška_dolina.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaLoška_dolina.secret.md)
 

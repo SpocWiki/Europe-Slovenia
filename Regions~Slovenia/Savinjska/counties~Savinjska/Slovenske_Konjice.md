@@ -40,11 +40,16 @@ markerFolder: ./Slovenske_Konjice/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Savinjska/Slovenske_Konjice|Slovenske_Konjice]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Savinjska/Slovenske_Konjice.public|Slovenske_Konjice.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Slovenske_Konjice.internal|Slovenske_Konjice.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Savinjska/Slovenske_Konjice.protect|Slovenske_Konjice.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Savinjska/Slovenske_Konjice.private|Slovenske_Konjice.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Slovenske_Konjice.personal|Slovenske_Konjice.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Savinjska/Slovenske_Konjice.secret|Slovenske_Konjice.secret]] 
+
+### [Slovenske_Konjice.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaSlovenske_Konjice.public.md) 
+
+### [Slovenske_Konjice.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaSlovenske_Konjice.internal.md) 
+
+### [Slovenske_Konjice.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaSlovenske_Konjice.protect.md) 
+
+### [Slovenske_Konjice.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaSlovenske_Konjice.private.md) 
+
+### [Slovenske_Konjice.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaSlovenske_Konjice.personal.md) 
+
+### [Slovenske_Konjice.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaSlovenske_Konjice.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Ljubljana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Ljubljana|Ljubljana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Ljubljana.public|Ljubljana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Ljubljana.internal|Ljubljana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Ljubljana.protect|Ljubljana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Ljubljana.private|Ljubljana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Ljubljana.personal|Ljubljana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Ljubljana.secret|Ljubljana.secret]] 
+
+### [Ljubljana.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLjubljana.public.md) 
+
+### [Ljubljana.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLjubljana.internal.md) 
+
+### [Ljubljana.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLjubljana.protect.md) 
+
+### [Ljubljana.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLjubljana.private.md) 
+
+### [Ljubljana.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLjubljana.personal.md) 
+
+### [Ljubljana.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaLjubljana.secret.md)
 

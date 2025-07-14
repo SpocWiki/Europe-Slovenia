@@ -40,11 +40,16 @@ markerFolder: ./Mengeš/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Mengeš|Mengeš]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Mengeš.public|Mengeš.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Mengeš.internal|Mengeš.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Mengeš.protect|Mengeš.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Mengeš.private|Mengeš.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Mengeš.personal|Mengeš.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Mengeš.secret|Mengeš.secret]] 
+
+### [Mengeš.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.public.md) 
+
+### [Mengeš.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.internal.md) 
+
+### [Mengeš.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.protect.md) 
+
+### [Mengeš.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.private.md) 
+
+### [Mengeš.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.personal.md) 
+
+### [Mengeš.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaMengeš.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Idrija/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Idrija|Idrija]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Idrija.public|Idrija.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Idrija.internal|Idrija.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Idrija.protect|Idrija.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Idrija.private|Idrija.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Idrija.personal|Idrija.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Idrija.secret|Idrija.secret]] 
+
+### [Idrija.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaIdrija.public.md) 
+
+### [Idrija.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaIdrija.internal.md) 
+
+### [Idrija.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaIdrija.protect.md) 
+
+### [Idrija.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaIdrija.private.md) 
+
+### [Idrija.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaIdrija.personal.md) 
+
+### [Idrija.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaIdrija.secret.md)
 

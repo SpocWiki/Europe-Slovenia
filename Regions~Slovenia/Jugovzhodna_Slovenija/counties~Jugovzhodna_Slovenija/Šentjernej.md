@@ -40,11 +40,16 @@ markerFolder: ./Šentjernej/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Šentjernej|Šentjernej]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Šentjernej.public|Šentjernej.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Šentjernej.internal|Šentjernej.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Šentjernej.protect|Šentjernej.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Šentjernej.private|Šentjernej.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Šentjernej.personal|Šentjernej.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Šentjernej.secret|Šentjernej.secret]] 
+
+### [Šentjernej.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠentjernej.public.md) 
+
+### [Šentjernej.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠentjernej.internal.md) 
+
+### [Šentjernej.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠentjernej.protect.md) 
+
+### [Šentjernej.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠentjernej.private.md) 
+
+### [Šentjernej.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠentjernej.personal.md) 
+
+### [Šentjernej.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaŠentjernej.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.78,15.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Stauden|Stauden]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Stauden.public|Stauden.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stauden.internal|Stauden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stauden.protect|Stauden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stauden.private|Stauden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stauden.personal|Stauden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stauden.secret|Stauden.secret]] 
+
+### [Stauden.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Novo_Mesto\CityStauden.public.md) 
+
+### [Stauden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Novo_Mesto\CityStauden.internal.md) 
+
+### [Stauden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Novo_Mesto\CityStauden.protect.md) 
+
+### [Stauden.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Novo_Mesto\CityStauden.private.md) 
+
+### [Stauden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Novo_Mesto\CityStauden.personal.md) 
+
+### [Stauden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_Slovenija\Novo_Mesto\CityStauden.secret.md)
+

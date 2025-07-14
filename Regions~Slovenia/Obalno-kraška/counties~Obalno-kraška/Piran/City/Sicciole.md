@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.48,13.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Sicciole|Sicciole]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Sicciole.public|Sicciole.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Sicciole.internal|Sicciole.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Sicciole.protect|Sicciole.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Sicciole.private|Sicciole.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Sicciole.personal|Sicciole.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Sicciole.secret|Sicciole.secret]] 
+
+### [Sicciole.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CitySicciole.public.md) 
+
+### [Sicciole.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CitySicciole.internal.md) 
+
+### [Sicciole.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CitySicciole.protect.md) 
+
+### [Sicciole.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CitySicciole.private.md) 
+
+### [Sicciole.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CitySicciole.personal.md) 
+
+### [Sicciole.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CitySicciole.secret.md)
+

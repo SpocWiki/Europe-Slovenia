@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.53,13.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Strugnango|Strugnango]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Strugnango.public|Strugnango.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Strugnango.internal|Strugnango.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Strugnango.protect|Strugnango.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Strugnango.private|Strugnango.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Strugnango.personal|Strugnango.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Strugnango.secret|Strugnango.secret]] 
+
+### [Strugnango.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CityStrugnango.public.md) 
+
+### [Strugnango.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CityStrugnango.internal.md) 
+
+### [Strugnango.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CityStrugnango.protect.md) 
+
+### [Strugnango.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CityStrugnango.private.md) 
+
+### [Strugnango.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CityStrugnango.personal.md) 
+
+### [Strugnango.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Piran\CityStrugnango.secret.md)
+

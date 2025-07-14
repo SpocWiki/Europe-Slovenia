@@ -130,14 +130,17 @@ Capital :: [[Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]
 [has_place_latitude::46.05] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Slovenia|Slovenia]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Slovenia.public|Slovenia.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Slovenia.internal|Slovenia.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Slovenia.protect|Slovenia.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Slovenia.private|Slovenia.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Slovenia.personal|Slovenia.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Slovenia.secret|Slovenia.secret]] 
 
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\SloveniaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\SloveniaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\SloveniaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\SloveniaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\SloveniaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\SloveniaReadMe.secret.md)
 

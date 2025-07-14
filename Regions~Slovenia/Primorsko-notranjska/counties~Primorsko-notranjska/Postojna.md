@@ -40,11 +40,16 @@ markerFolder: ./Postojna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Postojna|Postojna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Postojna.public|Postojna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Postojna.internal|Postojna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Postojna.protect|Postojna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Postojna.private|Postojna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Postojna.personal|Postojna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Postojna.secret|Postojna.secret]] 
+
+### [Postojna.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPostojna.public.md) 
+
+### [Postojna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPostojna.internal.md) 
+
+### [Postojna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPostojna.protect.md) 
+
+### [Postojna.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPostojna.private.md) 
+
+### [Postojna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPostojna.personal.md) 
+
+### [Postojna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPostojna.secret.md)
 

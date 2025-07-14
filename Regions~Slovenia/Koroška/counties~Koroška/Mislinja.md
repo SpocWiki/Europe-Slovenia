@@ -40,11 +40,16 @@ markerFolder: ./Mislinja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mislinja|Mislinja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mislinja.public|Mislinja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mislinja.internal|Mislinja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mislinja.protect|Mislinja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mislinja.private|Mislinja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mislinja.personal|Mislinja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mislinja.secret|Mislinja.secret]] 
+
+### [Mislinja.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMislinja.public.md) 
+
+### [Mislinja.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMislinja.internal.md) 
+
+### [Mislinja.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMislinja.protect.md) 
+
+### [Mislinja.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMislinja.private.md) 
+
+### [Mislinja.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMislinja.personal.md) 
+
+### [Mislinja.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMislinja.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Lovrenc_na_Pohorju/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Lovrenc_na_Pohorju|Lovrenc_na_Pohorju]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Lovrenc_na_Pohorju.public|Lovrenc_na_Pohorju.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Lovrenc_na_Pohorju.internal|Lovrenc_na_Pohorju.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Lovrenc_na_Pohorju.protect|Lovrenc_na_Pohorju.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Lovrenc_na_Pohorju.private|Lovrenc_na_Pohorju.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Lovrenc_na_Pohorju.personal|Lovrenc_na_Pohorju.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Lovrenc_na_Pohorju.secret|Lovrenc_na_Pohorju.secret]] 
+
+### [Lovrenc_na_Pohorju.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLovrenc_na_Pohorju.public.md) 
+
+### [Lovrenc_na_Pohorju.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLovrenc_na_Pohorju.internal.md) 
+
+### [Lovrenc_na_Pohorju.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLovrenc_na_Pohorju.protect.md) 
+
+### [Lovrenc_na_Pohorju.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLovrenc_na_Pohorju.private.md) 
+
+### [Lovrenc_na_Pohorju.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLovrenc_na_Pohorju.personal.md) 
+
+### [Lovrenc_na_Pohorju.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaLovrenc_na_Pohorju.secret.md)
 

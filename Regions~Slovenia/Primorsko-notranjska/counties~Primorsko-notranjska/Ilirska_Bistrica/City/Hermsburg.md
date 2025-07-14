@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.52,14.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Hermsburg|Hermsburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Hermsburg.public|Hermsburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Hermsburg.internal|Hermsburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Hermsburg.protect|Hermsburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Hermsburg.private|Hermsburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Hermsburg.personal|Hermsburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Hermsburg.secret|Hermsburg.secret]] 
+
+### [Hermsburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.public.md) 
+
+### [Hermsburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.internal.md) 
+
+### [Hermsburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.protect.md) 
+
+### [Hermsburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.private.md) 
+
+### [Hermsburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.personal.md) 
+
+### [Hermsburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityHermsburg.secret.md)
+

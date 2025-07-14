@@ -40,11 +40,16 @@ markerFolder: ./Ravne_na_Koroškem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ravne_na_Koroškem|Ravne_na_Koroškem]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ravne_na_Koroškem.public|Ravne_na_Koroškem.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ravne_na_Koroškem.internal|Ravne_na_Koroškem.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ravne_na_Koroškem.protect|Ravne_na_Koroškem.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ravne_na_Koroškem.private|Ravne_na_Koroškem.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ravne_na_Koroškem.personal|Ravne_na_Koroškem.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ravne_na_Koroškem.secret|Ravne_na_Koroškem.secret]] 
+
+### [Ravne_na_Koroškem.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRavne_na_Koroškem.public.md) 
+
+### [Ravne_na_Koroškem.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRavne_na_Koroškem.internal.md) 
+
+### [Ravne_na_Koroškem.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRavne_na_Koroškem.protect.md) 
+
+### [Ravne_na_Koroškem.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRavne_na_Koroškem.private.md) 
+
+### [Ravne_na_Koroškem.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRavne_na_Koroškem.personal.md) 
+
+### [Ravne_na_Koroškem.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRavne_na_Koroškem.secret.md)
 

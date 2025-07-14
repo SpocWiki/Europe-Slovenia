@@ -40,11 +40,16 @@ markerFolder: ./Krsko/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Krsko|Krsko]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Krsko.public|Krsko.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Krsko.internal|Krsko.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Krsko.protect|Krsko.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Krsko.private|Krsko.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Krsko.personal|Krsko.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Posavska~Lower/Krsko.secret|Krsko.secret]] 
+
+### [Krsko.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrsko.public.md) 
+
+### [Krsko.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrsko.internal.md) 
+
+### [Krsko.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrsko.protect.md) 
+
+### [Krsko.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrsko.private.md) 
+
+### [Krsko.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrsko.personal.md) 
+
+### [Krsko.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Posavska\counties~PosavskaKrsko.secret.md)
 

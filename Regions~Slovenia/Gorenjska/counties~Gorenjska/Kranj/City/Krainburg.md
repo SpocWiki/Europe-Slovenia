@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.23,14.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Krainburg|Krainburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Krainburg.public|Krainburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Krainburg.internal|Krainburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Krainburg.protect|Krainburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Krainburg.private|Krainburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Krainburg.personal|Krainburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Krainburg.secret|Krainburg.secret]] 
+
+### [Krainburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.public.md) 
+
+### [Krainburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.internal.md) 
+
+### [Krainburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.protect.md) 
+
+### [Krainburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.private.md) 
+
+### [Krainburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.personal.md) 
+
+### [Krainburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Kranj\CityKrainburg.secret.md)
+

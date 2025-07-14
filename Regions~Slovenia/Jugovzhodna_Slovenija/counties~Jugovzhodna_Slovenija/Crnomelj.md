@@ -40,11 +40,16 @@ markerFolder: ./Crnomelj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Crnomelj|Crnomelj]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Crnomelj.public|Crnomelj.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Crnomelj.internal|Crnomelj.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Crnomelj.protect|Crnomelj.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Crnomelj.private|Crnomelj.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Crnomelj.personal|Crnomelj.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Jugovzhodna_Slovenija~Southeast/Crnomelj.secret|Crnomelj.secret]] 
+
+### [Crnomelj.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.public.md) 
+
+### [Crnomelj.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.internal.md) 
+
+### [Crnomelj.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.protect.md) 
+
+### [Crnomelj.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.private.md) 
+
+### [Crnomelj.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.personal.md) 
+
+### [Crnomelj.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Jugovzhodna_Slovenija\counties~Jugovzhodna_SlovenijaCrnomelj.secret.md)
 

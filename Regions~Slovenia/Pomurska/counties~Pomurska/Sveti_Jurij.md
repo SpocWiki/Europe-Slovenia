@@ -40,11 +40,16 @@ markerFolder: ./Sveti_Jurij/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Sveti_Jurij|Sveti_Jurij]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Sveti_Jurij.public|Sveti_Jurij.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Sveti_Jurij.internal|Sveti_Jurij.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Sveti_Jurij.protect|Sveti_Jurij.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Sveti_Jurij.private|Sveti_Jurij.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Sveti_Jurij.personal|Sveti_Jurij.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Sveti_Jurij.secret|Sveti_Jurij.secret]] 
+
+### [Sveti_Jurij.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.public.md) 
+
+### [Sveti_Jurij.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.internal.md) 
+
+### [Sveti_Jurij.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.protect.md) 
+
+### [Sveti_Jurij.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.private.md) 
+
+### [Sveti_Jurij.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.personal.md) 
+
+### [Sveti_Jurij.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaSveti_Jurij.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Šmartno_in_Litiji/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Šmartno_in_Litiji|Šmartno_in_Litiji]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Šmartno_in_Litiji.public|Šmartno_in_Litiji.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Šmartno_in_Litiji.internal|Šmartno_in_Litiji.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Šmartno_in_Litiji.protect|Šmartno_in_Litiji.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Šmartno_in_Litiji.private|Šmartno_in_Litiji.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Šmartno_in_Litiji.personal|Šmartno_in_Litiji.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Osrednje_slovenska~Central/Šmartno_in_Litiji.secret|Šmartno_in_Litiji.secret]] 
+
+### [Šmartno_in_Litiji.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠmartno_in_Litiji.public.md) 
+
+### [Šmartno_in_Litiji.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠmartno_in_Litiji.internal.md) 
+
+### [Šmartno_in_Litiji.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠmartno_in_Litiji.protect.md) 
+
+### [Šmartno_in_Litiji.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠmartno_in_Litiji.private.md) 
+
+### [Šmartno_in_Litiji.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠmartno_in_Litiji.personal.md) 
+
+### [Šmartno_in_Litiji.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~OsrednjeslovenskaŠmartno_in_Litiji.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Mežica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mežica|Mežica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mežica.public|Mežica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mežica.internal|Mežica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mežica.protect|Mežica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mežica.private|Mežica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mežica.personal|Mežica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Mežica.secret|Mežica.secret]] 
+
+### [Mežica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMežica.public.md) 
+
+### [Mežica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMežica.internal.md) 
+
+### [Mežica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMežica.protect.md) 
+
+### [Mežica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMežica.private.md) 
+
+### [Mežica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMežica.personal.md) 
+
+### [Mežica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaMežica.secret.md)
 

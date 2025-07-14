@@ -40,11 +40,16 @@ markerFolder: ./Rogaška_Slatina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Savinjska/Rogaška_Slatina|Rogaška_Slatina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Savinjska/Rogaška_Slatina.public|Rogaška_Slatina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Rogaška_Slatina.internal|Rogaška_Slatina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Savinjska/Rogaška_Slatina.protect|Rogaška_Slatina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Savinjska/Rogaška_Slatina.private|Rogaška_Slatina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Rogaška_Slatina.personal|Rogaška_Slatina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Savinjska/Rogaška_Slatina.secret|Rogaška_Slatina.secret]] 
+
+### [Rogaška_Slatina.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.public.md) 
+
+### [Rogaška_Slatina.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.internal.md) 
+
+### [Rogaška_Slatina.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.protect.md) 
+
+### [Rogaška_Slatina.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.private.md) 
+
+### [Rogaška_Slatina.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.personal.md) 
+
+### [Rogaška_Slatina.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaRogaška_Slatina.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Sežana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Sežana|Sežana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Sežana.public|Sežana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Sežana.internal|Sežana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Sežana.protect|Sežana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Sežana.private|Sežana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Sežana.personal|Sežana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Sežana.secret|Sežana.secret]] 
+
+### [Sežana.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaSežana.public.md) 
+
+### [Sežana.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaSežana.internal.md) 
+
+### [Sežana.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaSežana.protect.md) 
+
+### [Sežana.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaSežana.private.md) 
+
+### [Sežana.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaSežana.personal.md) 
+
+### [Sežana.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaSežana.secret.md)
 

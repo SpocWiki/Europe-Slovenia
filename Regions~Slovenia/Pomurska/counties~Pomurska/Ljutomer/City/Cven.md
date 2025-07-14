@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.55,16.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Cven|Cven]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Cven.public|Cven.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cven.internal|Cven.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cven.protect|Cven.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cven.private|Cven.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cven.personal|Cven.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cven.secret|Cven.secret]] 
+
+### [Cven.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.public.md) 
+
+### [Cven.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.internal.md) 
+
+### [Cven.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.protect.md) 
+
+### [Cven.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.private.md) 
+
+### [Cven.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.personal.md) 
+
+### [Cven.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~Pomurska\Ljutomer\CityCven.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.58,13.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Oltra|Oltra]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Oltra.public|Oltra.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Oltra.internal|Oltra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Oltra.protect|Oltra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Oltra.private|Oltra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Oltra.personal|Oltra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Oltra.secret|Oltra.secret]] 
+
+### [Oltra.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityOltra.public.md) 
+
+### [Oltra.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityOltra.internal.md) 
+
+### [Oltra.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityOltra.protect.md) 
+
+### [Oltra.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityOltra.private.md) 
+
+### [Oltra.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityOltra.personal.md) 
+
+### [Oltra.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityOltra.secret.md)
+

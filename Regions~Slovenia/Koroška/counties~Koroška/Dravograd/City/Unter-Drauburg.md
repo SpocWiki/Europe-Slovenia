@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.58,15.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg|Unter-Drauburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.public|Unter-Drauburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.internal|Unter-Drauburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.protect|Unter-Drauburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.private|Unter-Drauburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.personal|Unter-Drauburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Unter-Drauburg.secret|Unter-Drauburg.secret]] 
+
+### [Unter-Drauburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~Koroška\Dravograd\CityUnter-Drauburg.public.md) 
+
+### [Unter-Drauburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~Koroška\Dravograd\CityUnter-Drauburg.internal.md) 
+
+### [Unter-Drauburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~Koroška\Dravograd\CityUnter-Drauburg.protect.md) 
+
+### [Unter-Drauburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~Koroška\Dravograd\CityUnter-Drauburg.private.md) 
+
+### [Unter-Drauburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~Koroška\Dravograd\CityUnter-Drauburg.personal.md) 
+
+### [Unter-Drauburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~Koroška\Dravograd\CityUnter-Drauburg.secret.md)
+

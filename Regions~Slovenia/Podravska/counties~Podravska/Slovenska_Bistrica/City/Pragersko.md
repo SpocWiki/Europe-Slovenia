@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.42,15.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Pragersko|Pragersko]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Pragersko.public|Pragersko.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Pragersko.internal|Pragersko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Pragersko.protect|Pragersko.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Pragersko.private|Pragersko.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Pragersko.personal|Pragersko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Pragersko.secret|Pragersko.secret]] 
+
+### [Pragersko.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.public.md) 
+
+### [Pragersko.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.internal.md) 
+
+### [Pragersko.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.protect.md) 
+
+### [Pragersko.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.private.md) 
+
+### [Pragersko.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.personal.md) 
+
+### [Pragersko.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~Podravska\Slovenska_Bistrica\CityPragersko.secret.md)
+

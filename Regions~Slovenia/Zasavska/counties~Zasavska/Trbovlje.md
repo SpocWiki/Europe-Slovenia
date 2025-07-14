@@ -40,11 +40,16 @@ markerFolder: ./Trbovlje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Trbovlje|Trbovlje]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Trbovlje.public|Trbovlje.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Trbovlje.internal|Trbovlje.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Trbovlje.protect|Trbovlje.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Trbovlje.private|Trbovlje.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Trbovlje.personal|Trbovlje.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Zasavska~Central/Trbovlje.secret|Trbovlje.secret]] 
+
+### [Trbovlje.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaTrbovlje.public.md) 
+
+### [Trbovlje.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaTrbovlje.internal.md) 
+
+### [Trbovlje.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaTrbovlje.protect.md) 
+
+### [Trbovlje.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaTrbovlje.private.md) 
+
+### [Trbovlje.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaTrbovlje.personal.md) 
+
+### [Trbovlje.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Zasavska\counties~ZasavskaTrbovlje.secret.md)
 

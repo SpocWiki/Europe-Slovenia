@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.23,14.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Stein|Stein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Stein.public|Stein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stein.internal|Stein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stein.protect|Stein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stein.private|Stein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stein.personal|Stein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stein.secret|Stein.secret]] 
+
+### [Stein.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.public.md) 
+
+### [Stein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.internal.md) 
+
+### [Stein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.protect.md) 
+
+### [Stein.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.private.md) 
+
+### [Stein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.personal.md) 
+
+### [Stein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Kamnik\CityStein.secret.md)
+

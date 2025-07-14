@@ -40,11 +40,16 @@ markerFolder: ./Pivka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Pivka|Pivka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Pivka.public|Pivka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Pivka.internal|Pivka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Pivka.protect|Pivka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Pivka.private|Pivka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Pivka.personal|Pivka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Primorsko-notranjska/Pivka.secret|Pivka.secret]] 
+
+### [Pivka.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPivka.public.md) 
+
+### [Pivka.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPivka.internal.md) 
+
+### [Pivka.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPivka.protect.md) 
+
+### [Pivka.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPivka.private.md) 
+
+### [Pivka.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPivka.personal.md) 
+
+### [Pivka.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjskaPivka.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Ribnica_na_Pohorju/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ribnica_na_Pohorju|Ribnica_na_Pohorju]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ribnica_na_Pohorju.public|Ribnica_na_Pohorju.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ribnica_na_Pohorju.internal|Ribnica_na_Pohorju.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ribnica_na_Pohorju.protect|Ribnica_na_Pohorju.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ribnica_na_Pohorju.private|Ribnica_na_Pohorju.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ribnica_na_Pohorju.personal|Ribnica_na_Pohorju.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Ribnica_na_Pohorju.secret|Ribnica_na_Pohorju.secret]] 
+
+### [Ribnica_na_Pohorju.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.public.md) 
+
+### [Ribnica_na_Pohorju.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.internal.md) 
+
+### [Ribnica_na_Pohorju.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.protect.md) 
+
+### [Ribnica_na_Pohorju.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.private.md) 
+
+### [Ribnica_na_Pohorju.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.personal.md) 
+
+### [Ribnica_na_Pohorju.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaRibnica_na_Pohorju.secret.md)
 

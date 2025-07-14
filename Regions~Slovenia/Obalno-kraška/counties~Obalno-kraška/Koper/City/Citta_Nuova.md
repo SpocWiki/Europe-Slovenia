@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.5,13.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Citta_Nuova|Citta_Nuova]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Citta_Nuova.public|Citta_Nuova.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Citta_Nuova.internal|Citta_Nuova.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Citta_Nuova.protect|Citta_Nuova.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Citta_Nuova.private|Citta_Nuova.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Citta_Nuova.personal|Citta_Nuova.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Citta_Nuova.secret|Citta_Nuova.secret]] 
+
+### [Citta_Nuova.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.public.md) 
+
+### [Citta_Nuova.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.internal.md) 
+
+### [Citta_Nuova.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.protect.md) 
+
+### [Citta_Nuova.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.private.md) 
+
+### [Citta_Nuova.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.personal.md) 
+
+### [Citta_Nuova.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraška\Koper\CityCitta_Nuova.secret.md)
+

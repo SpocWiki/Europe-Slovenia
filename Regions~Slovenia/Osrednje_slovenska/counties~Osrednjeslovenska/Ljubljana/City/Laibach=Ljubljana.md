@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.05,14.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana|Laibach=Ljubljana]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.public|Laibach=Ljubljana.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.internal|Laibach=Ljubljana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.protect|Laibach=Ljubljana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.private|Laibach=Ljubljana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.personal|Laibach=Ljubljana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.secret|Laibach=Ljubljana.secret]] 
+
+### [Laibach=Ljubljana.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLaibach=Ljubljana.public.md) 
+
+### [Laibach=Ljubljana.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLaibach=Ljubljana.internal.md) 
+
+### [Laibach=Ljubljana.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLaibach=Ljubljana.protect.md) 
+
+### [Laibach=Ljubljana.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLaibach=Ljubljana.private.md) 
+
+### [Laibach=Ljubljana.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLaibach=Ljubljana.personal.md) 
+
+### [Laibach=Ljubljana.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLaibach=Ljubljana.secret.md)
+

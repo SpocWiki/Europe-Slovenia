@@ -40,11 +40,16 @@ markerFolder: ./Šentjur_pri_Celju/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šentjur_pri_Celju|Šentjur_pri_Celju]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šentjur_pri_Celju.public|Šentjur_pri_Celju.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šentjur_pri_Celju.internal|Šentjur_pri_Celju.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šentjur_pri_Celju.protect|Šentjur_pri_Celju.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šentjur_pri_Celju.private|Šentjur_pri_Celju.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šentjur_pri_Celju.personal|Šentjur_pri_Celju.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šentjur_pri_Celju.secret|Šentjur_pri_Celju.secret]] 
+
+### [Šentjur_pri_Celju.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠentjur_pri_Celju.public.md) 
+
+### [Šentjur_pri_Celju.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠentjur_pri_Celju.internal.md) 
+
+### [Šentjur_pri_Celju.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠentjur_pri_Celju.protect.md) 
+
+### [Šentjur_pri_Celju.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠentjur_pri_Celju.private.md) 
+
+### [Šentjur_pri_Celju.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠentjur_pri_Celju.personal.md) 
+
+### [Šentjur_pri_Celju.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠentjur_pri_Celju.secret.md)
 

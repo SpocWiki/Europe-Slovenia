@@ -40,11 +40,16 @@ markerFolder: ./Črna_na_Koroškem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Črna_na_Koroškem|Črna_na_Koroškem]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Črna_na_Koroškem.public|Črna_na_Koroškem.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Črna_na_Koroškem.internal|Črna_na_Koroškem.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Črna_na_Koroškem.protect|Črna_na_Koroškem.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Črna_na_Koroškem.private|Črna_na_Koroškem.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Črna_na_Koroškem.personal|Črna_na_Koroškem.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Črna_na_Koroškem.secret|Črna_na_Koroškem.secret]] 
+
+### [Črna_na_Koroškem.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaČrna_na_Koroškem.public.md) 
+
+### [Črna_na_Koroškem.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaČrna_na_Koroškem.internal.md) 
+
+### [Črna_na_Koroškem.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaČrna_na_Koroškem.protect.md) 
+
+### [Črna_na_Koroškem.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaČrna_na_Koroškem.private.md) 
+
+### [Črna_na_Koroškem.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaČrna_na_Koroškem.personal.md) 
+
+### [Črna_na_Koroškem.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaČrna_na_Koroškem.secret.md)
 

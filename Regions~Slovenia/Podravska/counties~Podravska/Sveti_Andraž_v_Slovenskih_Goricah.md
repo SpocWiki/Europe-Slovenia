@@ -40,11 +40,16 @@ markerFolder: ./Sveti_Andraž_v_Slovenskih_Goricah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Sveti_Andraž_v_Slovenskih_Goricah|Sveti_Andraž_v_Slovenskih_Goricah]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Sveti_Andraž_v_Slovenskih_Goricah.public|Sveti_Andraž_v_Slovenskih_Goricah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Sveti_Andraž_v_Slovenskih_Goricah.internal|Sveti_Andraž_v_Slovenskih_Goricah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Sveti_Andraž_v_Slovenskih_Goricah.protect|Sveti_Andraž_v_Slovenskih_Goricah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Sveti_Andraž_v_Slovenskih_Goricah.private|Sveti_Andraž_v_Slovenskih_Goricah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Sveti_Andraž_v_Slovenskih_Goricah.personal|Sveti_Andraž_v_Slovenskih_Goricah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Sveti_Andraž_v_Slovenskih_Goricah.secret|Sveti_Andraž_v_Slovenskih_Goricah.secret]] 
+
+### [Sveti_Andraž_v_Slovenskih_Goricah.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaSveti_Andraž_v_Slovenskih_Goricah.public.md) 
+
+### [Sveti_Andraž_v_Slovenskih_Goricah.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaSveti_Andraž_v_Slovenskih_Goricah.internal.md) 
+
+### [Sveti_Andraž_v_Slovenskih_Goricah.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaSveti_Andraž_v_Slovenskih_Goricah.protect.md) 
+
+### [Sveti_Andraž_v_Slovenskih_Goricah.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaSveti_Andraž_v_Slovenskih_Goricah.private.md) 
+
+### [Sveti_Andraž_v_Slovenskih_Goricah.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaSveti_Andraž_v_Slovenskih_Goricah.personal.md) 
+
+### [Sveti_Andraž_v_Slovenskih_Goricah.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaSveti_Andraž_v_Slovenskih_Goricah.secret.md)
 

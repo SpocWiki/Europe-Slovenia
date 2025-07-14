@@ -40,11 +40,16 @@ markerFolder: ./Gornja_Radgona/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Gornja_Radgona|Gornja_Radgona]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Gornja_Radgona.public|Gornja_Radgona.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Gornja_Radgona.internal|Gornja_Radgona.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Gornja_Radgona.protect|Gornja_Radgona.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Gornja_Radgona.private|Gornja_Radgona.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Gornja_Radgona.personal|Gornja_Radgona.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Gornja_Radgona.secret|Gornja_Radgona.secret]] 
+
+### [Gornja_Radgona.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.public.md) 
+
+### [Gornja_Radgona.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.internal.md) 
+
+### [Gornja_Radgona.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.protect.md) 
+
+### [Gornja_Radgona.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.private.md) 
+
+### [Gornja_Radgona.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.personal.md) 
+
+### [Gornja_Radgona.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaGornja_Radgona.secret.md)
 

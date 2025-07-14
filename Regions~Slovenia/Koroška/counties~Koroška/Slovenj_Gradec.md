@@ -40,11 +40,16 @@ markerFolder: ./Slovenj_Gradec/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Slovenj_Gradec|Slovenj_Gradec]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Slovenj_Gradec.public|Slovenj_Gradec.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Slovenj_Gradec.internal|Slovenj_Gradec.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Slovenj_Gradec.protect|Slovenj_Gradec.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Slovenj_Gradec.private|Slovenj_Gradec.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Slovenj_Gradec.personal|Slovenj_Gradec.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Koroška~Carinthia/Slovenj_Gradec.secret|Slovenj_Gradec.secret]] 
+
+### [Slovenj_Gradec.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.public.md) 
+
+### [Slovenj_Gradec.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.internal.md) 
+
+### [Slovenj_Gradec.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.protect.md) 
+
+### [Slovenj_Gradec.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.private.md) 
+
+### [Slovenj_Gradec.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.personal.md) 
+
+### [Slovenj_Gradec.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Koroška\counties~KoroškaSlovenj_Gradec.secret.md)
 

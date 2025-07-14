@@ -40,11 +40,16 @@ markerFolder: ./Divaca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Divaca|Divaca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Divaca.public|Divaca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Divaca.internal|Divaca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Divaca.protect|Divaca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Divaca.private|Divaca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Divaca.personal|Divaca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Divaca.secret|Divaca.secret]] 
+
+### [Divaca.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.public.md) 
+
+### [Divaca.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.internal.md) 
+
+### [Divaca.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.protect.md) 
+
+### [Divaca.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.private.md) 
+
+### [Divaca.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.personal.md) 
+
+### [Divaca.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaDivaca.secret.md)
 

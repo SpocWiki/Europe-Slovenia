@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.9,14.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Clusone|Clusone]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Clusone.public|Clusone.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Clusone.internal|Clusone.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Clusone.protect|Clusone.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Clusone.private|Clusone.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Clusone.personal|Clusone.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Clusone.secret|Clusone.secret]] 
+
+### [Clusone.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.public.md) 
+
+### [Clusone.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.internal.md) 
+
+### [Clusone.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.protect.md) 
+
+### [Clusone.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.private.md) 
+
+### [Clusone.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.personal.md) 
+
+### [Clusone.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ivancna_Gorica\CityClusone.secret.md)
+

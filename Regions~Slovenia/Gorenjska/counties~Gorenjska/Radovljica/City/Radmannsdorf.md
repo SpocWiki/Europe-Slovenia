@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.33,14.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf|Radmannsdorf]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.public|Radmannsdorf.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.internal|Radmannsdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.protect|Radmannsdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.private|Radmannsdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.personal|Radmannsdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.secret|Radmannsdorf.secret]] 
+
+### [Radmannsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.public.md) 
+
+### [Radmannsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.internal.md) 
+
+### [Radmannsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.protect.md) 
+
+### [Radmannsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.private.md) 
+
+### [Radmannsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.personal.md) 
+
+### [Radmannsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Gorenjska\counties~Gorenjska\Radovljica\CityRadmannsdorf.secret.md)
+

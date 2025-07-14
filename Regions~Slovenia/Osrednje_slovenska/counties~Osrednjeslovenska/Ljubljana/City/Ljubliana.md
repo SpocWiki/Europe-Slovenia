@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.05,14.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Slovenia/City/Ljubliana|Ljubliana]] 
-- [[../../../../../../_public/geo/Continent/Europe/Slovenia/City/Ljubliana.public|Ljubliana.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Slovenia/City/Ljubliana.internal|Ljubliana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Slovenia/City/Ljubliana.protect|Ljubliana.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Slovenia/City/Ljubliana.private|Ljubliana.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Slovenia/City/Ljubliana.personal|Ljubliana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Slovenia/City/Ljubliana.secret|Ljubliana.secret]] 
+
+### [Ljubliana.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.public.md) 
+
+### [Ljubliana.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.internal.md) 
+
+### [Ljubliana.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.protect.md) 
+
+### [Ljubliana.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.private.md) 
+
+### [Ljubliana.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.personal.md) 
+
+### [Ljubliana.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Osrednje_slovenska\counties~Osrednjeslovenska\Ljubljana\CityLjubliana.secret.md)
+

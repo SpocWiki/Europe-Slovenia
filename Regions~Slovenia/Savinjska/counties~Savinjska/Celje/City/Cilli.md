@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.27,15.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Cilli|Cilli]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Cilli.public|Cilli.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cilli.internal|Cilli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cilli.protect|Cilli.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cilli.private|Cilli.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cilli.personal|Cilli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cilli.secret|Cilli.secret]] 
+
+### [Cilli.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.public.md) 
+
+### [Cilli.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.internal.md) 
+
+### [Cilli.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.protect.md) 
+
+### [Cilli.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.private.md) 
+
+### [Cilli.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.personal.md) 
+
+### [Cilli.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~Savinjska\Celje\CityCilli.secret.md)
+

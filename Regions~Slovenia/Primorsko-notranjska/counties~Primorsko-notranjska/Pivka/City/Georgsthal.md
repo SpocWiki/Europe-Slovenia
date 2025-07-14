@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.7,14.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Georgsthal|Georgsthal]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Georgsthal.public|Georgsthal.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Georgsthal.internal|Georgsthal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Georgsthal.protect|Georgsthal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Georgsthal.private|Georgsthal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Georgsthal.personal|Georgsthal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Georgsthal.secret|Georgsthal.secret]] 
+
+### [Georgsthal.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.public.md) 
+
+### [Georgsthal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.internal.md) 
+
+### [Georgsthal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.protect.md) 
+
+### [Georgsthal.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.private.md) 
+
+### [Georgsthal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.personal.md) 
+
+### [Georgsthal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Pivka\CityGeorgsthal.secret.md)
+

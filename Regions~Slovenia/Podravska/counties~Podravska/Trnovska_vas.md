@@ -40,11 +40,16 @@ markerFolder: ./Trnovska_vas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Trnovska_vas|Trnovska_vas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Trnovska_vas.public|Trnovska_vas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Trnovska_vas.internal|Trnovska_vas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Trnovska_vas.protect|Trnovska_vas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Trnovska_vas.private|Trnovska_vas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Trnovska_vas.personal|Trnovska_vas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Podravska~Drava/Trnovska_vas.secret|Trnovska_vas.secret]] 
+
+### [Trnovska_vas.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.public.md) 
+
+### [Trnovska_vas.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.internal.md) 
+
+### [Trnovska_vas.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.protect.md) 
+
+### [Trnovska_vas.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.private.md) 
+
+### [Trnovska_vas.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.personal.md) 
+
+### [Trnovska_vas.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Podravska\counties~PodravskaTrnovska_vas.secret.md)
 

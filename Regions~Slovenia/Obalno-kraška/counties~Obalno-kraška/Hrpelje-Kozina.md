@@ -40,11 +40,16 @@ markerFolder: ./Hrpelje-Kozina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Hrpelje-Kozina|Hrpelje-Kozina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Hrpelje-Kozina.public|Hrpelje-Kozina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Hrpelje-Kozina.internal|Hrpelje-Kozina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Hrpelje-Kozina.protect|Hrpelje-Kozina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Hrpelje-Kozina.private|Hrpelje-Kozina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Hrpelje-Kozina.personal|Hrpelje-Kozina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Obalno-kraška/Hrpelje-Kozina.secret|Hrpelje-Kozina.secret]] 
+
+### [Hrpelje-Kozina.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaHrpelje-Kozina.public.md) 
+
+### [Hrpelje-Kozina.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaHrpelje-Kozina.internal.md) 
+
+### [Hrpelje-Kozina.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaHrpelje-Kozina.protect.md) 
+
+### [Hrpelje-Kozina.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaHrpelje-Kozina.private.md) 
+
+### [Hrpelje-Kozina.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaHrpelje-Kozina.personal.md) 
+
+### [Hrpelje-Kozina.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Obalno-kraška\counties~Obalno-kraškaHrpelje-Kozina.secret.md)
 

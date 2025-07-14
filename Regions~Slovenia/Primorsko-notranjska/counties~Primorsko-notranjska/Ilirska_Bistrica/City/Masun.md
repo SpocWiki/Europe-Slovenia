@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.63,14.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Masun|Masun]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Masun.public|Masun.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Masun.internal|Masun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Masun.protect|Masun.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Masun.private|Masun.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Masun.personal|Masun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Masun.secret|Masun.secret]] 
+
+### [Masun.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.public.md) 
+
+### [Masun.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.internal.md) 
+
+### [Masun.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.protect.md) 
+
+### [Masun.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.private.md) 
+
+### [Masun.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.personal.md) 
+
+### [Masun.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Primorsko-notranjska\counties~Primorsko-notranjska\Ilirska_Bistrica\CityMasun.secret.md)
+

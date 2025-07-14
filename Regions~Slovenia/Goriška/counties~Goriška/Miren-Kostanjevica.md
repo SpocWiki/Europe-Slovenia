@@ -40,11 +40,16 @@ markerFolder: ./Miren-Kostanjevica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Miren-Kostanjevica|Miren-Kostanjevica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Miren-Kostanjevica.public|Miren-Kostanjevica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Miren-Kostanjevica.internal|Miren-Kostanjevica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Miren-Kostanjevica.protect|Miren-Kostanjevica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Miren-Kostanjevica.private|Miren-Kostanjevica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Miren-Kostanjevica.personal|Miren-Kostanjevica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Goriška~Gorizia/Miren-Kostanjevica.secret|Miren-Kostanjevica.secret]] 
+
+### [Miren-Kostanjevica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.public.md) 
+
+### [Miren-Kostanjevica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.internal.md) 
+
+### [Miren-Kostanjevica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.protect.md) 
+
+### [Miren-Kostanjevica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.private.md) 
+
+### [Miren-Kostanjevica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.personal.md) 
+
+### [Miren-Kostanjevica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Goriška\counties~GoriškaMiren-Kostanjevica.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Šmartno_ob_Paki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmartno_ob_Paki|Šmartno_ob_Paki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmartno_ob_Paki.public|Šmartno_ob_Paki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmartno_ob_Paki.internal|Šmartno_ob_Paki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmartno_ob_Paki.protect|Šmartno_ob_Paki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmartno_ob_Paki.private|Šmartno_ob_Paki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmartno_ob_Paki.personal|Šmartno_ob_Paki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Savinjska/Šmartno_ob_Paki.secret|Šmartno_ob_Paki.secret]] 
+
+### [Šmartno_ob_Paki.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmartno_ob_Paki.public.md) 
+
+### [Šmartno_ob_Paki.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmartno_ob_Paki.internal.md) 
+
+### [Šmartno_ob_Paki.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmartno_ob_Paki.protect.md) 
+
+### [Šmartno_ob_Paki.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmartno_ob_Paki.private.md) 
+
+### [Šmartno_ob_Paki.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmartno_ob_Paki.personal.md) 
+
+### [Šmartno_ob_Paki.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Savinjska\counties~SavinjskaŠmartno_ob_Paki.secret.md)
 

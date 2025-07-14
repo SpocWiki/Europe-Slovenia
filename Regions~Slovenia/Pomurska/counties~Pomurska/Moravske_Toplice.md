@@ -40,11 +40,16 @@ markerFolder: ./Moravske_Toplice/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Moravske_Toplice|Moravske_Toplice]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Moravske_Toplice.public|Moravske_Toplice.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Moravske_Toplice.internal|Moravske_Toplice.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Moravske_Toplice.protect|Moravske_Toplice.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Moravske_Toplice.private|Moravske_Toplice.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Moravske_Toplice.personal|Moravske_Toplice.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Slovenia/Counties/Pomurska~Mura/Moravske_Toplice.secret|Moravske_Toplice.secret]] 
+
+### [Moravske_Toplice.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.public.md) 
+
+### [Moravske_Toplice.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.internal.md) 
+
+### [Moravske_Toplice.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.protect.md) 
+
+### [Moravske_Toplice.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.private.md) 
+
+### [Moravske_Toplice.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.personal.md) 
+
+### [Moravske_Toplice.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovenia\Regions~Slovenia\Pomurska\counties~PomurskaMoravske_Toplice.secret.md)
 
