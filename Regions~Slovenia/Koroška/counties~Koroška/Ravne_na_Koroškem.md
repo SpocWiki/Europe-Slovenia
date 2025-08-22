@@ -1,30 +1,29 @@
 ---
-location: [ 46.55 , 14.98 ] 
+location:
+  - 46.55
+  - 14.98
 type: geo-Region
 title: Ravne_na_Koroškem
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Ravne_na_Koroškem
-
+  - Ravne_na_Koroškem
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Ravne_na_Koroškem

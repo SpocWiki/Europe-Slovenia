@@ -1,37 +1,38 @@
 ---
 location:
-- 46.05
-- 14.52
+  - 46.05
+  - 14.52
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27016
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Slovenia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Slovenia
-- Eslovenia
-- Slovénie
-- سلوفينيا
-- 斯洛文尼亚
-- Словения
-- the Republic of Slovenia
-- la República de Eslovenia
+  - Slovenia
+  - Eslovenia
+  - Slovénie
+  - سلوفينيا
+  - 斯洛文尼亚
+  - Словения
+  - the Republic of Slovenia
+  - la República de Eslovenia
 Languages:
-- sl
-- sh
+  - sl
+  - sh
 ---
 
 

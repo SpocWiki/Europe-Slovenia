@@ -1,30 +1,29 @@
 ---
-location: [ 46.8 , 16.2 ] 
+location:
+  - 46.8
+  - 16.2
 type: geo-Region
 title: Gornji_Petrovci
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Gornji_Petrovci
-
+  - Gornji_Petrovci
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Gornji_Petrovci

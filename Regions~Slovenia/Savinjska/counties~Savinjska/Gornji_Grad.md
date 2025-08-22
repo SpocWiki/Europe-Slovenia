@@ -1,30 +1,29 @@
 ---
-location: [ 46.3 , 14.8 ] 
+location:
+  - 46.3
+  - 14.8
 type: geo-Region
 title: Gornji_Grad
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Gornji_Grad
-
+  - Gornji_Grad
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Gornji_Grad

@@ -1,30 +1,29 @@
 ---
-location: [ 45.9 , 14.6 ] 
+location:
+  - 45.9
+  - 14.6
 type: geo-Region
 title: Velike_Lašče
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Velike_Lašče
-
+  - Velike_Lašče
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Velike_Lašče

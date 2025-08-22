@@ -1,30 +1,29 @@
 ---
-location: [ 46.2 , 15.5 ] 
+location:
+  - 46.2
+  - 15.5
 type: geo-Region
 title: Šmarje_pri_Jelšah
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Šmarje_pri_Jelšah
-
+  - Šmarje_pri_Jelšah
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Šmarje_pri_Jelšah

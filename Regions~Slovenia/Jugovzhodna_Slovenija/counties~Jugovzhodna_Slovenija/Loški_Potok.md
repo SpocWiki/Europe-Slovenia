@@ -1,30 +1,29 @@
 ---
-location: [ 45.65 , 14.66 ] 
+location:
+  - 45.65
+  - 14.66
 type: geo-Region
 title: Loški_Potok
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Loški_Potok
-
+  - Loški_Potok
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Loški_Potok

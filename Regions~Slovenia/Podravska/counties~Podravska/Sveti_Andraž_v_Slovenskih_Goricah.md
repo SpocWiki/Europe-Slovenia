@@ -1,30 +1,29 @@
 ---
-location: [ 46.52 , 15.96 ] 
+location:
+  - 46.52
+  - 15.96
 type: geo-Region
 title: Sveti_Andraž_v_Slovenskih_Goricah
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Sveti_Andraž_v_Slovenskih_Goricah
-
+  - Sveti_Andraž_v_Slovenskih_Goricah
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Sveti_Andraž_v_Slovenskih_Goricah

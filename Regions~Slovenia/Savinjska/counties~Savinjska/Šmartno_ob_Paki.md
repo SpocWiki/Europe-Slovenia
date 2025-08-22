@@ -1,30 +1,29 @@
 ---
-location: [ 46.34 , 15.03 ] 
+location:
+  - 46.34
+  - 15.03
 type: geo-Region
 title: Šmartno_ob_Paki
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Šmartno_ob_Paki
-
+  - Šmartno_ob_Paki
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Šmartno_ob_Paki
