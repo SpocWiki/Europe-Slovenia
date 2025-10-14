@@ -112,7 +112,7 @@ State ::
 Country :: [[../../../../../Slovenia]] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Ljubljana,437|WD~Ljubljana,437]] 
 
