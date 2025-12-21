@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Slovenska_Bistrica
+  - Slovenska Bistrica
 location:
   - 46.4
   - 15.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Slovenska_Bistrica
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Slovenska_Bistrica

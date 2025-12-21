@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Moravske_Toplice
+  - Moravske Toplice
 location:
   - 46.7
   - 16.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Moravske_Toplice
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Moravske_Toplice

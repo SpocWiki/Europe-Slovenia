@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bistrica_ob_Sotli
+  - Bistrica ob Sotli
 location:
   - 46.13
   - 15.56
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bistrica_ob_Sotli
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Bistrica_ob_Sotli

@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Slovenia
+  - Eslovenia
+  - Slovénie
+  - سلوفينيا
+  - 斯洛文尼亚
+  - Словения
+  - the Republic of Slovenia
+  - la República de Eslovenia
+  - ReadMe
 location:
   - 46.05
   - 14.52
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Slovenia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Slovenia
-  - Eslovenia
-  - Slovénie
-  - سلوفينيا
-  - 斯洛文尼亚
-  - Словения
-  - the Republic of Slovenia
-  - la República de Eslovenia
+publishDate: ''
+expiryDate: ''
 Languages:
   - sl
   - sh

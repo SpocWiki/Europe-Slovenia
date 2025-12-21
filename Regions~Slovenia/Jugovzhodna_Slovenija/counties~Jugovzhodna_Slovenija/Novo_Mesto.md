@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Novo_Mesto
+  - Novo Mesto
 location:
   - 45.8
   - 15.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Novo_Mesto
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Novo_Mesto

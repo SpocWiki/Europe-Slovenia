@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Velika_Polana
+  - Velika Polana
 location:
   - 46.58
   - 16.36
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Velika_Polana
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Velika_Polana

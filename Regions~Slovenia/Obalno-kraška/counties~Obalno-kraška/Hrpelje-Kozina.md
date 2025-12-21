@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hrpelje-Kozina
 location:
   - 45.6
   - 14
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Hrpelje-Kozina
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Hrpelje-Kozina

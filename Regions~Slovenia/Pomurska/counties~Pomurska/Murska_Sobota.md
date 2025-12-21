@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Murska_Sobota
+  - Murska Sobota
 location:
   - 46.65
   - 16.18
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Murska_Sobota
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Murska_Sobota

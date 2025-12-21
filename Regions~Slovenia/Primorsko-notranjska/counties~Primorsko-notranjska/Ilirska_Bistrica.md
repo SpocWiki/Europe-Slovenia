@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ilirska_Bistrica
+  - Ilirska Bistrica
 location:
   - 45.6
   - 14.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ilirska_Bistrica
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ilirska_Bistrica

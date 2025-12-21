@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Šmartno_in_Litiji
+  - Šmartno in Litiji
 location:
   - 46.01
   - 14.84
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Šmartno_in_Litiji
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Šmartno_in_Litiji

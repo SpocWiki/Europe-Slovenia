@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Loški_Potok
+  - Loški Potok
 location:
   - 45.65
   - 14.66
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Loški_Potok
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Loški_Potok

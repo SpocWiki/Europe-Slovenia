@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nova_Goriška
+  - Nova Goriška
 location:
   - 46
   - 13.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Nova_Goriška
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Nova_Goriška

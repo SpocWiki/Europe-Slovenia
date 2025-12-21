@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Slovenj_Gradec
+  - Slovenj Gradec
 location:
   - 46.5
   - 15.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Slovenj_Gradec
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Slovenj_Gradec

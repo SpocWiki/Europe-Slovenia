@@ -1,16 +1,19 @@
 ---
-location: [45.78,14.22] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Adelsberg
+location:
+  - 45.78
+  - 14.22
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28668
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

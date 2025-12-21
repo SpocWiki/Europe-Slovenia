@@ -1,16 +1,20 @@
 ---
-location: [45.63,14.47] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Lefkova_dolina
+  - Lefkova dolina
+location:
+  - 45.63
+  - 14.47
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31912
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

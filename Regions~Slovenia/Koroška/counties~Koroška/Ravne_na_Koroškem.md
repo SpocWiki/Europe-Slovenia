@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ravne_na_Koroškem
+  - Ravne na Koroškem
 location:
   - 46.55
   - 14.98
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ravne_na_Koroškem
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ravne_na_Koroškem

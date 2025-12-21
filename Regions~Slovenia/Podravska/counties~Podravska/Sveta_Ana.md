@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sveta_Ana
+  - Sveta Ana
 location:
   - 46.65
   - 15.84
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sveta_Ana
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sveta_Ana

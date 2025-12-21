@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ivancna_Gorica
+  - Ivancna Gorica
 location:
   - 45.9
   - 14.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ivancna_Gorica
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ivancna_Gorica

@@ -1,16 +1,19 @@
 ---
-location: [46.23,14.35] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Krainburg
+location:
+  - 46.23
+  - 14.35
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31610
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

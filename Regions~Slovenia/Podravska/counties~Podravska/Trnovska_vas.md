@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Trnovska_vas
+  - Trnovska vas
 location:
   - 46.52
   - 15.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Trnovska_vas
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Trnovska_vas

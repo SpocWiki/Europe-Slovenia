@@ -2,6 +2,7 @@
 aliases:
   - Jugovzhodna Slovenija
   - Slovenia-South-East
+  - Jugovzhodna_Slovenija
 ---
 
 # [[Jugovzhodna_Slovenija]] 

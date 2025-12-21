@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Dolenjske_Toplice
+  - Dolenjske Toplice
 location:
   - 45.7
   - 15
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Dolenjske_Toplice
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Dolenjske_Toplice

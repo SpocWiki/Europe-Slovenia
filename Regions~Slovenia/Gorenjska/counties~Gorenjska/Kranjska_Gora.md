@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kranjska_Gora
+  - Kranjska Gora
 location:
   - 46.45
   - 13.84
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kranjska_Gora
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Kranjska_Gora]]

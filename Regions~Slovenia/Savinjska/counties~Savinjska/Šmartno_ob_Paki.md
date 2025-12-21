@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Šmartno_ob_Paki
+  - Šmartno ob Paki
 location:
   - 46.34
   - 15.03
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Šmartno_ob_Paki
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Šmartno_ob_Paki

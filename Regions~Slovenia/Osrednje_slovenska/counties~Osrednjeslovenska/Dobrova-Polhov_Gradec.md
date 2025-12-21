@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Dobrova-Polhov_Gradec
+  - Dobrova-Polhov Gradec
 location:
   - 46.1
   - 14.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Dobrova-Polhov_Gradec
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Dobrova-Polhov_Gradec

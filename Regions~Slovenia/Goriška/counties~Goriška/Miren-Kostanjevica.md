@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Miren-Kostanjevica
 location:
   - 45.9
   - 13.6
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Miren-Kostanjevica
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Miren-Kostanjevica

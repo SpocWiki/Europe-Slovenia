@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Gorenja_vas-Poljane
+  - Gorenja vas-Poljane
 location:
   - 46.1
   - 14.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Gorenja_vas-Poljane
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Gorenja_Vas-Poljane]] 

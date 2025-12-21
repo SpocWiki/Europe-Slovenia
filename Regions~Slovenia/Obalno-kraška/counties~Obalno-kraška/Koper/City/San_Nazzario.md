@@ -1,16 +1,20 @@
 ---
-location: [45.53,13.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - San_Nazzario
+  - San Nazzario
+location:
+  - 45.53
+  - 13.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33919
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

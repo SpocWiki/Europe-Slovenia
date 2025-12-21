@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Črna_na_Koroškem
+  - Črna na Koroškem
 location:
   - 46.5
   - 14.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Črna_na_Koroškem
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Črna_na_Koroškem

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Lovrenc_na_Pohorju
+  - Lovrenc na Pohorju
 location:
   - 46.5
   - 15.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Lovrenc_na_Pohorju
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Lovrenc_na_Pohorju

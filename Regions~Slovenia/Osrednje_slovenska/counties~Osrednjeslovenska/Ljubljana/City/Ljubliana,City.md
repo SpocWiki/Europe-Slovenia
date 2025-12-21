@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ljubliana
+  - Ljubliana,City
 has_id_wikidata: Q437
 location:
   - 46.05
@@ -34,62 +35,62 @@ demonym:
   - Ljubljanaise
   - Ljubljančan
   - Ljubljančanka
-head_of_government: "[[_Standards/WikiData/WD~Zoran_Janković,220521]]"
+head_of_government: '[[_Standards/WikiData/WD~Zoran_Janković,220521]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Regesta_Imperii,316838]]"
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - '[[_Standards/WikiData/WD~Regesta_Imperii,316838]]'
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Topographia_Provinciarum_Austriacarum,19230692]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Topographia_Provinciarum_Austriacarum,19230692]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Ljubljanica,339990]]"
-  - "[[_Standards/WikiData/WD~Sava,14383]]"
+  - '[[_Standards/WikiData/WD~Ljubljanica,339990]]'
+  - '[[_Standards/WikiData/WD~Sava,14383]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-  - "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
-  - "[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]"
+  - '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+  - '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]'
+  - '[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]'
 award_received: "[[_Standards/WikiData/WD~Order_of_the_People's_Hero,1262166]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
-  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Ljubljana_City_Municipality,3434113]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7976857,7976857]]"
-category_for_honorary_citizens_of_entity: "[[_Standards/WikiData/WD~Q10087769,10087769]]"
-different_from: "[[_Standards/WikiData/WD~Q16572919,16572919]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Ljubljana,23581597]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ljubljana,106020239]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
+  - '[[_Standards/WikiData/WD~national_capital,108178728]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Ljubljana_City_Municipality,3434113]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7976857,7976857]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q10087769,10087769]]'
+different_from: '[[_Standards/WikiData/WD~Q16572919,16572919]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Ljubljana,23581597]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Ljubljana,106020239]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Tbilisi,994]]"
-  - "[[_Standards/WikiData/WD~Graz,13298]]"
+  - '[[_Standards/WikiData/WD~Tbilisi,994]]'
+  - '[[_Standards/WikiData/WD~Graz,13298]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-  - "[[_Standards/WikiData/WD~Central_European_Time,25989]]"
-official_language: "[[_Standards/WikiData/WD~Slovene,9063]]"
-capital_of: "[[_Standards/WikiData/WD~Slovenia,215]]"
-country: "[[_Standards/WikiData/WD~Slovenia,215]]"
+  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+  - '[[_Standards/WikiData/WD~Central_European_Time,25989]]'
+official_language: '[[_Standards/WikiData/WD~Slovene,9063]]'
+capital_of: '[[_Standards/WikiData/WD~Slovenia,215]]'
+country: '[[_Standards/WikiData/WD~Slovenia,215]]'
 elevation_above_sea_level: 309
 male_population: 147230
 area: 163.76
-postal_code: "1000"
-local_dialing_code: "01"
+postal_code: 1000
+local_dialing_code: 01
 female_population: 139515
 population: 284293
 BHCL_UUID:
   - 5271da3b-81e4-4a51-9ef8-1816d0900232
   - a2efe6de-a2a4-42d9-9724-c7dccd4fd7a1
-OmegaWiki_Defined_Meaning: "362138"
+OmegaWiki_Defined_Meaning: 362138
 Provenio_UUID: a2d82365-c9ea-4f53-be21-718f3ea1a103
 Commons_gallery: Ljubljana
 Commons_category: Ljubljana
 subreddit: Ljubljana
 licence_plate_code: LJ
-WOEID: "530634"
+WOEID: 530634
 coordinate_location: Point(14.506111111 46.051388888)
 time_of_earliest_written_record: 1144-01-01T00:00:00Z
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Center%20of%20Ljubljana%20from%20Air.jpg

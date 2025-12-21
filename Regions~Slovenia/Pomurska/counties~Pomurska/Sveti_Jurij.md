@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sveti_Jurij
+  - Sveti Jurij
 location:
   - 46.56
   - 16.03
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sveti_Jurij
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sveti_Jurij

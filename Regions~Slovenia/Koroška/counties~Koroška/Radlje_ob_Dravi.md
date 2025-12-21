@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Radlje_ob_Dravi
+  - Radlje ob Dravi
 location:
   - 46.59
   - 15.24
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Radlje_ob_Dravi
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Radlje_ob_Dravi

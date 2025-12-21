@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ribnica_na_Pohorju
+  - Ribnica na Pohorju
 location:
   - 46.5
   - 15.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ribnica_na_Pohorju
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ribnica_na_Pohorju

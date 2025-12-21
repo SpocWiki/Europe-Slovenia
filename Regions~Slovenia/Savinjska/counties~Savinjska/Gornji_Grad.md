@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Gornji_Grad
+  - Gornji Grad
 location:
   - 46.3
   - 14.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Gornji_Grad
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Gornji_Grad

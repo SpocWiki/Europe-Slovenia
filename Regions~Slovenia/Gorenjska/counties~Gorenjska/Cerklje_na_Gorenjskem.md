@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cerklje_na_Gorenjskem
+  - Cerklje na Gorenjskem
 location:
   - 46.26
   - 14.51
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Cerklje_na_Gorenjskem
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Cerklje_na_Gorenjskem

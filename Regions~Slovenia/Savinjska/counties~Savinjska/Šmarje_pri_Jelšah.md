@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Šmarje_pri_Jelšah
+  - Šmarje pri Jelšah
 location:
   - 46.2
   - 15.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Šmarje_pri_Jelšah
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Šmarje_pri_Jelšah

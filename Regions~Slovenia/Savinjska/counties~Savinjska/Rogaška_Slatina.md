@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rogaška_Slatina
+  - Rogaška Slatina
 location:
   - 46.24
   - 15.64
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Rogaška_Slatina
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Rogaška_Slatina

@@ -2,6 +2,7 @@
 aliases:
   - Osrednje slovenska
   - Central Slovenia
+  - Osrednje_slovenska
 ---
 # [[Osrednje_slovenska]] 
 
