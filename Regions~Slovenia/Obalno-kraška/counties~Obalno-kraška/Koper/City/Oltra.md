@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.75
 dv_has_place_latitude: 45.58
-dv_name: Oltra
+dv_has_name_: Oltra
 dv_Country: "[[../../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

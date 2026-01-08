@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.68
 dv_has_place_latitude: 46.58
-dv_name: Marbur=Maribor
+dv_has_name_: Marbur=Maribor
 dv_Country: "[[../../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

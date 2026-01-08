@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.55
 dv_has_place_latitude: 46.33
-dv_name: Flitsch
+dv_has_name_: Flitsch
 dv_Country: "[[../../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

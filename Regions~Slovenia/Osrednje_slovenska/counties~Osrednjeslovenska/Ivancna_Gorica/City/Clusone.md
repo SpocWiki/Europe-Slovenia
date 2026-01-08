@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.85
 dv_has_place_latitude: 45.9
-dv_name: Clusone
+dv_has_name_: Clusone
 dv_Country: "[[../../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

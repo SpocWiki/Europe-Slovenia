@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.25
 dv_has_place_latitude: 46.27
-dv_name: Cilli
+dv_has_name_: Cilli
 dv_Country: "[[../../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

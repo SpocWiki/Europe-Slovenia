@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.6
 dv_has_place_latitude: 45.9
-dv_name: Rann
+dv_has_name_: Rann
 dv_Country: "[[../../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.37
 dv_has_place_latitude: 45.7
-dv_name: Georgsthal
+dv_has_name_: Georgsthal
 dv_Country: "[[../../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

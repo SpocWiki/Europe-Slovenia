@@ -42,15 +42,13 @@ dv_ISO4217-currency_country_name: SLOVENIA
 dv_Telephone: 386
 dv_Global: true
 dv_Global_Name: World
-dv_name: Slovenia
-dv_name-en:
-  - Slovenia
-  - Slovenia
-dv_name-es: Eslovenia
-dv_name-fr: Slovénie
-dv_name-cn: 斯洛文尼亚
-dv_name-ar: سلوفينيا
-dv_name-ru: Словения
+dv_has_name_: Slovenia
+dv_has_name_en: Slovenia
+dv_has_name_es: Eslovenia
+dv_has_name_fr: Slovénie
+dv_has_name_cn: 斯洛文尼亚
+dv_has_name_ar: سلوفينيا
+dv_has_name_ru: Словения
 dv_CLDR_display_name: Slovenia
 dv_UNTERM_English: Slovenia
 dv_UNTERM_English_Formal: the Republic of Slovenia
@@ -87,7 +85,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 705
 dv_ISO2: SI
 dv_ISO3: SVN
-dv_name-de: Slowenien
+dv_has_name_de: Slowenien
 dv_Area-Total: 20255
 dv_Area-Land: 20120
 dv_Continent: "[[../../../Europe]]"
@@ -113,12 +111,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Slovenia ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Slovenia ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -178,8 +176,8 @@ geojsonFolder: .///
 markerFolder: .//
 ```
 
-[name-en::Slovenia] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Slovenia] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

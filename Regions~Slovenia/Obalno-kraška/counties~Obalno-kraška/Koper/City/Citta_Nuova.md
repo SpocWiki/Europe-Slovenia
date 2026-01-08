@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.72
 dv_has_place_latitude: 45.5
-dv_name: Citta Nuova
+dv_has_name_: Citta Nuova
 dv_Country: "[[../../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

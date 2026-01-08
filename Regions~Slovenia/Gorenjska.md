@@ -2,7 +2,7 @@
 aliases:
   - Gorenjska
   - Upper Carniola
-dv_name-en: Slovenia
+dv_has_name_en: Slovenia
 ---
 # [[Gorenjska]] 
 
@@ -20,7 +20,7 @@ geojsonFolder: ./Gorenjska//
 markerFolder: ./Gorenjska//
 ```
 
-name-en = `=this.dv_name-en`
+has_name_en = `=this.dv_has_name_en`
 ## All Contents
 
 ```folderv

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.68
 dv_has_place_latitude: 45.93
-dv_name: Goertz=Goriza
+dv_has_name_: Goertz=Goriza
 dv_Country: "[[../../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

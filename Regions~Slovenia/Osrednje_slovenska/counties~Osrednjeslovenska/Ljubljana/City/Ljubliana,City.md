@@ -103,7 +103,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2021-07-28%20Ljubljana
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.52
 dv_has_place_latitude: 46.05
-dv_name: Ljubliana
+dv_has_name_: Ljubliana
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Ljubljana,437|WD~Ljubljana,437]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Ljubljana,437|WD~Ljubljana,437]]"

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.02
 dv_has_place_latitude: 46.58
-dv_name: Unter-Drauburg
+dv_has_name_: Unter-Drauburg
 dv_Country: "[[../../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

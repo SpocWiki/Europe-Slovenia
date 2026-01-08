@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.52
 dv_has_place_latitude: 46.05
-dv_name: Laibach=Ljubljana
+dv_has_name_: Laibach=Ljubljana
 dv_Country: "[[../../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

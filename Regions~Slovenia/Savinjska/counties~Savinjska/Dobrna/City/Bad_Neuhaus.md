@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.2
 dv_has_place_latitude: 46.33
-dv_name: Bad Neuhaus
+dv_has_name_: Bad Neuhaus
 dv_Country: "[[../../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
