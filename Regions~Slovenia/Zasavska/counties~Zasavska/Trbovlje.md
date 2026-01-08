@@ -40,17 +40,17 @@ markerFolder: ./Trbovlje/
 
 ## Confidential Links & Embeds: 
 
-### [Trbovlje](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje|Trbovlje]] 
 
-### [Trbovlje.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.public|Trbovlje.public]] 
 
-### [Trbovlje.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.internal|Trbovlje.internal]] 
 
-### [Trbovlje.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.protect|Trbovlje.protect]] 
 
-### [Trbovlje.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.private|Trbovlje.private]] 
 
-### [Trbovlje.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.personal|Trbovlje.personal]] 
 
-### [Trbovlje.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Trbovlje.secret|Trbovlje.secret]] 
 

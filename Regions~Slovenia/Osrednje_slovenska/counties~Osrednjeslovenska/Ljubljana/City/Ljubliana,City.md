@@ -100,22 +100,29 @@ official_name: Ljubljana
 GitHub_topic: ljubljana
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20Ljubljana%20si.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2021-07-28%20Ljubljana-0881.jpg
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.52
+dv_has_place_latitude: 46.05
+dv_name: Ljubliana
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Ljubljana,437|WD~Ljubljana,437]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Ljubljana,437|WD~Ljubljana,437]]"
 ---
 
 # [[Ljubliana,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.52] 
-[has_place_latitude::46.05] 
-[name::Ljubliana] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../../Slovenia]] 
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Ljubljana,437|WD~Ljubljana,437]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -130,17 +137,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ljubliana](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City|Ljubliana,City]] 
 
-### [Ljubliana.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City.public|Ljubliana,City.public]] 
 
-### [Ljubliana.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City.internal|Ljubliana,City.internal]] 
 
-### [Ljubliana.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City.protect|Ljubliana,City.protect]] 
 
-### [Ljubliana.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City.private|Ljubliana,City.private]] 
 
-### [Ljubliana.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City.personal|Ljubliana,City.personal]] 
 
-### [Ljubliana.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City.secret|Ljubliana,City.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Slovenske_Konjice/
 
 ## Confidential Links & Embeds: 
 
-### [Slovenske_Konjice](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice|Slovenske_Konjice]] 
 
-### [Slovenske_Konjice.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.public|Slovenske_Konjice.public]] 
 
-### [Slovenske_Konjice.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.internal|Slovenske_Konjice.internal]] 
 
-### [Slovenske_Konjice.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.protect|Slovenske_Konjice.protect]] 
 
-### [Slovenske_Konjice.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.private|Slovenske_Konjice.private]] 
 
-### [Slovenske_Konjice.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.personal|Slovenske_Konjice.personal]] 
 
-### [Slovenske_Konjice.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Slovenske_Konjice.secret|Slovenske_Konjice.secret]] 
 

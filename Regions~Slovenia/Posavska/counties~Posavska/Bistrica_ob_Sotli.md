@@ -41,17 +41,17 @@ markerFolder: ./Bistrica_ob_Sotli/
 
 ## Confidential Links & Embeds: 
 
-### [Bistrica_ob_Sotli](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli|Bistrica_ob_Sotli]] 
 
-### [Bistrica_ob_Sotli.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.public|Bistrica_ob_Sotli.public]] 
 
-### [Bistrica_ob_Sotli.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.internal|Bistrica_ob_Sotli.internal]] 
 
-### [Bistrica_ob_Sotli.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.protect|Bistrica_ob_Sotli.protect]] 
 
-### [Bistrica_ob_Sotli.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.private|Bistrica_ob_Sotli.private]] 
 
-### [Bistrica_ob_Sotli.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.personal|Bistrica_ob_Sotli.personal]] 
 
-### [Bistrica_ob_Sotli.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Posavska/counties~Posavska/Bistrica_ob_Sotli.secret|Bistrica_ob_Sotli.secret]] 
 

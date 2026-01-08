@@ -41,17 +41,17 @@ markerFolder: ./Selnica_ob_Dravi/
 
 ## Confidential Links & Embeds: 
 
-### [Selnica_ob_Dravi](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi|Selnica_ob_Dravi]] 
 
-### [Selnica_ob_Dravi.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.public|Selnica_ob_Dravi.public]] 
 
-### [Selnica_ob_Dravi.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.internal|Selnica_ob_Dravi.internal]] 
 
-### [Selnica_ob_Dravi.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.protect|Selnica_ob_Dravi.protect]] 
 
-### [Selnica_ob_Dravi.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.private|Selnica_ob_Dravi.private]] 
 
-### [Selnica_ob_Dravi.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.personal|Selnica_ob_Dravi.personal]] 
 
-### [Selnica_ob_Dravi.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Selnica_ob_Dravi.secret|Selnica_ob_Dravi.secret]] 
 

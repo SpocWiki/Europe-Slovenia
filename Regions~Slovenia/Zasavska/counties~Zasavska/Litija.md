@@ -40,17 +40,17 @@ markerFolder: ./Litija/
 
 ## Confidential Links & Embeds: 
 
-### [Litija](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija|Litija]] 
 
-### [Litija.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.public|Litija.public]] 
 
-### [Litija.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.internal|Litija.internal]] 
 
-### [Litija.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.protect|Litija.protect]] 
 
-### [Litija.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.private|Litija.private]] 
 
-### [Litija.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.personal|Litija.personal]] 
 
-### [Litija.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Zasavska/counties~Zasavska/Litija.secret|Litija.secret]] 
 

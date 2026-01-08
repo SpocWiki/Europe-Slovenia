@@ -41,17 +41,17 @@ markerFolder: ./Šentjur_pri_Celju/
 
 ## Confidential Links & Embeds: 
 
-### [Šentjur_pri_Celju](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju|Šentjur_pri_Celju]] 
 
-### [Šentjur_pri_Celju.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.public|Šentjur_pri_Celju.public]] 
 
-### [Šentjur_pri_Celju.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.internal|Šentjur_pri_Celju.internal]] 
 
-### [Šentjur_pri_Celju.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.protect|Šentjur_pri_Celju.protect]] 
 
-### [Šentjur_pri_Celju.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.private|Šentjur_pri_Celju.private]] 
 
-### [Šentjur_pri_Celju.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.personal|Šentjur_pri_Celju.personal]] 
 
-### [Šentjur_pri_Celju.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šentjur_pri_Celju.secret|Šentjur_pri_Celju.secret]] 
 

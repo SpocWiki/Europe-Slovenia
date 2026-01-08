@@ -40,17 +40,17 @@ markerFolder: ./Miren-Kostanjevica/
 
 ## Confidential Links & Embeds: 
 
-### [Miren-Kostanjevica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica|Miren-Kostanjevica]] 
 
-### [Miren-Kostanjevica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.public|Miren-Kostanjevica.public]] 
 
-### [Miren-Kostanjevica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.internal|Miren-Kostanjevica.internal]] 
 
-### [Miren-Kostanjevica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.protect|Miren-Kostanjevica.protect]] 
 
-### [Miren-Kostanjevica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.private|Miren-Kostanjevica.private]] 
 
-### [Miren-Kostanjevica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.personal|Miren-Kostanjevica.personal]] 
 
-### [Miren-Kostanjevica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica.secret|Miren-Kostanjevica.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Lovrenc_na_Pohorju/
 
 ## Confidential Links & Embeds: 
 
-### [Lovrenc_na_Pohorju](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju|Lovrenc_na_Pohorju]] 
 
-### [Lovrenc_na_Pohorju.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.public|Lovrenc_na_Pohorju.public]] 
 
-### [Lovrenc_na_Pohorju.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.internal|Lovrenc_na_Pohorju.internal]] 
 
-### [Lovrenc_na_Pohorju.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.protect|Lovrenc_na_Pohorju.protect]] 
 
-### [Lovrenc_na_Pohorju.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.private|Lovrenc_na_Pohorju.private]] 
 
-### [Lovrenc_na_Pohorju.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.personal|Lovrenc_na_Pohorju.personal]] 
 
-### [Lovrenc_na_Pohorju.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Lovrenc_na_Pohorju.secret|Lovrenc_na_Pohorju.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Ravne_na_Koroškem/
 
 ## Confidential Links & Embeds: 
 
-### [Ravne_na_Koroškem](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem|Ravne_na_Koroškem]] 
 
-### [Ravne_na_Koroškem.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.public|Ravne_na_Koroškem.public]] 
 
-### [Ravne_na_Koroškem.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.internal|Ravne_na_Koroškem.internal]] 
 
-### [Ravne_na_Koroškem.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.protect|Ravne_na_Koroškem.protect]] 
 
-### [Ravne_na_Koroškem.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.private|Ravne_na_Koroškem.private]] 
 
-### [Ravne_na_Koroškem.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.personal|Ravne_na_Koroškem.personal]] 
 
-### [Ravne_na_Koroškem.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Ravne_na_Koroškem.secret|Ravne_na_Koroškem.secret]] 
 

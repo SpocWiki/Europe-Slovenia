@@ -41,17 +41,17 @@ markerFolder: ./Črna_na_Koroškem/
 
 ## Confidential Links & Embeds: 
 
-### [Črna_na_Koroškem](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem|Črna_na_Koroškem]] 
 
-### [Črna_na_Koroškem.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.public|Črna_na_Koroškem.public]] 
 
-### [Črna_na_Koroškem.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.internal|Črna_na_Koroškem.internal]] 
 
-### [Črna_na_Koroškem.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.protect|Črna_na_Koroškem.protect]] 
 
-### [Črna_na_Koroškem.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.private|Črna_na_Koroškem.private]] 
 
-### [Črna_na_Koroškem.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.personal|Črna_na_Koroškem.personal]] 
 
-### [Črna_na_Koroškem.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Koroška/counties~Koroška/Črna_na_Koroškem.secret|Črna_na_Koroškem.secret]] 
 

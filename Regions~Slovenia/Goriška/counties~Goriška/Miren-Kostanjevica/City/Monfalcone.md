@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32553
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.58
+dv_has_place_latitude: 45.82
+dv_name: Monfalcone
+dv_Country: "[[../../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.58] 
-[has_place_latitude::45.82] 
-[name::Monfalcone] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../../Europe~South/Italy]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monfalcone](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone|Monfalcone]] 
 
-### [Monfalcone.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.public|Monfalcone.public]] 
 
-### [Monfalcone.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.internal|Monfalcone.internal]] 
 
-### [Monfalcone.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.protect|Monfalcone.protect]] 
 
-### [Monfalcone.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.private|Monfalcone.private]] 
 
-### [Monfalcone.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.personal|Monfalcone.personal]] 
 
-### [Monfalcone.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Miren-Kostanjevica/City/Monfalcone.secret|Monfalcone.secret]] 
 

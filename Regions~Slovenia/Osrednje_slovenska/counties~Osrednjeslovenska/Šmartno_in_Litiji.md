@@ -41,17 +41,17 @@ markerFolder: ./Šmartno_in_Litiji/
 
 ## Confidential Links & Embeds: 
 
-### [Šmartno_in_Litiji](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji|Šmartno_in_Litiji]] 
 
-### [Šmartno_in_Litiji.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.public|Šmartno_in_Litiji.public]] 
 
-### [Šmartno_in_Litiji.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.internal|Šmartno_in_Litiji.internal]] 
 
-### [Šmartno_in_Litiji.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.protect|Šmartno_in_Litiji.protect]] 
 
-### [Šmartno_in_Litiji.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.private|Šmartno_in_Litiji.private]] 
 
-### [Šmartno_in_Litiji.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.personal|Šmartno_in_Litiji.personal]] 
 
-### [Šmartno_in_Litiji.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Šmartno_in_Litiji.secret|Šmartno_in_Litiji.secret]] 
 

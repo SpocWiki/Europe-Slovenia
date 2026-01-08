@@ -41,17 +41,17 @@ markerFolder: ./Slovenska_Bistrica/
 
 ## Confidential Links & Embeds: 
 
-### [Slovenska_Bistrica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica|Slovenska_Bistrica]] 
 
-### [Slovenska_Bistrica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.public|Slovenska_Bistrica.public]] 
 
-### [Slovenska_Bistrica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.internal|Slovenska_Bistrica.internal]] 
 
-### [Slovenska_Bistrica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.protect|Slovenska_Bistrica.protect]] 
 
-### [Slovenska_Bistrica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.private|Slovenska_Bistrica.private]] 
 
-### [Slovenska_Bistrica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.personal|Slovenska_Bistrica.personal]] 
 
-### [Slovenska_Bistrica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Podravska/counties~Podravska/Slovenska_Bistrica.secret|Slovenska_Bistrica.secret]] 
 

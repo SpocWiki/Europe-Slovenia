@@ -46,17 +46,17 @@ markerFolder: ./Cerklje_na_Gorenjskem/
 
 ## Confidential Links & Embeds: 
 
-### [Cerklje_na_Gorenjskem](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem|Cerklje_na_Gorenjskem]] 
 
-### [Cerklje_na_Gorenjskem.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.public|Cerklje_na_Gorenjskem.public]] 
 
-### [Cerklje_na_Gorenjskem.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.internal|Cerklje_na_Gorenjskem.internal]] 
 
-### [Cerklje_na_Gorenjskem.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.protect|Cerklje_na_Gorenjskem.protect]] 
 
-### [Cerklje_na_Gorenjskem.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.private|Cerklje_na_Gorenjskem.private]] 
 
-### [Cerklje_na_Gorenjskem.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.personal|Cerklje_na_Gorenjskem.personal]] 
 
-### [Cerklje_na_Gorenjskem.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska/counties~Gorenjska/Cerklje_na_Gorenjskem.secret|Cerklje_na_Gorenjskem.secret]] 
 

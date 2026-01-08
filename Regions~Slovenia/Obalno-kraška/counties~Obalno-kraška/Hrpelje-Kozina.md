@@ -40,17 +40,17 @@ markerFolder: ./Hrpelje-Kozina/
 
 ## Confidential Links & Embeds: 
 
-### [Hrpelje-Kozina](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina|Hrpelje-Kozina]] 
 
-### [Hrpelje-Kozina.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.public|Hrpelje-Kozina.public]] 
 
-### [Hrpelje-Kozina.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.internal|Hrpelje-Kozina.internal]] 
 
-### [Hrpelje-Kozina.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.protect|Hrpelje-Kozina.protect]] 
 
-### [Hrpelje-Kozina.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.private|Hrpelje-Kozina.private]] 
 
-### [Hrpelje-Kozina.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.personal|Hrpelje-Kozina.personal]] 
 
-### [Hrpelje-Kozina.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Obalno-kraška/counties~Obalno-kraška/Hrpelje-Kozina.secret|Hrpelje-Kozina.secret]] 
 

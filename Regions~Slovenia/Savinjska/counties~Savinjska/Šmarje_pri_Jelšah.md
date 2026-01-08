@@ -41,17 +41,17 @@ markerFolder: ./Šmarje_pri_Jelšah/
 
 ## Confidential Links & Embeds: 
 
-### [Šmarje_pri_Jelšah](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah|Šmarje_pri_Jelšah]] 
 
-### [Šmarje_pri_Jelšah.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.public|Šmarje_pri_Jelšah.public]] 
 
-### [Šmarje_pri_Jelšah.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.internal|Šmarje_pri_Jelšah.internal]] 
 
-### [Šmarje_pri_Jelšah.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.protect|Šmarje_pri_Jelšah.protect]] 
 
-### [Šmarje_pri_Jelšah.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.private|Šmarje_pri_Jelšah.private]] 
 
-### [Šmarje_pri_Jelšah.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.personal|Šmarje_pri_Jelšah.personal]] 
 
-### [Šmarje_pri_Jelšah.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Savinjska/counties~Savinjska/Šmarje_pri_Jelšah.secret|Šmarje_pri_Jelšah.secret]] 
 

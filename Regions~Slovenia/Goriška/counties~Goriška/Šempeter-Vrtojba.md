@@ -40,17 +40,17 @@ markerFolder: ./Šempeter-Vrtojba/
 
 ## Confidential Links & Embeds: 
 
-### [Šempeter-Vrtojba](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba|Šempeter-Vrtojba]] 
 
-### [Šempeter-Vrtojba.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.public|Šempeter-Vrtojba.public]] 
 
-### [Šempeter-Vrtojba.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.internal|Šempeter-Vrtojba.internal]] 
 
-### [Šempeter-Vrtojba.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.protect|Šempeter-Vrtojba.protect]] 
 
-### [Šempeter-Vrtojba.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.private|Šempeter-Vrtojba.private]] 
 
-### [Šempeter-Vrtojba.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.personal|Šempeter-Vrtojba.personal]] 
 
-### [Šempeter-Vrtojba.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Goriška/counties~Goriška/Šempeter-Vrtojba.secret|Šempeter-Vrtojba.secret]] 
 

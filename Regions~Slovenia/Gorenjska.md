@@ -2,6 +2,7 @@
 aliases:
   - Gorenjska
   - Upper Carniola
+dv_name-en: Slovenia
 ---
 # [[Gorenjska]] 
 
@@ -19,7 +20,7 @@ geojsonFolder: ./Gorenjska//
 markerFolder: ./Gorenjska//
 ```
 
-[name-en::Slovenia]
+name-en = `=this.dv_name-en`
 ## All Contents
 
 ```folderv
@@ -39,17 +40,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Gorenjska](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska|Gorenjska]] 
 
-### [Gorenjska.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.public|Gorenjska.public]] 
 
-### [Gorenjska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.internal|Gorenjska.internal]] 
 
-### [Gorenjska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.protect|Gorenjska.protect]] 
 
-### [Gorenjska.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.private|Gorenjska.private]] 
 
-### [Gorenjska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.personal|Gorenjska.personal]] 
 
-### [Gorenjska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia/Regions~Slovenia/Gorenjska.secret|Gorenjska.secret]] 
 
