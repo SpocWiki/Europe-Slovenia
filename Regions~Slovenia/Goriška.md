@@ -3,6 +3,7 @@ aliases:
   - Goriška
   - Gorizia
 ---
+
 # [[Goriška]] 
 
 ## Edit

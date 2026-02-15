@@ -4,6 +4,7 @@ aliases:
   - Upper Carniola
 dv_has_name_en: Slovenia
 ---
+
 # [[Gorenjska]] 
 
 ## Edit
