@@ -62,7 +62,7 @@ dv_UNTERM_Chinese_Formal: 斯洛文尼亚共和国
 dv_UNTERM_French_Formal: la République de Slovénie
 dv_UNTERM_Russian: Словения
 dv_UNTERM_Russian_Formal: Республика Словения
-dv_Region_Name: "[[../../../Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[ReadMe]]"
 dv_Sub-region_Name: "[[Southern Europe]]"
 dv_Region: 150
@@ -88,11 +88,11 @@ dv_ISO3: SVN
 dv_has_name_de: Slowenien
 dv_Area-Total: 20255
 dv_Area-Land: 20120
-dv_Continent: "[[../../../Europe]]"
+dv_Continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: SLO
-dv_Capital: "[[Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City]]"
+dv_Capital: "[[Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City|Ljubliana,City]]"
 dv_Alcohol-l: 15.2
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 14.52
 dv_has_place_latitude: 46.05
 dv_developed_developing_countries: Developed

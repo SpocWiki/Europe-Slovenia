@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 30673
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 13.68
 dv_has_place_latitude: 45.93
 dv_has_name: Goertz=Goriza
-dv_Country: "[[../../../../../../Europe~South/Italy]]"
+dv_Country: "[[../../../../../../Europe~South/Italy|Italy]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 29631
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 14.85
 dv_has_place_latitude: 45.9
 dv_has_name: Clusone
-dv_Country: "[[../../../../../../Europe~South/Italy]]"
+dv_Country: "[[../../../../../../Europe~South/Italy|Italy]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
