@@ -41,7 +41,7 @@ defaultZoom: 11
 zoomFeatures: false 
 geojsonFolder: ./Cerklje_na_Gorenjskem/
 markerFolder: ./Cerklje_na_Gorenjskem/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

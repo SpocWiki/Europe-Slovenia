@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Radlje_ob_Dravi/
 markerFolder: ./Radlje_ob_Dravi/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

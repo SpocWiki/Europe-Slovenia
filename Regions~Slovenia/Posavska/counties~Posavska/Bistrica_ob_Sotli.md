@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bistrica_ob_Sotli/
 markerFolder: ./Bistrica_ob_Sotli/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

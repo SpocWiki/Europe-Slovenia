@@ -43,7 +43,7 @@ zoomFeatures: false
 id: Kranj
 geojsonFolder: ./Kranj/
 markerFolder: ./Kranj/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

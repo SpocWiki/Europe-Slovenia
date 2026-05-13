@@ -38,7 +38,7 @@ coordinates: [[Strugnango]]
 markerFile: [[Strugnango]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

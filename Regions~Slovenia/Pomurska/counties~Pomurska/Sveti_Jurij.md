@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sveti_Jurij/
 markerFolder: ./Sveti_Jurij/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

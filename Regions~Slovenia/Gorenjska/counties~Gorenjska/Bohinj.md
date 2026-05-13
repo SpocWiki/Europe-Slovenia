@@ -41,7 +41,7 @@ defaultZoom: 11
 zoomFeatures: false 
 geojsonFolder: ./Bohinj/
 markerFolder: ./Bohinj/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

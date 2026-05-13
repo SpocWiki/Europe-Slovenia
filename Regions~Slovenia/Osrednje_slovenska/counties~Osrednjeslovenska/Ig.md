@@ -34,7 +34,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ig/
 markerFolder: ./Ig/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

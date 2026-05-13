@@ -44,7 +44,7 @@ zoomFeatures: false
 id: Gorenja_vas-Poljane
 geojsonFolder: ./Gorenja_Vas-Poljane/
 markerFolder: ./Gorenja_Vas-Poljane/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

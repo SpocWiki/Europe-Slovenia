@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Miklavž_na_Dravskem_polju/
 markerFolder: ./Miklavž_na_Dravskem_polju/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

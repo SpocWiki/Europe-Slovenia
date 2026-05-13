@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Dolenjske_Toplice/
 markerFolder: ./Dolenjske_Toplice/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Trnovska_vas/
 markerFolder: ./Trnovska_vas/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

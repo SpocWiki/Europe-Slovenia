@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gornji_Petrovci/
 markerFolder: ./Gornji_Petrovci/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

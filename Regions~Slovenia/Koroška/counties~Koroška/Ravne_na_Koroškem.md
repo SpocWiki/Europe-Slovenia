@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ravne_na_Koroškem/
 markerFolder: ./Ravne_na_Koroškem/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

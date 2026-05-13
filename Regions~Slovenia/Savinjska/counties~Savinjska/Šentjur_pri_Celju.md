@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Šentjur_pri_Celju/
 markerFolder: ./Šentjur_pri_Celju/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

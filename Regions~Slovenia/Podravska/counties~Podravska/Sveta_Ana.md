@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sveta_Ana/
 markerFolder: ./Sveta_Ana/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

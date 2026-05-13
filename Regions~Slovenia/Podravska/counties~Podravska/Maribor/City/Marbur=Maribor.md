@@ -38,7 +38,7 @@ coordinates: [[Marbur=Maribor]]
 markerFile: [[Marbur=Maribor]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

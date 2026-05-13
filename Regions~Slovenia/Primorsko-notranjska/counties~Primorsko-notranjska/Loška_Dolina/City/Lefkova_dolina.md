@@ -39,7 +39,7 @@ coordinates: [[Lefkova_dolina]]
 markerFile: [[Lefkova_dolina]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

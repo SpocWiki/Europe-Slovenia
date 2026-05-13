@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sveti_Andraž_v_Slovenskih_Goricah/
 markerFolder: ./Sveti_Andraž_v_Slovenskih_Goricah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

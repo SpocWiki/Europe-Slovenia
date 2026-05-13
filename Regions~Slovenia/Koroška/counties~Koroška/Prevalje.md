@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Prevalje/
 markerFolder: ./Prevalje/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

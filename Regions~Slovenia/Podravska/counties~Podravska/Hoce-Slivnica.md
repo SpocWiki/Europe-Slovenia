@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Hoce-Slivnica/
 markerFolder: ./Hoce-Slivnica/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

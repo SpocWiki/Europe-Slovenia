@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Lovrenc_na_Pohorju/
 markerFolder: ./Lovrenc_na_Pohorju/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

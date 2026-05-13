@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Dobrova-Polhov_Gradec/
 markerFolder: ./Dobrova-Polhov_Gradec/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

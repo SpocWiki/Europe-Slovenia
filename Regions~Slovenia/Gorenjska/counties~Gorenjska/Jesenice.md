@@ -42,7 +42,7 @@ defaultZoom: 11
 zoomFeatures: false 
 geojsonFolder: ./Jesenice/
 markerFolder: ./Jesenice/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

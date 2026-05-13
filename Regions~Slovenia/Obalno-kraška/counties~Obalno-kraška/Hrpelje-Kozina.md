@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Hrpelje-Kozina/
 markerFolder: ./Hrpelje-Kozina/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

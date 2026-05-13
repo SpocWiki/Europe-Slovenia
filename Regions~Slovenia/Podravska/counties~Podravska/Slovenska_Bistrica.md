@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Slovenska_Bistrica/
 markerFolder: ./Slovenska_Bistrica/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

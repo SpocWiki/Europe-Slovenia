@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Loška_dolina/
 markerFolder: ./Loška_dolina/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

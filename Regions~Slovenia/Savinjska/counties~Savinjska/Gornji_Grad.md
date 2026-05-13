@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gornji_Grad/
 markerFolder: ./Gornji_Grad/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

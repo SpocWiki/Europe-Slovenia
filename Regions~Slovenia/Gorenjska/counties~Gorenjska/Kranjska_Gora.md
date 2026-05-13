@@ -43,7 +43,7 @@ geojsonFolder: ./Kranjska_Gora//
 markerFolder: ./Kranjska_Gora//
 unit: meters
 scale: 1
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

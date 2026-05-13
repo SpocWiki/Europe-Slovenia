@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Štore/
 markerFolder: ./Štore/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

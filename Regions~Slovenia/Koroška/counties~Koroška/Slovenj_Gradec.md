@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Slovenj_Gradec/
 markerFolder: ./Slovenj_Gradec/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

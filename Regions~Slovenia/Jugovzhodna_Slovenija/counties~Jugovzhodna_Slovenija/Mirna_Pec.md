@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mirna_Pec/
 markerFolder: ./Mirna_Pec/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

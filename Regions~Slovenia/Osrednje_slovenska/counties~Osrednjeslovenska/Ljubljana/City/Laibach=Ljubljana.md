@@ -38,7 +38,7 @@ coordinates: [[Laibach=Ljubljana]]
 markerFile: [[Laibach=Ljubljana]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

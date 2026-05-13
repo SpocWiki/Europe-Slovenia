@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Brežice/
 markerFolder: ./Brežice/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

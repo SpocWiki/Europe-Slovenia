@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Selnica_ob_Dravi/
 markerFolder: ./Selnica_ob_Dravi/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

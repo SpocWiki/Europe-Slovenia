@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Moravske_Toplice/
 markerFolder: ./Moravske_Toplice/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

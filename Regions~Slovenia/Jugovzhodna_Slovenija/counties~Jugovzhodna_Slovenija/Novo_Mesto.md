@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Novo_Mesto/
 markerFolder: ./Novo_Mesto/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

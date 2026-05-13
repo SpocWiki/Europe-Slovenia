@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Šmartno_ob_Paki/
 markerFolder: ./Šmartno_ob_Paki/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

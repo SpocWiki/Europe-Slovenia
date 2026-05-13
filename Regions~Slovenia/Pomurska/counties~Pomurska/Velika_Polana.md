@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Velika_Polana/
 markerFolder: ./Velika_Polana/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

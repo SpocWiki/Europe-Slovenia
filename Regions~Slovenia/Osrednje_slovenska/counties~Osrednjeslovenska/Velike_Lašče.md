@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Velike_Lašče/
 markerFolder: ./Velike_Lašče/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

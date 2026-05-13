@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Slovenske_Konjice/
 markerFolder: ./Slovenske_Konjice/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

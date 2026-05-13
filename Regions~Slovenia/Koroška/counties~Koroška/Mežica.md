@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mežica/
 markerFolder: ./Mežica/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

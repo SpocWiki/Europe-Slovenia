@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Šmarje_pri_Jelšah/
 markerFolder: ./Šmarje_pri_Jelšah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ilirska_Bistrica/
 markerFolder: ./Ilirska_Bistrica/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

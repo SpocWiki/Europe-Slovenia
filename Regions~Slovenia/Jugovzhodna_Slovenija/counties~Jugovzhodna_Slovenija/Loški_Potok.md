@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Loški_Potok/
 markerFolder: ./Loški_Potok/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

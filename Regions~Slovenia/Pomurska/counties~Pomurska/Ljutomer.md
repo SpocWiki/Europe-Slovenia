@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ljutomer/
 markerFolder: ./Ljutomer/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

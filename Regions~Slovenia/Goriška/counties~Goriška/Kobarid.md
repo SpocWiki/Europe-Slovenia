@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kobarid/
 markerFolder: ./Kobarid/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

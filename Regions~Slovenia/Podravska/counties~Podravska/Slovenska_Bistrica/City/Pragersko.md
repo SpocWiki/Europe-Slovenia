@@ -38,7 +38,7 @@ coordinates: [[Pragersko]]
 markerFile: [[Pragersko]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

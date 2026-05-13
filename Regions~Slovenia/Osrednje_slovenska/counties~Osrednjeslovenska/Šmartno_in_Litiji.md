@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Šmartno_in_Litiji/
 markerFolder: ./Šmartno_in_Litiji/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ivancna_Gorica/
 markerFolder: ./Ivancna_Gorica/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

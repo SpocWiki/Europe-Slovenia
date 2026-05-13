@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Rogaška_Slatina/
 markerFolder: ./Rogaška_Slatina/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

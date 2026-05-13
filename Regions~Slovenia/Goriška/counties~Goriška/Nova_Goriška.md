@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nova_Goriška/
 markerFolder: ./Nova_Goriška/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

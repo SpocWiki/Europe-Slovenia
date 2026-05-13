@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gornja_Radgona/
 markerFolder: ./Gornja_Radgona/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

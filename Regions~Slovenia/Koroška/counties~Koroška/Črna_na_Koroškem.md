@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Črna_na_Koroškem/
 markerFolder: ./Črna_na_Koroškem/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

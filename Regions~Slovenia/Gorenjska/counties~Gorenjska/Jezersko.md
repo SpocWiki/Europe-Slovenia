@@ -42,7 +42,7 @@ defaultZoom: 11
 zoomFeatures: false 
 geojsonFolder: ./Jezersko/
 markerFolder: ./Jezersko/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

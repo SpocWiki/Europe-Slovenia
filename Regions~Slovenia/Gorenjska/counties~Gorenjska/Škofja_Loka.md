@@ -44,7 +44,7 @@ zoomFeatures: false
 id: Škofja_Loka
 geojsonFolder: ./Škofja_Loka/
 markerFolder: ./Škofja_Loka/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

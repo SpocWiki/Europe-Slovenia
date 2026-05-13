@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Dol_pri_Ljubljani/
 markerFolder: ./Dol_pri_Ljubljani/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

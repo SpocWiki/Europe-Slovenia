@@ -39,7 +39,7 @@ coordinates: [[Bad_Neuhaus]]
 markerFile: [[Bad_Neuhaus]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

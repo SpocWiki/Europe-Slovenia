@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Murska_Sobota/
 markerFolder: ./Murska_Sobota/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

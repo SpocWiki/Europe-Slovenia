@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ribnica_na_Pohorju/
 markerFolder: ./Ribnica_na_Pohorju/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
